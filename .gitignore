@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 Gemfile.lock
 s3_website.yml
+.java-version
