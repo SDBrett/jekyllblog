@@ -1,0 +1,13 @@
+title : Automated Ramblings
+description: ''
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+plugins: 
+  - jekyll-gist
+  - jekyll-paginate
+  
+permalink: brettsitblog/:year/:month/:title.html

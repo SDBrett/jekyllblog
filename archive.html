@@ -1,0 +1,25 @@
+---
+layout: page
+title: Archive
+---
+
+{% assign counter = 0 %}
+
+{% for post in site.posts %}
+    {% assign counter = counter | plus: 1 %}
+    {% if counter > 50 %}
+    <div class="sixteen wide column">
+            <a class="older-post-header" href="{{ BASE_PATH }}{{ post.url }}">
+                <div class="ui middle aligned selection list">
+                    <div class="item">
+                        <div class="header">
+                            {{ post.title | strip_html | truncatewords: 15 }}
+                            <!--{{ post.title | strip_html | truncatewords: 15 }}-->
+                            <small class="small-date">{{ post.date | date_to_string }}</small>
+                        </div>
+                        {{ post.content | strip_html | truncatewords: 30 }}
+                    </div>
+                </div>
+            </a>
+    {% endif %}
+{% endfor %}
