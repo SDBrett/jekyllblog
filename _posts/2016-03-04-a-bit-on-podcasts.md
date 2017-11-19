@@ -4,7 +4,7 @@ title: A bit on podcasts
 date: 2016-03-04T12:43:13+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/03/a-bit-on-podcasts/
+permalink: /BrettsITBlog/2016/03/a-bit-on-podcasts/
 categories:
   - Uncategorized
 ---

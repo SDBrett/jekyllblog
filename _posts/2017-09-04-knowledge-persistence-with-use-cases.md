@@ -4,7 +4,7 @@ title: 'Study: Knowledge Persistence with Use Cases'
 date: 2017-09-04T20:36:49+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/09/knowledge-persistence-with-use-cases/
+permalink: /BrettsITBlog/2017/09/knowledge-persistence-with-use-cases/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/05/learning-what-counts.jpg
@@ -66,4 +66,4 @@ First, understand the problem that lead you to choose a product to learn. From t
 
 Solve the problem to a production ready standard and ensure that you understand what you did and why you did it. This builds good habits and context which enforces your learning.
 
-I have previously written about the importance of context. That is available [here](https://sdbrett.com/brettsitblog/2016/11/career-learning-new-skills/).
+I have previously written about the importance of context. That is available [here](https://sdbrett.com/BrettsITBlog/2016/11/career-learning-new-skills/).

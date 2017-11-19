@@ -4,7 +4,7 @@ title: 'PowerCLI: Offline install Powershell v3 and v4'
 date: 2017-11-02T11:25:25+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/11/powercli-offline-install-powershell-v3-v4/
+permalink: /BrettsITBlog/2017/11/powercli-offline-install-powershell-v3-v4/
 academia_post_display_home:
   - ""
 categories:

@@ -4,7 +4,7 @@ title: 'Cloud Considerations: Data Gravity'
 date: 2016-11-30T10:14:15+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/cloud-considerations-data-gravity/
+permalink: /BrettsITBlog/2016/11/cloud-considerations-data-gravity/
 academia_post_display_home:
   - ""
 categories:

@@ -4,7 +4,7 @@ title: vBrownBag APAC Admin Utility Series
 date: 2016-02-12T15:42:35+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/02/vbrownbag-apac-admin-utility-servies/
+permalink: /BrettsITBlog/2016/02/vbrownbag-apac-admin-utility-servies/
 categories:
   - vBrownBag
 ---

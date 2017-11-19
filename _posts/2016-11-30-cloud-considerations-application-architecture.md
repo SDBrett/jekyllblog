@@ -4,7 +4,7 @@ title: 'Cloud Considerations: Application Architecture'
 date: 2016-11-30T10:50:27+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/cloud-considerations-application-architecture/
+permalink: /BrettsITBlog/2016/11/cloud-considerations-application-architecture/
 academia_post_display_home:
   - ""
 categories:

@@ -4,7 +4,7 @@ title: vBrownBag Talks at vForumAU 2016
 date: 2016-11-17T21:31:46+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/vbrownbag-vforumau-2016/
+permalink: /BrettsITBlog/2016/11/vbrownbag-vforumau-2016/
 academia_post_display_home:
   - ""
 categories:

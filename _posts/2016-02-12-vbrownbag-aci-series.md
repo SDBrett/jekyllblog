@@ -4,7 +4,7 @@ title: vBrownBag ACI Series
 date: 2016-02-12T13:50:06+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/02/vbrownbag-aci-series/
+permalink: /BrettsITBlog/2016/02/vbrownbag-aci-series/
 categories:
   - vBrownBag
 ---

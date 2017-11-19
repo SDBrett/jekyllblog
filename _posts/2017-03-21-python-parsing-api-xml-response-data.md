@@ -4,7 +4,7 @@ title: 'Python: Parsing API XML Response Data'
 date: 2017-03-21T21:46:32+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/03/python-parsing-api-xml-response-data/
+permalink: /BrettsITBlog/2017/03/python-parsing-api-xml-response-data/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/03/Python.png

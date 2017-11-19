@@ -4,7 +4,7 @@ title: NSX Layer2 Security
 date: 2016-11-21T22:08:58+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/nsx-layer2-security/
+permalink: /BrettsITBlog/2016/11/nsx-layer2-security/
 academia_post_display_home:
   - ""
 categories:

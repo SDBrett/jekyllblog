@@ -4,7 +4,7 @@ title: VMware Hands on Labs for testing
 date: 2016-07-24T08:49:26+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/07/vmware-hands-on-labs-for-testing/
+permalink: /BrettsITBlog/2016/07/vmware-hands-on-labs-for-testing/
 categories:
   - Vmware
 ---

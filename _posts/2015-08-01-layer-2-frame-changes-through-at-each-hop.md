@@ -4,7 +4,7 @@ title: Layer 2 Frame changes through at each hop
 date: 2015-08-01T19:11:40+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2015/08/layer-2-frame-changes-through-at-each-hop/
+permalink: /BrettsITBlog/2015/08/layer-2-frame-changes-through-at-each-hop/
 categories:
   - CCNA
 ---

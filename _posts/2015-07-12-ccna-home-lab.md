@@ -4,7 +4,7 @@ title: CCNA Home LAB
 date: 2015-07-12T22:22:06+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2015/07/ccna-home-lab/
+permalink: /BrettsITBlog/2015/07/ccna-home-lab/
 categories:
   - CCNA
 ---

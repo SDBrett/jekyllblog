@@ -4,7 +4,7 @@ title: 'Review: JetBrains PyCharm'
 date: 2017-02-24T21:24:42+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/02/review-jetbrains-pycharm/
+permalink: /BrettsITBlog/2017/02/review-jetbrains-pycharm/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/02/PyCharm_Logo.png

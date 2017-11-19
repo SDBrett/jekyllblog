@@ -4,7 +4,7 @@ title: 'Cumulus Linux: Network changes with a CICD pipeline'
 date: 2017-05-29T21:31:53+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/05/cumulus-linux-network-changes-cicd-pipeline/
+permalink: /BrettsITBlog/2017/05/cumulus-linux-network-changes-cicd-pipeline/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/05/cumulus-networks-linux-network-os.jpg

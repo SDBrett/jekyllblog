@@ -4,7 +4,7 @@ title: First Experience with VDM30in30
 date: 2016-12-01T08:35:11+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/12/first-experience-with-vdm30in30/
+permalink: /BrettsITBlog/2016/12/first-experience-with-vdm30in30/
 academia_post_display_home:
   - ""
 categories:

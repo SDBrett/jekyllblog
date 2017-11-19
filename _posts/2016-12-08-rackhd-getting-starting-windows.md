@@ -4,7 +4,7 @@ title: RackHD Getting Starting on Windows
 date: 2016-12-08T23:21:15+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/12/rackhd-getting-starting-windows/
+permalink: /BrettsITBlog/2016/12/rackhd-getting-starting-windows/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/12/pm2-config.png

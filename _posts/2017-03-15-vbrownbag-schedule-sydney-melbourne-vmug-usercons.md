@@ -4,7 +4,7 @@ title: vBrownBag Schedule Sydney and Melbourne VMUG UserCons
 date: 2017-03-15T21:48:09+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/03/vbrownbag-schedule-sydney-melbourne-vmug-usercons/
+permalink: /BrettsITBlog/2017/03/vbrownbag-schedule-sydney-melbourne-vmug-usercons/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/10/VBB_logo_landsc_transp565x209px.png

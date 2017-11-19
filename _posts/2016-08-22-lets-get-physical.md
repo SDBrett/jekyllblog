@@ -4,7 +4,7 @@ title: 'Let&#8217;s get Physical'
 date: 2016-08-22T07:18:45+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/08/lets-get-physical/
+permalink: /BrettsITBlog/2016/08/lets-get-physical/
 categories:
   - Uncategorized
 tags:

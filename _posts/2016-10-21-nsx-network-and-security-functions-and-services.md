@@ -4,7 +4,7 @@ title: NSX Network and Security Functions and Services
 date: 2016-10-21T09:30:46+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/10/nsx-network-and-security-functions-and-services/
+permalink: /BrettsITBlog/2016/10/nsx-network-and-security-functions-and-services/
 categories:
   - NSX
   - Vmware

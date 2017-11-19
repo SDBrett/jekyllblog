@@ -4,7 +4,7 @@ title: Working in SMB Space
 date: 2016-02-29T20:01:23+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/02/working-in-smb-space/
+permalink: /BrettsITBlog/2016/02/working-in-smb-space/
 categories:
   - SMB
 ---

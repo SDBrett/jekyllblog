@@ -4,12 +4,12 @@ title: MS Local Administrator Password Solution. Part 2
 date: 2016-08-09T21:36:34+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/08/ms-local-administrator-password-solution-part-2/
+permalink: /BrettsITBlog/2016/08/ms-local-administrator-password-solution-part-2/
 categories:
   - Server 2012
   - Windows
 ---
-In [part 1](https://sdbrett.com/brettsitblog/2016/06/ms-local-administrator-password-solution-part-1/), we looked at making the necessary changes to AD for LAPS, from extended the schema to modifying the object attribute security.
+In [part 1](https://sdbrett.com/BrettsITBlog/2016/06/ms-local-administrator-password-solution-part-1/), we looked at making the necessary changes to AD for LAPS, from extended the schema to modifying the object attribute security.
 
 In this part, we will go through deploying the LAPS agent on a workstation. This process is very straight forward, we will use GPO to deploy the agent to our workstation and confirm that the password is now random and stored in AD.
 

@@ -4,7 +4,7 @@ title: Canary Token
 date: 2016-02-15T14:18:42+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/02/canary-token/
+permalink: /BrettsITBlog/2016/02/canary-token/
 categories:
   - Uncategorized
 ---

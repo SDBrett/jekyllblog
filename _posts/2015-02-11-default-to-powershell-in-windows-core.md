@@ -4,7 +4,7 @@ title: Default to Powershell in Windows Core
 date: 2015-02-11T04:46:37+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2015/02/default-to-powershell-in-windows-core/
+permalink: /BrettsITBlog/2015/02/default-to-powershell-in-windows-core/
 categories:
   - Powershell
   - Server 2012

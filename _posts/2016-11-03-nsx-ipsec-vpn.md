@@ -4,7 +4,7 @@ title: 'NSX: IPsec VPN'
 date: 2016-11-03T23:33:05+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/nsx-ipsec-vpn/
+permalink: /BrettsITBlog/2016/11/nsx-ipsec-vpn/
 academia_post_display_home:
   - ""
 categories:

@@ -4,7 +4,7 @@ title: Quality of Service with NSX
 date: 2016-11-13T16:14:53+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/qos-configuration-for-nsx/
+permalink: /BrettsITBlog/2016/11/qos-configuration-for-nsx/
 academia_post_display_home:
   - ""
 categories:

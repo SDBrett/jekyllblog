@@ -4,7 +4,7 @@ title: 'Book Review: Data Storage Networking: Real World Skills for the CompTIA 
 date: 2016-08-28T21:37:30+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/08/book-review-data-storage-networking-real-world-skills-for-the-comptia-storage-certification-and-beyond/
+permalink: /BrettsITBlog/2016/08/book-review-data-storage-networking-real-world-skills-for-the-comptia-storage-certification-and-beyond/
 categories:
   - Book Review
 tags:

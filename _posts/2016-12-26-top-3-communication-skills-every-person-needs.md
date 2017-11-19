@@ -4,7 +4,7 @@ title: Top 3 Communication Skills Every IT Person Needs
 date: 2016-12-26T06:51:21+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/12/top-3-communication-skills-every-person-needs/
+permalink: /BrettsITBlog/2016/12/top-3-communication-skills-every-person-needs/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/12/Communication.jpg

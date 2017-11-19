@@ -4,7 +4,7 @@ title: Creating AWS Instances with Boto3
 date: 2016-05-08T21:38:39+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/05/creating-aws-instances-with-boto3/
+permalink: /BrettsITBlog/2016/05/creating-aws-instances-with-boto3/
 categories:
   - Python
   - Uncategorized

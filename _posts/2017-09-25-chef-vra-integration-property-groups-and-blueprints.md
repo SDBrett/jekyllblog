@@ -4,7 +4,7 @@ title: 'CHEF: vRA Integration, Property Groups and Blueprints'
 date: 2017-09-25T15:59:20+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/09/chef-vra-integration-property-groups-and-blueprints/
+permalink: /BrettsITBlog/2017/09/chef-vra-integration-property-groups-and-blueprints/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/07/chef-logo.png

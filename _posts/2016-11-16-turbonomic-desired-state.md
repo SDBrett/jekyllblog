@@ -4,7 +4,7 @@ title: 'Turbonomic Intro: Desired State and Virtual Market Place'
 date: 2016-11-16T12:33:02+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/turbonomic-desired-state/
+permalink: /BrettsITBlog/2016/11/turbonomic-desired-state/
 academia_post_display_home:
   - ""
 categories:

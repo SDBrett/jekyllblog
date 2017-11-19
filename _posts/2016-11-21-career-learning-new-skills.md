@@ -4,7 +4,7 @@ title: 'Career: Learning new skills'
 date: 2016-11-21T23:23:44+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/career-learning-new-skills/
+permalink: /BrettsITBlog/2016/11/career-learning-new-skills/
 academia_post_display_home:
   - ""
 categories:

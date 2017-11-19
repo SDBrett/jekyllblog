@@ -4,7 +4,7 @@ title: Turbonomic First impression
 date: 2016-11-01T00:01:01+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/turbonomic-first-impression/
+permalink: /BrettsITBlog/2016/11/turbonomic-first-impression/
 academia_post_display_home:
   - ""
 categories:

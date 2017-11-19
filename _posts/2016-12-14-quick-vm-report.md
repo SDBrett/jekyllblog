@@ -4,7 +4,7 @@ title: Quick VM Report with PowerCLI
 date: 2016-12-14T06:36:46+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/12/quick-vm-report/
+permalink: /BrettsITBlog/2016/12/quick-vm-report/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/12/PowerCLI.png

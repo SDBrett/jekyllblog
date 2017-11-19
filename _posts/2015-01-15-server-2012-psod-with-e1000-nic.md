@@ -4,7 +4,7 @@ title: Server 2012 PSOD With E1000 NIC
 date: 2015-01-15T21:06:36+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2015/01/server-2012-psod-with-e1000-nic/
+permalink: /BrettsITBlog/2015/01/server-2012-psod-with-e1000-nic/
 categories:
   - Vmware
 ---

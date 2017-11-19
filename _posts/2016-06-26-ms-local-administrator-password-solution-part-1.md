@@ -4,7 +4,7 @@ title: MS Local Administrator Password Solution. Part 1
 date: 2016-06-26T18:39:13+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/06/ms-local-administrator-password-solution-part-1/
+permalink: /BrettsITBlog/2016/06/ms-local-administrator-password-solution-part-1/
 categories:
   - Server 2012
   - Windows
@@ -77,4 +77,4 @@ To allow more people, such as non-domain admins, to view the passwords run
 
 That&#8217;s all for this section of setting up LAPS. In the next part, I&#8217;ll cover off deploying to client computers via GPO, GPO settings and how to view the passwords.
 
-[Part2: Client deployment](https://sdbrett.com/brettsitblog/2016/08/ms-local-administrator-password-solution-part-2/)
+[Part2: Client deployment](https://sdbrett.com/BrettsITBlog/2016/08/ms-local-administrator-password-solution-part-2/)

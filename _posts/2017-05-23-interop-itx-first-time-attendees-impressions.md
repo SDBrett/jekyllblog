@@ -4,7 +4,7 @@ title: 'Interop ITX: First time attendees impressions'
 date: 2017-05-23T20:40:23+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/05/interop-itx-first-time-attendees-impressions/
+permalink: /BrettsITBlog/2017/05/interop-itx-first-time-attendees-impressions/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/05/406798LOGO.jpeg

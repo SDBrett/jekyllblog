@@ -4,7 +4,7 @@ title: IT Community Involvement
 date: 2016-11-01T14:55:50+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/it-community-involvement/
+permalink: /BrettsITBlog/2016/11/it-community-involvement/
 academia_post_display_home:
   - ""
 categories:

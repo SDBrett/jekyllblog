@@ -4,7 +4,7 @@ title: VCP6-NV Failed
 date: 2016-10-28T12:10:22+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/10/vcp6-nv-failed/
+permalink: /BrettsITBlog/2016/10/vcp6-nv-failed/
 academia_post_display_home:
   - ""
 categories:

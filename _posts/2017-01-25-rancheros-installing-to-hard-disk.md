@@ -4,7 +4,7 @@ title: 'RancherOS: Installing to hard disk'
 date: 2017-01-25T11:23:01+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/01/rancheros-installing-to-hard-disk/
+permalink: /BrettsITBlog/2017/01/rancheros-installing-to-hard-disk/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/01/rancheros-logo-01.png

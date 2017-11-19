@@ -4,7 +4,7 @@ title: 'Review: Bose QC 35 Headphones'
 date: 2016-11-17T22:36:35+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/review-bose-qc-35-headphones/
+permalink: /BrettsITBlog/2016/11/review-bose-qc-35-headphones/
 academia_post_display_home:
   - ""
 categories:

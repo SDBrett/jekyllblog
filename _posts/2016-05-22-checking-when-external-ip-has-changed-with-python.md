@@ -4,7 +4,7 @@ title: Checking when external IP has changed with Python
 date: 2016-05-22T18:01:49+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/05/checking-when-external-ip-has-changed-with-python/
+permalink: /BrettsITBlog/2016/05/checking-when-external-ip-has-changed-with-python/
 categories:
   - Python
 ---

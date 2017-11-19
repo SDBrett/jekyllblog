@@ -4,7 +4,7 @@ title: Das Keyboard Professional 4 Review
 date: 2016-11-04T08:41:26+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/das-keyboard-professional-4-review/
+permalink: /BrettsITBlog/2016/11/das-keyboard-professional-4-review/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/11/daskeyboard-4-professional-front-view.jpg

@@ -4,7 +4,7 @@ title: 'PowerShell: Logging in JSON format'
 date: 2017-03-29T12:57:56+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/03/powershell-logging-json-format/
+permalink: /BrettsITBlog/2017/03/powershell-logging-json-format/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/12/PowerShellIcon.png

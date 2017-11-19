@@ -4,7 +4,7 @@ title: 'Turbonomic: User Configuration'
 date: 2016-11-28T23:44:55+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/turbonomic-user-configuration/
+permalink: /BrettsITBlog/2016/11/turbonomic-user-configuration/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/11/turbonomic-black.png

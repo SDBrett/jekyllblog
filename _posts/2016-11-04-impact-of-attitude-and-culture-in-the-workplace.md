@@ -4,7 +4,7 @@ title: Impact of attitude and culture in the workplace
 date: 2016-11-04T06:31:38+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/impact-of-attitude-and-culture-in-the-workplace/
+permalink: /BrettsITBlog/2016/11/impact-of-attitude-and-culture-in-the-workplace/
 academia_post_display_home:
   - ""
 categories:

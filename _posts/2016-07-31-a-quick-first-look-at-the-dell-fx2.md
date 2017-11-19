@@ -4,7 +4,7 @@ title: A quick first look at the Dell FX2
 date: 2016-07-31T09:43:45+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/07/a-quick-first-look-at-the-dell-fx2/
+permalink: /BrettsITBlog/2016/07/a-quick-first-look-at-the-dell-fx2/
 categories:
   - Uncategorized
 ---

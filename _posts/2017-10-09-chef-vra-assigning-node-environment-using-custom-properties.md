@@ -4,7 +4,7 @@ title: 'Chef: vRA – Assigning Node Environment Using Custom Properties'
 date: 2017-10-09T09:29:48+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/10/chef-vra-assigning-node-environment-using-custom-properties/
+permalink: /BrettsITBlog/2017/10/chef-vra-assigning-node-environment-using-custom-properties/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/07/chef-logo.png
@@ -21,7 +21,7 @@ tags:
   - vRA
 ---
 
-vRA uses Custom properties to help define parameters and the behaviour of requests. In the previous post [CHEF: vRA Integration, Property Groups and Blueprints ](https://sdbrett.com/brettsitblog/2017/09/chef-vra-integration-property-groups-and-blueprints/)we used custom properties to define the properties of our Chef deployment.
+vRA uses Custom properties to help define parameters and the behaviour of requests. In the previous post [CHEF: vRA Integration, Property Groups and Blueprints ](https://sdbrett.com/BrettsITBlog/2017/09/chef-vra-integration-property-groups-and-blueprints/)we used custom properties to define the properties of our Chef deployment.
 
 In this post, we look at using custom properties to assign the node environment. The Chef default client deployment workflows form the basis of the examples.
 

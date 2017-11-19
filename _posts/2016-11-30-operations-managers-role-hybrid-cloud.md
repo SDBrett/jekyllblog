@@ -4,7 +4,7 @@ title: Operations Managers Role in Hybrid Cloud
 date: 2016-11-30T14:10:37+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/operations-managers-role-hybrid-cloud/
+permalink: /BrettsITBlog/2016/11/operations-managers-role-hybrid-cloud/
 academia_post_display_home:
   - ""
 categories:

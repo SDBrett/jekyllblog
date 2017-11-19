@@ -4,7 +4,7 @@ title: Converting VMDK to Physical RDM
 date: 2016-11-06T17:26:56+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/converting-vmdk-physical-rdm/
+permalink: /BrettsITBlog/2016/11/converting-vmdk-physical-rdm/
 academia_post_display_home:
   - ""
 categories:

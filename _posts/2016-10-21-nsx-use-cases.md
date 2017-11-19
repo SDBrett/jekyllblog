@@ -4,7 +4,7 @@ title: NSX Use Cases
 date: 2016-10-21T09:46:29+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/10/nsx-use-cases/
+permalink: /BrettsITBlog/2016/10/nsx-use-cases/
 categories:
   - NSX
   - Vmware

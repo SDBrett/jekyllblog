@@ -4,7 +4,7 @@ title: Palo Alto Networks Traps Forensic Folder Anon Upload
 date: 2017-01-06T12:35:22+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/01/palo-alto-networks-traps-forensic-folder-anon-upload/
+permalink: /BrettsITBlog/2017/01/palo-alto-networks-traps-forensic-folder-anon-upload/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection.jpg

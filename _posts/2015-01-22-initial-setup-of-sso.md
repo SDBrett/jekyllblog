@@ -4,7 +4,7 @@ title: Initial Setup of SSO
 date: 2015-01-22T21:49:20+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2015/01/initial-setup-of-sso/
+permalink: /BrettsITBlog/2015/01/initial-setup-of-sso/
 categories:
   - Vmware
 ---

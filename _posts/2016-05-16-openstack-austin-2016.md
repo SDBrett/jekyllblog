@@ -4,7 +4,7 @@ title: OpenStack Austin 2016
 date: 2016-05-16T19:27:24+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/05/openstack-austin-2016/
+permalink: /BrettsITBlog/2016/05/openstack-austin-2016/
 categories:
   - vBrownBag
 ---

@@ -4,7 +4,7 @@ title: 'NSX: Passed VCP6-NV'
 date: 2017-04-03T09:17:35+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/04/nsx-passed-vcp6-nv/
+permalink: /BrettsITBlog/2017/04/nsx-passed-vcp6-nv/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT.gif

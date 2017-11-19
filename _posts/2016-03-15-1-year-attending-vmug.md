@@ -4,7 +4,7 @@ title: 1 year attending VMUG
 date: 2016-03-15T20:18:43+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/03/1-year-attending-vmug/
+permalink: /BrettsITBlog/2016/03/1-year-attending-vmug/
 categories:
   - VMUG
   - Vmware

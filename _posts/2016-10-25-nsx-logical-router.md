@@ -4,7 +4,7 @@ title: NSX Logical Router
 date: 2016-10-25T22:00:22+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/10/nsx-logical-router/
+permalink: /BrettsITBlog/2016/10/nsx-logical-router/
 academia_post_display_home:
   - ""
 categories:

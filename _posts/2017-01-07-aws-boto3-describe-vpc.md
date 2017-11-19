@@ -4,7 +4,7 @@ title: 'AWS Boto3: Using Boto3 to Describe VPC'
 date: 2017-01-07T22:48:43+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/01/aws-boto3-describe-vpc/
+permalink: /BrettsITBlog/2017/01/aws-boto3-describe-vpc/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/01/AWSLOGO.png

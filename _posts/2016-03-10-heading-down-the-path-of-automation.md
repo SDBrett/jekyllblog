@@ -4,7 +4,7 @@ title: Heading down the path of automation
 date: 2016-03-10T21:21:59+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/03/heading-down-the-path-of-automation/
+permalink: /BrettsITBlog/2016/03/heading-down-the-path-of-automation/
 categories:
   - Career
 ---

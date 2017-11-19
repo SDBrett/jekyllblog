@@ -4,7 +4,7 @@ title: Discover and Clear Admin Count Attribute with PowerShell
 date: 2016-12-17T06:12:12+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/12/discover-clear-admincount-powershell/
+permalink: /BrettsITBlog/2016/12/discover-clear-admincount-powershell/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/12/PowerShellIcon.png

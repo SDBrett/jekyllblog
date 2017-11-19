@@ -4,7 +4,7 @@ title: 'CHEF: Integration with vRA, Client installation workflows'
 date: 2017-09-07T21:49:12+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/09/chef-integration-vra-client-installation-workflows/
+permalink: /BrettsITBlog/2017/09/chef-integration-vra-client-installation-workflows/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/07/chef-logo.png
@@ -21,7 +21,7 @@ tags:
   - VMware
 ---
 
-Chef Integration with vRA: [Part1](https://sdbrett.com/brettsitblog/2017/09/chef-integration-vra-installing-vro-plugin/)
+Chef Integration with vRA: [Part1](https://sdbrett.com/BrettsITBlog/2017/09/chef-integration-vra-installing-vro-plugin/)
 
 In the previous Chef integration with vRA post, we covered how to install the Chef plugin for vRO. In this post, we will look at provided workflows used to install the Chef Client on Windows and Linux VMs. The workflows are called by the Event Broker Servers (EBS) after a VM is provisioned.
 

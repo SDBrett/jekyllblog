@@ -4,7 +4,7 @@ title: 'Python: Parsing values from API Response'
 date: 2017-01-26T13:09:04+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/01/python-parsing-values-from-api-response/
+permalink: /BrettsITBlog/2017/01/python-parsing-values-from-api-response/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/01/python-logo-master-v3-TM.png

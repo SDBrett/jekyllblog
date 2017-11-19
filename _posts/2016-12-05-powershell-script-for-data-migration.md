@@ -4,7 +4,7 @@ title: PowerShell Script for Data Migration
 date: 2016-12-05T22:37:19+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/12/powershell-script-for-data-migration/
+permalink: /BrettsITBlog/2016/12/powershell-script-for-data-migration/
 academia_post_display_home:
   - ""
 categories:

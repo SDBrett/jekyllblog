@@ -4,7 +4,7 @@ title: '#vBrownBag APAC Theory of Design Series'
 date: 2016-08-26T20:18:37+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/08/vbrownbag-apac-theory-of-design-series/
+permalink: /BrettsITBlog/2016/08/vbrownbag-apac-theory-of-design-series/
 academia_post_display_home:
   - ""
 categories:

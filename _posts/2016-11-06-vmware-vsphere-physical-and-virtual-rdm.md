@@ -4,7 +4,7 @@ title: VMware vSphere Physical and Virtual RDM
 date: 2016-11-06T19:54:15+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/vmware-vsphere-physical-and-virtual-rdm/
+permalink: /BrettsITBlog/2016/11/vmware-vsphere-physical-and-virtual-rdm/
 academia_post_display_home:
   - ""
 categories:

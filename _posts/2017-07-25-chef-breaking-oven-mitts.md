@@ -4,7 +4,7 @@ title: 'Chef: Breaking out the oven mitts'
 date: 2017-07-25T08:07:19+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2017/07/chef-breaking-oven-mitts/
+permalink: /BrettsITBlog/2017/07/chef-breaking-oven-mitts/
 academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/07/chef-logo.png

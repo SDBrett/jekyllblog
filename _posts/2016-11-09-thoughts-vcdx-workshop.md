@@ -4,7 +4,7 @@ title: Thoughts on VCDX Workshop
 date: 2016-11-09T09:53:39+00:00
 author: Brett Johnson
 layout: post
-permalink: /brettsitblog/2016/11/thoughts-vcdx-workshop/
+permalink: /BrettsITBlog/2016/11/thoughts-vcdx-workshop/
 academia_post_display_home:
   - ""
 categories:
