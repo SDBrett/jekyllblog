@@ -22,7 +22,7 @@ Just like traditional routers, each LIF will have an IP address assigned. As the
 
 To help put some context to the text, I have done up a quick diagram of a DLR on two hosts with four VM’s, two per host.
 
-<a href="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/10/Logical-Router.png" target="_blank"><img class="alignnone wp-image-388" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/10/Logical-Router-280x300.png" alt="logical-router" width="364" height="390" srcset="https://sdbrett.com/assets/images2016/10/Logical-Router-280x300.png 280w, https://sdbrett.com/assets/images2016/10/Logical-Router-260x279.png 260w, https://sdbrett.com/assets/images2016/10/Logical-Router.png 726w" sizes="(max-width: 364px) 100vw, 364px" /></a>
+<a href="https://sdbrett.com/assets/images/2016/10/Logical-Router.png" target="_blank"><img class="alignnone wp-image-388" src="https://sdbrett.com/assets/images/2016/10/Logical-Router-280x300.png" alt="logical-router" width="364" height="390" srcset="https://sdbrett.com/assets/images2016/10/Logical-Router-280x300.png 280w, https://sdbrett.com/assets/images2016/10/Logical-Router-260x279.png 260w, https://sdbrett.com/assets/images2016/10/Logical-Router.png 726w" sizes="(max-width: 364px) 100vw, 364px" /></a>
 
 Despite there being two router icons in the image, what we see is one instance / one router. This one router has two VXLAN LIFS connecting it to two Logical Switches. These VXLAN LIFS are referred to as internal LIFS as they connect to an internal network. A DLR instance cannot have two Internal LIFS connected to the same logical switch.
   

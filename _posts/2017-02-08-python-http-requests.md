@@ -15,7 +15,7 @@ tags:
   - API
   - Python
 ---
-#### [<img class="alignnone size-medium wp-image-651" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/02/HTTP-Requests-Logo-234x300.png" alt="" width="234" height="300" srcset="https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-234x300.png 234w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-768x985.png 768w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-799x1024.png 799w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-260x333.png 260w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo.png 1020w" sizes="(max-width: 234px) 100vw, 234px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/02/HTTP-Requests-Logo.png)
+#### [<img class="alignnone size-medium wp-image-651" src="https://sdbrett.com/assets/images/2017/02/HTTP-Requests-Logo-234x300.png" alt="" width="234" height="300" srcset="https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-234x300.png 234w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-768x985.png 768w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-799x1024.png 799w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-260x333.png 260w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo.png 1020w" sizes="(max-width: 234px) 100vw, 234px" />](https://sdbrett.com/assets/images/2017/02/HTTP-Requests-Logo.png)
 
 If you&#8217;re looking at Python to interact with API&#8217;s, it&#8217;s likely that you&#8217;ll use the Requests module. Many platforms also offer SDK&#8217;s to help. Such as, Boto3 which is the AWS Python SDK.
 

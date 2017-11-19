@@ -17,7 +17,7 @@ tags:
   - workstation
 ---
 
-[<img class="alignnone size-medium wp-image-891" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/11/vmware-workstation-logo-300x300.jpg" alt="vmware-workstation-logo" width="300" height="300" srcset="https://sdbrett.com/assets/images2017/11/vmware-workstation-logo-300x300.jpg 300w, https://sdbrett.com/assets/images2017/11/vmware-workstation-logo-150x150.jpg 150w, https://sdbrett.com/assets/images2017/11/vmware-workstation-logo-260x260.jpg 260w, https://sdbrett.com/assets/images2017/11/vmware-workstation-logo.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/11/vmware-workstation-logo.jpg)
+[<img class="alignnone size-medium wp-image-891" src="https://sdbrett.com/assets/images/2017/11/vmware-workstation-logo-300x300.jpg" alt="vmware-workstation-logo" width="300" height="300" srcset="https://sdbrett.com/assets/images2017/11/vmware-workstation-logo-300x300.jpg 300w, https://sdbrett.com/assets/images2017/11/vmware-workstation-logo-150x150.jpg 150w, https://sdbrett.com/assets/images2017/11/vmware-workstation-logo-260x260.jpg 260w, https://sdbrett.com/assets/images2017/11/vmware-workstation-logo.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/11/vmware-workstation-logo.jpg)
 
 I recently updated my Ubuntu install from 17.04 to 17.10, which meant the kernel was updated to 4.13. As a result, I was no longer able to run VMs with VMware Workstation.
 

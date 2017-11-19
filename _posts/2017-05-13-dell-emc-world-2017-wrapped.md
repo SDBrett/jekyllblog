@@ -15,7 +15,7 @@ tags:
   - Conference
   - vBrownBag
 ---
-<img class="alignnone wp-image-732" title="Dell EMC World" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/05/Dell-EMC-World-2017-300x101.jpg" alt="" width="511" height="172" srcset="https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017-300x101.jpg 300w, https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017-768x257.jpg 768w, https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017-260x87.jpg 260w, https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017.jpg 982w" sizes="(max-width: 511px) 100vw, 511px" />
+<img class="alignnone wp-image-732" title="Dell EMC World" src="https://sdbrett.com/assets/images/2017/05/Dell-EMC-World-2017-300x101.jpg" alt="" width="511" height="172" srcset="https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017-300x101.jpg 300w, https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017-768x257.jpg 768w, https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017-260x87.jpg 260w, https://sdbrett.com/assets/images2017/05/Dell-EMC-World-2017.jpg 982w" sizes="(max-width: 511px) 100vw, 511px" />
 
 
 With all the T-shirts and swag handed out, Dell EMC World gets boxed up for another year. Over the four day event we heard announcements for XtremeIO, IoT, Hello Alice, DTUG and others. Many things, this post won&#8217;t be touching on :).

@@ -19,7 +19,7 @@ tags:
 ---
 
 
-<img class="alignnone  wp-image-807" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/09/robotic-process-automation-hero-300x180.jpg" alt="" width="327" height="196" srcset="https://sdbrett.com/assets/images2017/09/robotic-process-automation-hero-300x180.jpg 300w, https://sdbrett.com/assets/images2017/09/robotic-process-automation-hero-260x156.jpg 260w, https://sdbrett.com/assets/images2017/09/robotic-process-automation-hero.jpg 600w" sizes="(max-width: 327px) 100vw, 327px" />**
+<img class="alignnone  wp-image-807" src="https://sdbrett.com/assets/images/2017/09/robotic-process-automation-hero-300x180.jpg" alt="" width="327" height="196" srcset="https://sdbrett.com/assets/images2017/09/robotic-process-automation-hero-300x180.jpg 300w, https://sdbrett.com/assets/images2017/09/robotic-process-automation-hero-260x156.jpg 260w, https://sdbrett.com/assets/images2017/09/robotic-process-automation-hero.jpg 600w" sizes="(max-width: 327px) 100vw, 327px" />**
 
 One of the challenges many of us come across when taking a more automated approach to infrastructure is the sheer number of tools available. This is especially true when you come from a one tool for multiple roles environment.
 

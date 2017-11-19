@@ -16,7 +16,7 @@ tags:
   - Hybrid Cloud
   - SDDC
 ---
-#### <img class="alignnone wp-image-523 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/11/data-gravity-throughput-and-latency-300x122.png" alt="Data Gravity" width="300" height="122" srcset="https://sdbrett.com/assets/images2016/11/data-gravity-throughput-and-latency-300x122.png 300w, https://sdbrett.com/assets/images2016/11/data-gravity-throughput-and-latency-260x106.png 260w, https://sdbrett.com/assets/images2016/11/data-gravity-throughput-and-latency.png 477w" sizes="(max-width: 300px) 100vw, 300px" />
+#### <img class="alignnone wp-image-523 size-medium" src="https://sdbrett.com/assets/images/2016/11/data-gravity-throughput-and-latency-300x122.png" alt="Data Gravity" width="300" height="122" srcset="https://sdbrett.com/assets/images2016/11/data-gravity-throughput-and-latency-300x122.png 300w, https://sdbrett.com/assets/images2016/11/data-gravity-throughput-and-latency-260x106.png 260w, https://sdbrett.com/assets/images2016/11/data-gravity-throughput-and-latency.png 477w" sizes="(max-width: 300px) 100vw, 300px" />
 
 #### Data Gravity
 

@@ -18,7 +18,7 @@ tags:
   - Cloud
   - terraform
 ---
-<img class="alignnone size-medium wp-image-788" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/07/chef-logo-300x296.png" alt="" width="300" height="296" srcset="https://sdbrett.com/assets/images2017/07/chef-logo-300x296.png 300w, https://sdbrett.com/assets/images2017/07/chef-logo-260x256.png 260w, https://sdbrett.com/assets/images2017/07/chef-logo.png 417w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-788" src="https://sdbrett.com/assets/images/2017/07/chef-logo-300x296.png" alt="" width="300" height="296" srcset="https://sdbrett.com/assets/images2017/07/chef-logo-300x296.png 300w, https://sdbrett.com/assets/images2017/07/chef-logo-260x256.png 260w, https://sdbrett.com/assets/images2017/07/chef-logo.png 417w" sizes="(max-width: 300px) 100vw, 300px" />
 
 
 Terraform is an awesome tool used to manage infrastructure using the Infrastructure as Code philosophy. Modules called Providers enable Terraform to communicate with a number of different cloud providers.

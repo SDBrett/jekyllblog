@@ -57,11 +57,11 @@ There are a number of ways to generate an SSH keypair. As I&#8217;m on a Windows
 
 Launch PuTTYgen and click the generate button. Move your mouse around the blank space to generate the key.
 
-[<img class="alignnone size-thumbnail wp-image-618" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/PuttyGen-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/PuttyGen.png)
+[<img class="alignnone size-thumbnail wp-image-618" src="https://sdbrett.com/assets/images/2017/01/PuttyGen-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/assets/images/2017/01/PuttyGen.png)
 
 Enter a key comment, this is optional.
 
-[<img class="alignnone size-thumbnail wp-image-616" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/PuttyGen-Generated-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/PuttyGen-Generated.png)
+[<img class="alignnone size-thumbnail wp-image-616" src="https://sdbrett.com/assets/images/2017/01/PuttyGen-Generated-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/assets/images/2017/01/PuttyGen-Generated.png)
 
 Enter passphrase if you choose. This is optional but better security.
 
@@ -69,7 +69,7 @@ Save the public and private key.
 
 Select the public key and copy.
 
-[<img class="alignnone size-thumbnail wp-image-617" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/PuttyGen-Selected-150x118.png" alt="" width="150" height="118" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/PuttyGen-Selected.png)
+[<img class="alignnone size-thumbnail wp-image-617" src="https://sdbrett.com/assets/images/2017/01/PuttyGen-Selected-150x118.png" alt="" width="150" height="118" />](https://sdbrett.com/assets/images/2017/01/PuttyGen-Selected.png)
 
 #### Create Cloud-Config.yml
 
@@ -124,21 +124,21 @@ Putty:
 
 Enter IP Address and Name for Saved Session as we will save this.
 
-[<img class="alignnone size-thumbnail wp-image-613" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/Putty-Rancher-1-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/Putty-Rancher-1.png)
+[<img class="alignnone size-thumbnail wp-image-613" src="https://sdbrett.com/assets/images/2017/01/Putty-Rancher-1-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/assets/images/2017/01/Putty-Rancher-1.png)
 
 Go to Connection > Data and enter the auto-login name as rancher
 
-[<img class="alignnone size-thumbnail wp-image-614" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/Putty-Rancher-2-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/Putty-Rancher-2.png)
+[<img class="alignnone size-thumbnail wp-image-614" src="https://sdbrett.com/assets/images/2017/01/Putty-Rancher-2-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/assets/images/2017/01/Putty-Rancher-2.png)
 
 Go to Connection > SSH > Auth and browse for the Private Key
 
-[<img class="alignnone size-thumbnail wp-image-615" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/Putty-Rancher-3-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/Putty-Rancher-3.png)
+[<img class="alignnone size-thumbnail wp-image-615" src="https://sdbrett.com/assets/images/2017/01/Putty-Rancher-3-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/assets/images/2017/01/Putty-Rancher-3.png)
 
 Go back to Sessions and click Save.
 
 MobaXterm (Another Terminal Emulator)
 
-[<img class="alignnone size-thumbnail wp-image-612" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/MobaXterm-Rancher-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/MobaXterm-Rancher.png)
+[<img class="alignnone size-thumbnail wp-image-612" src="https://sdbrett.com/assets/images/2017/01/MobaXterm-Rancher-150x150.png" alt="" width="150" height="150" />](https://sdbrett.com/assets/images/2017/01/MobaXterm-Rancher.png)
 
 ##### Summary
 

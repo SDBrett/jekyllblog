@@ -18,7 +18,7 @@ tags:
   - technology
   - windows
 ---
-<img class="alignnone size-medium wp-image-545" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/PowerShellIcon-300x196.png" alt="powershellicon" width="300" height="196" srcset="https://sdbrett.com/assets/images2016/12/PowerShellIcon-300x196.png 300w, https://sdbrett.com/assets/images2016/12/PowerShellIcon-260x170.png 260w, https://sdbrett.com/assets/images2016/12/PowerShellIcon.png 391w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-545" src="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png" alt="powershellicon" width="300" height="196" srcset="https://sdbrett.com/assets/images2016/12/PowerShellIcon-300x196.png 300w, https://sdbrett.com/assets/images2016/12/PowerShellIcon-260x170.png 260w, https://sdbrett.com/assets/images2016/12/PowerShellIcon.png 391w" sizes="(max-width: 300px) 100vw, 300px" />
 
 I recently needed to create a script for the purpose of migrating data. Due to complexity, a number of scripts were used. This post covers the script I created to remove illegal characters from directory names. Also adjusting for new directory paths.
 

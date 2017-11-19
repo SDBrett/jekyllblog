@@ -15,7 +15,7 @@ tags:
   - study
 ---
 
-<img class="alignnone wp-image-745" title="Use Cases" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/05/learning-what-counts-300x137.jpg" alt="" width="484" height="221" srcset="https://sdbrett.com/assets/images2017/05/learning-what-counts-300x137.jpg 300w, https://sdbrett.com/assets/images2017/05/learning-what-counts-768x350.jpg 768w, https://sdbrett.com/assets/images2017/05/learning-what-counts-1024x467.jpg 1024w, https://sdbrett.com/assets/images2017/05/learning-what-counts-260x119.jpg 260w, https://sdbrett.com/assets/images2017/05/learning-what-counts.jpg 1600w" sizes="(max-width: 484px) 100vw, 484px" />
+<img class="alignnone wp-image-745" title="Use Cases" src="https://sdbrett.com/assets/images/2017/05/learning-what-counts-300x137.jpg" alt="" width="484" height="221" srcset="https://sdbrett.com/assets/images2017/05/learning-what-counts-300x137.jpg 300w, https://sdbrett.com/assets/images2017/05/learning-what-counts-768x350.jpg 768w, https://sdbrett.com/assets/images2017/05/learning-what-counts-1024x467.jpg 1024w, https://sdbrett.com/assets/images2017/05/learning-what-counts-260x119.jpg 260w, https://sdbrett.com/assets/images2017/05/learning-what-counts.jpg 1600w" sizes="(max-width: 484px) 100vw, 484px" />
 
 
 Building use cases to learn new products allows for new knowledge to be applied and persist much longer.
@@ -66,4 +66,4 @@ First, understand the problem that lead you to choose a product to learn. From t
 
 Solve the problem to a production ready standard and ensure that you understand what you did and why you did it. This builds good habits and context which enforces your learning.
 
-I have previously written about the importance of context. That is available [here](https://sdbrett.com/BrettsITBlog/2016/11/career-learning-new-skills/).
+I have previously written about the importance of context. That is available [here](https://sdbrett.com/brettsitblog/2016/11/career-learning-new-skills/).

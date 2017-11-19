@@ -9,7 +9,7 @@ categories:
   - VMUG
   - Vmware
 ---
-<a href="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/vmug_logo-300x88.png" rel="attachment wp-att-196"><img class="alignnone wp-image-196" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/vmug_logo-300x88-300x88.png" alt="vmug" width="290" height="85" /></a>
+<a href="https://sdbrett.com/assets/images/2016/03/vmug_logo-300x88.png" rel="attachment wp-att-196"><img class="alignnone wp-image-196" src="https://sdbrett.com/assets/images/2016/03/vmug_logo-300x88-300x88.png" alt="vmug" width="290" height="85" /></a>
 
 &nbsp;
 
@@ -28,7 +28,7 @@ About 12 months ago I decided it was time to start expanding my career and what 
 Getting to the VMUG wasn&#8217;t without issue seeing as it was 2 hour drive each way and this was my commute for community every 6 weeks. Luckily for me getting nothing came up at work stopping me from taking the time off needed to get there in time.
 
 <div id="attachment_197" style="width: 310px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/vbeers.jpg" rel="attachment wp-att-197"><img class="wp-image-197 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/vbeers-300x225.jpg" alt="vbeers" width="300" height="225" srcset="https://sdbrett.com/assets/images2016/03/vbeers-300x225.jpg 300w, https://sdbrett.com/assets/images2016/03/vbeers.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://sdbrett.com/assets/images/2016/03/vbeers.jpg" rel="attachment wp-att-197"><img class="wp-image-197 size-medium" src="https://sdbrett.com/assets/images/2016/03/vbeers-300x225.jpg" alt="vbeers" width="300" height="225" srcset="https://sdbrett.com/assets/images2016/03/vbeers-300x225.jpg 300w, https://sdbrett.com/assets/images2016/03/vbeers.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     vBeers in full swing
@@ -46,7 +46,7 @@ From there I organized with work do some extra hours leading up to each VMUG mee
 VMUG meetings provide great presentations from both community members and sponsors alike. There are usually a couple of sessions running at a time, while it can cause a bit of a conflict for some it really helps get more content out there. If you&#8217;re part of a VMUG and want to present drop a line to your leaders and see how it goes. Meetings have a planned agenda which is published on the VMUG site. At least for Melbourne they are followed up that night with a vBeers.
 
 <div id="attachment_198" style="width: 310px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/vmug-community-presentation.jpg" rel="attachment wp-att-198"><img class="wp-image-198 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/vmug-community-presentation-300x225.jpg" alt="vmug community presentation" width="300" height="225" srcset="https://sdbrett.com/assets/images2016/03/vmug-community-presentation-300x225.jpg 300w, https://sdbrett.com/assets/images2016/03/vmug-community-presentation.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://sdbrett.com/assets/images/2016/03/vmug-community-presentation.jpg" rel="attachment wp-att-198"><img class="wp-image-198 size-medium" src="https://sdbrett.com/assets/images/2016/03/vmug-community-presentation-300x225.jpg" alt="vmug community presentation" width="300" height="225" srcset="https://sdbrett.com/assets/images2016/03/vmug-community-presentation-300x225.jpg 300w, https://sdbrett.com/assets/images2016/03/vmug-community-presentation.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Ramon Valery discussing vCenter 5 to 6 differences
@@ -57,7 +57,7 @@ In my time attending the Melbourne VMUG, I have meet some of the best people I k
 
 Melbourne has been awarded the extra mile award and looking back it&#8217;s easy to see why. Everyone that is part of the Melbourne VMUG has always been will to have a chat, answer a question or help provide another view point.
 
-<a href="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/CN7ML18UEAA_Zmq.jpg" rel="attachment wp-att-199"><img class="alignnone size-medium wp-image-199" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/CN7ML18UEAA_Zmq-225x300.jpg" alt="Extra mile award" width="225" height="300" srcset="https://sdbrett.com/assets/images2016/03/CN7ML18UEAA_Zmq-225x300.jpg 225w, https://sdbrett.com/assets/images2016/03/CN7ML18UEAA_Zmq.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+<a href="https://sdbrett.com/assets/images/2016/03/CN7ML18UEAA_Zmq.jpg" rel="attachment wp-att-199"><img class="alignnone size-medium wp-image-199" src="https://sdbrett.com/assets/images/2016/03/CN7ML18UEAA_Zmq-225x300.jpg" alt="Extra mile award" width="225" height="300" srcset="https://sdbrett.com/assets/images2016/03/CN7ML18UEAA_Zmq-225x300.jpg 225w, https://sdbrett.com/assets/images2016/03/CN7ML18UEAA_Zmq.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" /></a>
 
 &nbsp;
 

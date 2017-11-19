@@ -16,7 +16,7 @@ tags:
   - Security
   - Traps
 ---
-#### <img class="alignnone wp-image-587" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-300x130.jpg" alt="" width="372" height="161" srcset="https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-300x130.jpg 300w, https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-768x334.jpg 768w, https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-260x113.jpg 260w, https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection.jpg 920w" sizes="(max-width: 372px) 100vw, 372px" />
+#### <img class="alignnone wp-image-587" src="https://sdbrett.com/assets/images/2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-300x130.jpg" alt="" width="372" height="161" srcset="https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-300x130.jpg 300w, https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-768x334.jpg 768w, https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection-260x113.jpg 260w, https://sdbrett.com/assets/images2017/01/Traps-by-Palo-Alto-Networks-Advanced-Endpoint-Protection.jpg 920w" sizes="(max-width: 372px) 100vw, 372px" />
 
 #### Into
 
@@ -64,9 +64,9 @@ The client uploading must trust the SSL certificate provided by IIS. Or, have a 
 
 We have established that to work, the Forensics Folder must allow anonymous access. If public facing, this could be quite the issue. Yet according to the Admin guide, this is a supported configuration.
 
-[<img class="alignnone wp-image-583 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/WithoutVPN-300x156.png" alt="Traps Forensics Folder without VPN" width="300" height="156" srcset="https://sdbrett.com/assets/images2017/01/WithoutVPN-300x156.png 300w, https://sdbrett.com/assets/images2017/01/WithoutVPN-768x400.png 768w, https://sdbrett.com/assets/images2017/01/WithoutVPN-260x136.png 260w, https://sdbrett.com/assets/images2017/01/WithoutVPN.png 802w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/WithoutVPN.png)
+[<img class="alignnone wp-image-583 size-medium" src="https://sdbrett.com/assets/images/2017/01/WithoutVPN-300x156.png" alt="Traps Forensics Folder without VPN" width="300" height="156" srcset="https://sdbrett.com/assets/images2017/01/WithoutVPN-300x156.png 300w, https://sdbrett.com/assets/images2017/01/WithoutVPN-768x400.png 768w, https://sdbrett.com/assets/images2017/01/WithoutVPN-260x136.png 260w, https://sdbrett.com/assets/images2017/01/WithoutVPN.png 802w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/01/WithoutVPN.png)
 
-[<img class="alignnone wp-image-584 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/WithVPN-300x254.png" alt="Traps Forensics Folder with VPN" width="300" height="254" srcset="https://sdbrett.com/assets/images2017/01/WithVPN-300x254.png 300w, https://sdbrett.com/assets/images2017/01/WithVPN-260x220.png 260w, https://sdbrett.com/assets/images2017/01/WithVPN.png 762w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/WithVPN.png)
+[<img class="alignnone wp-image-584 size-medium" src="https://sdbrett.com/assets/images/2017/01/WithVPN-300x254.png" alt="Traps Forensics Folder with VPN" width="300" height="254" srcset="https://sdbrett.com/assets/images2017/01/WithVPN-300x254.png 300w, https://sdbrett.com/assets/images2017/01/WithVPN-260x220.png 260w, https://sdbrett.com/assets/images2017/01/WithVPN.png 762w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/01/WithVPN.png)
 
 Securing uploads to the Forensics Folder will require non-IIS authentication methods. These will depend on the capabilities of your environment. This may increase deployment complexity.
 

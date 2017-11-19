@@ -16,7 +16,7 @@ tags:
   - Pycharm
   - Python
 ---
-#### [<img class="alignnone size-medium wp-image-662" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/02/PyCharm_Logo-300x300.png" alt="" width="300" height="300" srcset="https://sdbrett.com/assets/images2017/02/PyCharm_Logo-300x300.png 300w, https://sdbrett.com/assets/images2017/02/PyCharm_Logo-150x150.png 150w, https://sdbrett.com/assets/images2017/02/PyCharm_Logo-260x260.png 260w, https://sdbrett.com/assets/images2017/02/PyCharm_Logo.png 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/02/PyCharm_Logo.png)
+#### [<img class="alignnone size-medium wp-image-662" src="https://sdbrett.com/assets/images/2017/02/PyCharm_Logo-300x300.png" alt="" width="300" height="300" srcset="https://sdbrett.com/assets/images2017/02/PyCharm_Logo-300x300.png 300w, https://sdbrett.com/assets/images2017/02/PyCharm_Logo-150x150.png 150w, https://sdbrett.com/assets/images2017/02/PyCharm_Logo-260x260.png 260w, https://sdbrett.com/assets/images2017/02/PyCharm_Logo.png 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/02/PyCharm_Logo.png)
 
 PyCharm from JetBrains, is a full featured Python IDE. Which over the last 6 months has been my Python IDE of choice.
 

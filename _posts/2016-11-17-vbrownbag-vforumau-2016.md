@@ -15,7 +15,7 @@ tags:
   - vBrownBag
   - vForum
 ---
-<img class="alignnone size-medium wp-image-384" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/10/VBB_logo_landsc_transp565x209px-300x111.png" alt="vBrownBag" width="300" height="111" srcset="https://sdbrett.com/assets/images2016/10/VBB_logo_landsc_transp565x209px-300x111.png 300w, https://sdbrett.com/assets/images2016/10/VBB_logo_landsc_transp565x209px-260x96.png 260w, https://sdbrett.com/assets/images2016/10/VBB_logo_landsc_transp565x209px.png 565w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-384" src="https://sdbrett.com/assets/images/2016/10/VBB_logo_landsc_transp565x209px-300x111.png" alt="vBrownBag" width="300" height="111" srcset="https://sdbrett.com/assets/images2016/10/VBB_logo_landsc_transp565x209px-300x111.png 300w, https://sdbrett.com/assets/images2016/10/VBB_logo_landsc_transp565x209px-260x96.png 260w, https://sdbrett.com/assets/images2016/10/VBB_logo_landsc_transp565x209px.png 565w" sizes="(max-width: 300px) 100vw, 300px" />
 
 &nbsp;
 

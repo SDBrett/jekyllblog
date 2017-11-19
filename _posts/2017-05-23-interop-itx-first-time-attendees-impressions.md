@@ -15,7 +15,7 @@ tags:
   - Interop ITX
 ---
 
-<img class=" wp-image-759" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/05/406798LOGO-300x83.jpeg" alt="" width="528" height="146" srcset="https://sdbrett.com/assets/images2017/05/406798LOGO-300x83.jpeg 300w, https://sdbrett.com/assets/images2017/05/406798LOGO-768x213.jpeg 768w, https://sdbrett.com/assets/images2017/05/406798LOGO-1024x284.jpeg 1024w, https://sdbrett.com/assets/images2017/05/406798LOGO-260x72.jpeg 260w, https://sdbrett.com/assets/images2017/05/406798LOGO.jpeg 1050w" sizes="(max-width: 528px) 100vw, 528px" />
+<img class=" wp-image-759" src="https://sdbrett.com/assets/images/2017/05/406798LOGO-300x83.jpeg" alt="" width="528" height="146" srcset="https://sdbrett.com/assets/images2017/05/406798LOGO-300x83.jpeg 300w, https://sdbrett.com/assets/images2017/05/406798LOGO-768x213.jpeg 768w, https://sdbrett.com/assets/images2017/05/406798LOGO-1024x284.jpeg 1024w, https://sdbrett.com/assets/images2017/05/406798LOGO-260x72.jpeg 260w, https://sdbrett.com/assets/images2017/05/406798LOGO.jpeg 1050w" sizes="(max-width: 528px) 100vw, 528px" />
 
 As I write this, I&#8217;m on my way home after attending my first Interop event. The purpose of this post is to detail my experience at Interop ITX 2017 as a first time attendee.
 

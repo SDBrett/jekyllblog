@@ -14,7 +14,7 @@ tags:
   - QC 35
   - Review
 ---
-<img class="alignnone wp-image-499 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/11/Bose-QC35-300x201.jpg" alt="Bose QC 35" width="300" height="201" srcset="https://sdbrett.com/assets/images2016/11/Bose-QC35-300x201.jpg 300w, https://sdbrett.com/assets/images2016/11/Bose-QC35-768x515.jpg 768w, https://sdbrett.com/assets/images2016/11/Bose-QC35-260x174.jpg 260w, https://sdbrett.com/assets/images2016/11/Bose-QC35.jpg 790w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone wp-image-499 size-medium" src="https://sdbrett.com/assets/images/2016/11/Bose-QC35-300x201.jpg" alt="Bose QC 35" width="300" height="201" srcset="https://sdbrett.com/assets/images2016/11/Bose-QC35-300x201.jpg 300w, https://sdbrett.com/assets/images2016/11/Bose-QC35-768x515.jpg 768w, https://sdbrett.com/assets/images2016/11/Bose-QC35-260x174.jpg 260w, https://sdbrett.com/assets/images2016/11/Bose-QC35.jpg 790w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Bose QC 35 headphones are considered by many as market leaders. The provide excellent comfort and effective noise cancelling.
 

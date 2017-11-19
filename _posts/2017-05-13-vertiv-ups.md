@@ -14,7 +14,7 @@ tags:
   - Vendors
   - Vertiv
 ---
-## <img class="alignnone wp-image-739" title="Vertiv" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/05/ver_logo_tm_hrz_rgb_gry-300x119.jpg" alt="Vertiv" width="421" height="167" srcset="https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-300x119.jpg 300w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-768x305.jpg 768w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-1024x407.jpg 1024w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-260x103.jpg 260w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry.jpg 1149w" sizes="(max-width: 421px) 100vw, 421px" />
+## <img class="alignnone wp-image-739" title="Vertiv" src="https://sdbrett.com/assets/images/2017/05/ver_logo_tm_hrz_rgb_gry-300x119.jpg" alt="Vertiv" width="421" height="167" srcset="https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-300x119.jpg 300w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-768x305.jpg 768w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-1024x407.jpg 1024w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry-260x103.jpg 260w, https://sdbrett.com/assets/images2017/05/ver_logo_tm_hrz_rgb_gry.jpg 1149w" sizes="(max-width: 421px) 100vw, 421px" />
 
 
 During Dell EMC World 2017, I had the chance to chat to Vertiv about who they are and what they do. For the conversation, they chose to discuss their UPS and the benefits it brings, which frankly was underwhelming. Vertiv offers a range of products and services, which we did not discuss at the time.

@@ -22,7 +22,7 @@ tags:
   - SDN
 ---
 
-<img class="alignnone wp-image-782" title="Cumulus" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/05/cumulus-networks-linux-network-os-300x150.jpg" alt="" width="432" height="216" srcset="https://sdbrett.com/assets/images2017/05/cumulus-networks-linux-network-os-300x150.jpg 300w, https://sdbrett.com/assets/images2017/05/cumulus-networks-linux-network-os-260x130.jpg 260w, https://sdbrett.com/assets/images2017/05/cumulus-networks-linux-network-os.jpg 600w" sizes="(max-width: 432px) 100vw, 432px" />
+<img class="alignnone wp-image-782" title="Cumulus" src="https://sdbrett.com/assets/images/2017/05/cumulus-networks-linux-network-os-300x150.jpg" alt="" width="432" height="216" srcset="https://sdbrett.com/assets/images2017/05/cumulus-networks-linux-network-os-300x150.jpg 300w, https://sdbrett.com/assets/images2017/05/cumulus-networks-linux-network-os-260x130.jpg 260w, https://sdbrett.com/assets/images2017/05/cumulus-networks-linux-network-os.jpg 600w" sizes="(max-width: 432px) 100vw, 432px" />
 
 While at Interop ITX 2017, I met with [Eric Pulvino](https://twitter.com/EricPulvino) from Cumulus Networks and learnt a bit about where Cumulus was heading and what’s new. One of the topics that got my attention was using a CICD pipeline for end to end testing of network configuration changes.
 

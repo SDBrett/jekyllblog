@@ -72,7 +72,7 @@ This will go to the value of the key &#8220;State&#8221; from index 0 of the key
 As a side note on lists, the index starts at 0, not 1. The first entry will be index 0. Below example image is courtesy of [Carl Niger](https://twitter.com/carl_niger).
 
 <div id="attachment_627" style="width: 160px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/list-index.png"><img class="size-thumbnail wp-image-627" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/01/list-index-150x150.png" alt="" width="150" height="150" /></a>
+  <a href="https://sdbrett.com/assets/images/2017/01/list-index.png"><img class="size-thumbnail wp-image-627" src="https://sdbrett.com/assets/images/2017/01/list-index-150x150.png" alt="" width="150" height="150" /></a>
   
   <p class="wp-caption-text">
     List Index

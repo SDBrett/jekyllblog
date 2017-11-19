@@ -12,7 +12,7 @@ It&#8217;s hard to work in the IT industry and not hear about automation on prac
 
 **I was wrong.**
 
-<a href="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/wrong-logo.jpg" rel="attachment wp-att-190"><img class="alignnone size-medium wp-image-190" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/03/wrong-logo-300x157.jpg" alt="wrong-logo" width="300" height="157" srcset="https://sdbrett.com/assets/images2016/03/wrong-logo-300x157.jpg 300w, https://sdbrett.com/assets/images2016/03/wrong-logo-768x402.jpg 768w, https://sdbrett.com/assets/images2016/03/wrong-logo.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="https://sdbrett.com/assets/images/2016/03/wrong-logo.jpg" rel="attachment wp-att-190"><img class="alignnone size-medium wp-image-190" src="https://sdbrett.com/assets/images/2016/03/wrong-logo-300x157.jpg" alt="wrong-logo" width="300" height="157" srcset="https://sdbrett.com/assets/images2016/03/wrong-logo-300x157.jpg 300w, https://sdbrett.com/assets/images2016/03/wrong-logo-768x402.jpg 768w, https://sdbrett.com/assets/images2016/03/wrong-logo.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 Over the last 12 months or so I have been making a very conscious effort to expand my personal network in the industry primarily for knowledge transfer as well has having people that I can have technical chats with over a (ok a few) beers. Looking back I realise that a lot of the conversations have had the topic of automation and when this happens I would think to myself &#8220;Wow I&#8217;d like to be able to do that&#8221;.
 

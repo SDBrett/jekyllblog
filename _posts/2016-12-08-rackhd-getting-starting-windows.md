@@ -44,7 +44,7 @@ Vagrant creates the VM with the latest configuration at the time.
 
 Shortly after, the VM is created and booted. Vagrant provides the following output:
 
-[<img class="alignnone wp-image-549" title="RackHD Vagrant Output" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/UpDevOutput-300x71.png" width="444" height="105" srcset="https://sdbrett.com/assets/images2016/12/UpDevOutput-300x71.png 300w, https://sdbrett.com/assets/images2016/12/UpDevOutput-260x61.png 260w, https://sdbrett.com/assets/images2016/12/UpDevOutput.png 551w" sizes="(max-width: 444px) 100vw, 444px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/UpDevOutput.png)
+[<img class="alignnone wp-image-549" title="RackHD Vagrant Output" src="https://sdbrett.com/assets/images/2016/12/UpDevOutput-300x71.png" width="444" height="105" srcset="https://sdbrett.com/assets/images2016/12/UpDevOutput-300x71.png 300w, https://sdbrett.com/assets/images2016/12/UpDevOutput-260x61.png 260w, https://sdbrett.com/assets/images2016/12/UpDevOutput.png 551w" sizes="(max-width: 444px) 100vw, 444px" />](https://sdbrett.com/assets/images/2016/12/UpDevOutput.png)
 
 As we are on a Windows system. The command
 
@@ -54,7 +54,7 @@ fails. In order to run the command, we will need to SSH to the VM. The first st
 
 Using PuttyGen, load the file private_key as per the Vagrant output. Click &#8220;Save Private Key&#8221;.
 
-[<img class="alignnone wp-image-550 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/PuttyGen-300x292.png" width="300" height="292" srcset="https://sdbrett.com/assets/images2016/12/PuttyGen-300x292.png 300w, https://sdbrett.com/assets/images2016/12/PuttyGen-260x253.png 260w, https://sdbrett.com/assets/images2016/12/PuttyGen.png 474w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/PuttyGen.png)
+[<img class="alignnone wp-image-550 size-medium" src="https://sdbrett.com/assets/images/2016/12/PuttyGen-300x292.png" width="300" height="292" srcset="https://sdbrett.com/assets/images2016/12/PuttyGen-300x292.png 300w, https://sdbrett.com/assets/images2016/12/PuttyGen-260x253.png 260w, https://sdbrett.com/assets/images2016/12/PuttyGen.png 474w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2016/12/PuttyGen.png)
 
 Following actions may vary depending on your terminal emulator. But the information required is the same.
 
@@ -65,7 +65,7 @@ Following actions may vary depending on your terminal emulator. But the informat
 
 Using MobaXterm, the configuration looks like
 
-[<img class="alignnone wp-image-551 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/SSH-Connection-300x166.png" width="300" height="166" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/SSH-Connection-e1481198475921.png)
+[<img class="alignnone wp-image-551 size-medium" src="https://sdbrett.com/assets/images/2016/12/SSH-Connection-300x166.png" width="300" height="166" />](https://sdbrett.com/assets/images/2016/12/SSH-Connection-e1481198475921.png)
 
 Now that you&#8217;re connected to the VM by SSH. Run the following:
 
@@ -73,7 +73,7 @@ Now that you&#8217;re connected to the VM by SSH. Run the following:
 
 I noticed that I did need to run this twice.
 
-[<img class="alignnone wp-image-554 size-medium" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/pm2-config-300x141.png" width="300" height="141" srcset="https://sdbrett.com/assets/images2016/12/pm2-config-300x141.png 300w, https://sdbrett.com/assets/images2016/12/pm2-config-260x122.png 260w, https://sdbrett.com/assets/images2016/12/pm2-config.png 746w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/pm2-config.png)
+[<img class="alignnone wp-image-554 size-medium" src="https://sdbrett.com/assets/images/2016/12/pm2-config-300x141.png" width="300" height="141" srcset="https://sdbrett.com/assets/images2016/12/pm2-config-300x141.png 300w, https://sdbrett.com/assets/images2016/12/pm2-config-260x122.png 260w, https://sdbrett.com/assets/images2016/12/pm2-config.png 746w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2016/12/pm2-config.png)
 
 Now the services are up, we can now start.
 

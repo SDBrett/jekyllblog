@@ -15,7 +15,7 @@ tags:
   - Scripting
   - XML
 ---
-#### <img class="alignnone size-medium wp-image-696" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/03/Python-300x101.png" alt="" width="300" height="101" srcset="https://sdbrett.com/assets/images2017/03/Python-300x101.png 300w, https://sdbrett.com/assets/images2017/03/Python-260x88.png 260w, https://sdbrett.com/assets/images2017/03/Python.png 601w" sizes="(max-width: 300px) 100vw, 300px" />
+#### <img class="alignnone size-medium wp-image-696" src="https://sdbrett.com/assets/images/2017/03/Python-300x101.png" alt="" width="300" height="101" srcset="https://sdbrett.com/assets/images2017/03/Python-300x101.png 300w, https://sdbrett.com/assets/images2017/03/Python-260x88.png 260w, https://sdbrett.com/assets/images2017/03/Python.png 601w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Recently I have started to look at the Turbonomic API. Due to my current skill level in Python, I quickly hit a roadblock. The response from an API is in in XML format. Parsing the response in XML slowed things down a little. Which is the focus of the post. How to parse the XML response with Python.
 

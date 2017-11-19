@@ -18,7 +18,7 @@ tags:
   - VMware
   - vSphere
 ---
-<img class="alignnone size-medium wp-image-706" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT-300x272.gif" alt="" width="300" height="272" srcset="https://sdbrett.com/assets/images2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT-300x272.gif 300w, https://sdbrett.com/assets/images2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT-260x236.gif 260w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-706" src="https://sdbrett.com/assets/images/2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT-300x272.gif" alt="" width="300" height="272" srcset="https://sdbrett.com/assets/images2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT-300x272.gif 300w, https://sdbrett.com/assets/images2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT-260x236.gif 260w" sizes="(max-width: 300px) 100vw, 300px" />
 
 In October 2016, I took the VCP6-NV exam and failed. While this was not the first exam I have failed, it was eye opening. After seeing the question set, I realized my understanding of the exam was incorrect. I wrote a post 
 

@@ -15,7 +15,7 @@ tags:
   - Communication
   - skills
 ---
-#### <img class="alignnone size-medium wp-image-573" src="https://sdbrett.com/BrettsITBlog/wp-content/uploads/2016/12/Communication-300x242.jpg" alt="Communication" width="300" height="242" srcset="https://sdbrett.com/assets/images2016/12/Communication-300x242.jpg 300w, https://sdbrett.com/assets/images2016/12/Communication-260x210.jpg 260w, https://sdbrett.com/assets/images2016/12/Communication.jpg 572w" sizes="(max-width: 300px) 100vw, 300px" />
+#### <img class="alignnone size-medium wp-image-573" src="https://sdbrett.com/assets/images/2016/12/Communication-300x242.jpg" alt="Communication" width="300" height="242" srcset="https://sdbrett.com/assets/images2016/12/Communication-300x242.jpg 300w, https://sdbrett.com/assets/images2016/12/Communication-260x210.jpg 260w, https://sdbrett.com/assets/images2016/12/Communication.jpg 572w" sizes="(max-width: 300px) 100vw, 300px" />
 
 <a href="https://twitter.com/discoposse" rel="”nofollow”">Eric Wright</a> made a blog post titled &#8220;T<a href="https://turbonomic.com/blog/on-technology/the-top-3-skills-every-it-person-needs/" data-cke-saved-href="https://turbonomic.com/blog/on-technology/the-top-3-skills-every-it-person-needs/">he Top 3 Skills Every IT Person Needs</a>&#8220;. It&#8217;s an excellent article, focusing on technical skills. Skills you should be learning about to stay relevant. Eric made a number of points that I&#8217;ve taken on board.
 
