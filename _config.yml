@@ -10,7 +10,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   
-permalink: brettsitblog/:year/:month/:title.html
+permalink: BrettsITBlog/:year/:month/:title.html
 
 # Google Analytics
 google_analytics: UA-77455242-1
