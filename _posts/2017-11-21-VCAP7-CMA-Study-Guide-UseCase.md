@@ -1,0 +1,27 @@
+---
+title: VCAP7 CMA Study Guide Use Case
+author: Brett Johnson
+layout: post
+categories:
+  - VCAP7-CMA-Design
+tags:
+  - VMware
+  - vRA
+  - StudyGuide
+---
+
+As part of the VCAP7-CMA Design study guide, I have put together a use case which will be used to provide context when addressing each of the exam objectives.
+
+The study guide can be found [here]({{ site.baseurl }}{% link vcap7-CMA-Design.html %})
+
+##### Use Case
+
+Mega-Awesome Transit have identified a need to increase the reliability and reduce the complexity when updating their dispatching system during update periods. Currently updates to the dispatch system cause interruptions for up to 12 hours.
+ 
+Even though the networking, storage and compute infrastructure are highly virtualized, development and testing is slow due to the manual build process. As a result, only one development environment is created per update cycle.
+ 
+Mega-Awesome Transit would like to improve their deployment methods of the development environment to improve their ability to update their application and then look at new update strategies.
+ 
+Execs have heard that implementation of automated processes could allow developers to deploy their own environments. They giving the developers control over environment deployment could improve efficiency. Resource and cost governance questions have been raised and will need to be addressed.
+
+[Back to study guide]({{ site.baseurl }}{% link vcap7-CMA-Design.html %})
