@@ -9,8 +9,6 @@ academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/01/python-logo-master-v3-TM.png
 categories:
-  - Cloud
-  - OpenSource
   - Python
 tags:
   - API

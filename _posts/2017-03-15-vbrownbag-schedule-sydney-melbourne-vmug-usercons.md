@@ -10,9 +10,8 @@ academia_post_display_home:
 image: /wp-content/uploads/2016/10/VBB_logo_landsc_transp565x209px.png
 categories:
   - vBrownBag
-  - VMUG
 tags:
-  - community
+  - Community
   - vBrownBag
   - VMUG
 ---

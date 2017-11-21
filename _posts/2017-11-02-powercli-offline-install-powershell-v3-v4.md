@@ -9,8 +9,6 @@ academia_post_display_home:
   - ""
 categories:
   - PowerCLI
-  - Powershell
-  - Vmware
 tags:
   - PowerCLI
   - powershell

@@ -8,7 +8,7 @@ permalink: /BrettsITBlog/2016/12/first-experience-with-vdm30in30/
 academia_post_display_home:
   - ""
 categories:
-  - Uncategorized
+  - Community
 ---
 
 VDM30in30 is a challenge from the Virtual Design Master crew. The aim is to produce 30 pieces of content in 30 days. This content can be in any format. If you don&#8217;t reach the 30, that&#8217;s ok.

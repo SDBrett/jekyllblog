@@ -10,11 +10,9 @@ academia_post_display_home:
 image: /wp-content/uploads/2016/12/PowerCLI.png
 categories:
   - PowerCLI
-  - Vmware
-  - vSphere
 tags:
   - PowerCLI
-  - script
+  - Script
   - VMware
   - vSphere
 ---

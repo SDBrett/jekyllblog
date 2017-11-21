@@ -6,13 +6,13 @@ author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2016/08/book-review-data-storage-networking-real-world-skills-for-the-comptia-storage-certification-and-beyond/
 categories:
-  - Book Review
+  - Reviews
 tags:
   - Storage
   - Study Guide
   - technology
 ---
-**Overview:** 
+
 
 <p style="padding-left: 30px;">
   Data Storage Networking, is a great book to cover the fundamentals of storage protocols, including their pros and cons. This book would be suited for people just learning storage concepts or needing to brush up on skills. I could also see a physical copy of this book being used for new staff building experience. For the CompTIA cert component, I can&#8217;t comment as it&#8217;s not a cert I&#8217;m looking at attaining.

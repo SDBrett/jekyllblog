@@ -6,7 +6,7 @@ author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2016/02/working-in-smb-space/
 categories:
-  - SMB
+  - Career
 ---
 One thing I have been hearing a bit of recently is that doing a task at small scale is easier than at large scale. This simply isn&#8217;t true, though it&#8217;s not harder either. Both small and large scale problems have their limitations and difficulties. While not unique to SMB, budget constraints have a huge impact, spending enough to keep it running and stopping there is pretty common.
 

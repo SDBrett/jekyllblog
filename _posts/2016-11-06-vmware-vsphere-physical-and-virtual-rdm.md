@@ -8,7 +8,6 @@ permalink: /BrettsITBlog/2016/11/vmware-vsphere-physical-and-virtual-rdm/
 academia_post_display_home:
   - ""
 categories:
-  - Vmware
   - vSphere
 tags:
   - Physical RDM

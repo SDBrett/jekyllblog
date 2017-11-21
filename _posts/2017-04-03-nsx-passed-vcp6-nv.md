@@ -10,7 +10,6 @@ academia_post_display_home:
 image: /wp-content/uploads/2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT.gif
 categories:
   - NSX
-  - SDN
 tags:
   - Networking
   - NSX

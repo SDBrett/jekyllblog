@@ -9,6 +9,7 @@ academia_post_display_home:
   - ""
 categories:
   - NSX
+tags:
   - Vmware
 ---
 Today I took a shot at the VCP6-NV exam. Leading up to the exam I was feeling good. Through my head, I could run through packet flows, the security types. I knew how to put the pieces together and make NSX work. Even could recall those trivia details that after an exam we always just end up googling when building a design.

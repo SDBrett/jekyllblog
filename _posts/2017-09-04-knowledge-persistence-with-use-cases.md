@@ -10,7 +10,6 @@ academia_post_display_home:
 image: /wp-content/uploads/2017/05/learning-what-counts.jpg
 categories:
   - Career
-  - Study
 tags:
   - study
 ---

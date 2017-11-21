@@ -8,7 +8,6 @@ permalink: /BrettsITBlog/2016/11/vbrownbag-vforumau-2016/
 academia_post_display_home:
   - ""
 categories:
-  - vBB Presenters
   - vBrownBag
 tags:
   - Tech Talks

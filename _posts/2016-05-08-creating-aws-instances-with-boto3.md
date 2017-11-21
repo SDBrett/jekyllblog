@@ -7,7 +7,6 @@ layout: post
 permalink: /BrettsITBlog/2016/05/creating-aws-instances-with-boto3/
 categories:
   - Python
-  - Uncategorized
 ---
 Yesterday I decided that I would like to create an AWS instance using python. After not very much searching, I came across Boto3 which is the python SDK for AWS and set to work. Being fairly green with both python and using API&#8217;s I felt like this was a bit of learning curve, but worth undertaking.
 

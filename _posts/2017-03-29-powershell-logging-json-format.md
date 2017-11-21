@@ -10,12 +10,11 @@ academia_post_display_home:
 image: /wp-content/uploads/2016/12/PowerShellIcon.png
 categories:
   - Powershell
-  - Server 2012
-  - Windows
 tags:
-  - microsoft
-  - powershell
-  - script
+  - Microsoft
+  - Powershell
+  - Script
+  - Server 2012
 ---
 #### <img class="alignnone size-medium wp-image-545" src="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png" alt="" width="300" height="196" srcset="https://sdbrett.com/assets/images2016/12/PowerShellIcon-300x196.png 300w, https://sdbrett.com/assets/images2016/12/PowerShellIcon-260x170.png 260w, https://sdbrett.com/assets/images2016/12/PowerShellIcon.png 391w" sizes="(max-width: 300px) 100vw, 300px" />
 

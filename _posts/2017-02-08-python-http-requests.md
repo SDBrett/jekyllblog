@@ -9,11 +9,11 @@ academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/02/HTTP-Requests-Logo.png
 categories:
-  - Cloud
   - Python
 tags:
   - API
   - Python
+  - Cloud
 ---
 #### [<img class="alignnone size-medium wp-image-651" src="https://sdbrett.com/assets/images/2017/02/HTTP-Requests-Logo-234x300.png" alt="" width="234" height="300" srcset="https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-234x300.png 234w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-768x985.png 768w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-799x1024.png 799w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-260x333.png 260w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo.png 1020w" sizes="(max-width: 234px) 100vw, 234px" />](https://sdbrett.com/assets/images/2017/02/HTTP-Requests-Logo.png)
 

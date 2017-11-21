@@ -7,6 +7,7 @@ layout: post
 permalink: /BrettsITBlog/2016/03/1-year-attending-vmug/
 categories:
   - VMUG
+tags:
   - Vmware
 ---
 <a href="https://sdbrett.com/assets/images/2016/03/vmug_logo-300x88.png" rel="attachment wp-att-196"><img class="alignnone wp-image-196" src="https://sdbrett.com/assets/images/2016/03/vmug_logo-300x88-300x88.png" alt="vmug" width="290" height="85" /></a>

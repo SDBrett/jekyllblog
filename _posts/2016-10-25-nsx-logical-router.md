@@ -9,6 +9,7 @@ academia_post_display_home:
   - ""
 categories:
   - NSX
+tags:
   - SDN
   - Vmware
 ---

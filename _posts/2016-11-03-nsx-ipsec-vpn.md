@@ -9,6 +9,7 @@ academia_post_display_home:
   - ""
 categories:
   - NSX
+tags:
   - Vmware
 ---
 The NSX Edge can be configured to provide site-to-site VPN connectivity using IPsec. If you&#8217;re not familiar with IPsec, I suggest having a read up on that first. As IPsec is a standard, information already published will be transferable.

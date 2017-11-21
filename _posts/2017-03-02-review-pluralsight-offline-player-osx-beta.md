@@ -11,8 +11,8 @@ image: /wp-content/uploads/2017/03/pluralsight-logo-2016-e1471542891309.png
 categories:
   - Reviews
 tags:
-  - career
-  - learning
+  - Career
+  - Reviews
   - PluralSight
 ---
 #### <img class="alignnone size-medium wp-image-671" src="https://sdbrett.com/assets/images/2017/03/pluralsight-logo-hor-color-1@2x-300x158.png" alt="" width="300" height="158" srcset="https://sdbrett.com/assets/images2017/03/pluralsight-logo-hor-color-1@2x-300x158.png 300w, https://sdbrett.com/assets/images2017/03/pluralsight-logo-hor-color-1@2x-260x137.png 260w, https://sdbrett.com/assets/images2017/03/pluralsight-logo-hor-color-1@2x.png 360w" sizes="(max-width: 300px) 100vw, 300px" />

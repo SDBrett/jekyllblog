@@ -6,7 +6,7 @@ author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2016/02/canary-token/
 categories:
-  - Uncategorized
+  - Reviews
 ---
 On the 28th of Jan, I got a notification on my phone that episode 396 of the Risky Business podcast was ready to be streamed for my drive home commute. The sponsored interview with Haroon Meer on a free service called Canary Tokens from Thinkst really got my attention. It was said that Canary Tokens were simple to implement service to produce an alert when activated, they could be placed into directory structures, DNS lookup, Word documents etc.
 

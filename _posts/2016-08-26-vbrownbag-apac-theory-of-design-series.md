@@ -8,9 +8,10 @@ permalink: /BrettsITBlog/2016/08/vbrownbag-apac-theory-of-design-series/
 academia_post_display_home:
   - ""
 categories:
-  - vBB Presenters
   - vBrownBag
+tags:
   - Vmware
+  - vBB Presenters
   - Windows
 ---
 Theory of Design is a new series for the vBrownBag APAC podcast. Intended to take a vendor agnostic look at design practices and principals. The series will provide the tools needed to assess, build and communicate solutions regardless of the vendor or product classification.

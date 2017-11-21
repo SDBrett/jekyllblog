@@ -7,6 +7,7 @@ layout: post
 permalink: /BrettsITBlog/2015/02/default-to-powershell-in-windows-core/
 categories:
   - Powershell
+tags:
   - Server 2012
 ---
 One of the big pushes in Server 2012 is the use a Server Core installation instead of the full GUI install. Microsoft have put a lot of effort into encouraging administrators to use Powershell as a core tool for day to day administration of servers, which is why is seems a bit strange that a Server Core installation boots to a traditional command prompt instead of a Powershell prompt.

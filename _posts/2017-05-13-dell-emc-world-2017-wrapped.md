@@ -11,7 +11,7 @@ image: /wp-content/uploads/2017/05/Dell-EMC-World-2017.jpg
 categories:
   - vBrownBag
 tags:
-  - community
+  - Community
   - Conference
   - vBrownBag
 ---

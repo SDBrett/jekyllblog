@@ -10,9 +10,9 @@ academia_post_display_home:
 categories:
   - Career
 tags:
-  - career
+  - Career
   - Education
-  - learning
+  - Learning
 ---
 Learning new skills is essential to stay relevant. If we are not learning new things, we are going backwards. This is not to say you should study at every moment. But, there is a need to learning something new.
 

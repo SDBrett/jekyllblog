@@ -9,12 +9,7 @@ academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/07/chef-logo.png
 categories:
-  - Automation
   - Chef
-  - Cloud
-  - Vmware
-  - vRA
-  - vRO
 tags:
   - chef
   - Cloud

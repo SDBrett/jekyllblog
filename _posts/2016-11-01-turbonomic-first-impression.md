@@ -8,7 +8,9 @@ permalink: /BrettsITBlog/2016/11/turbonomic-first-impression/
 academia_post_display_home:
   - ""
 categories:
-  - Uncategorized
+  - Reviews
+tags:
+  - Turbonomic
 ---
 A few days ago, I spun up Turbonomic on my home lab and have had a bit of a look around. I thought I would share my experience and thoughts on what I have seen from the product.
 

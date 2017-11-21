@@ -10,11 +10,9 @@ academia_post_display_home:
 image: /wp-content/uploads/2017/01/rancheros-logo-01.png
 categories:
   - Cloud
-  - OpenSource
 tags:
   - Linux
   - RancherOS
-  - VM
 ---
 #### ![](http://cdn.rancher.com/wp-content/uploads/2016/07/25205112/rancheros-logo-01.png)
 

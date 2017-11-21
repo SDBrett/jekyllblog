@@ -6,7 +6,7 @@ author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2016/08/lets-get-physical/
 categories:
-  - Uncategorized
+  - Career
 tags:
   - activity
   - fitness

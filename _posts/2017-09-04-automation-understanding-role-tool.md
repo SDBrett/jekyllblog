@@ -10,7 +10,6 @@ academia_post_display_home:
 image: /wp-content/uploads/2017/09/robotic-process-automation-hero.jpg
 categories:
   - Automation
-  - Cloud
 tags:
   - API
   - Automation

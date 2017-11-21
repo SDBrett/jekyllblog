@@ -11,10 +11,10 @@ image: /wp-content/uploads/2017/07/chef-logo.png
 categories:
   - Chef
 tags:
-  - chef
+  - Chef
   - Cloud
-  - devops
-  - opensource
+  - DevOps
+  - Automation
 ---
 
 Configuration management systems are used to deploy and ensure a standard environmental state. You might use a configuration manager to ensure that a file exists, or a certain setting is always applied to a system. As your IT infrastructure grows or becomes more distributed ensuring a consistent state becomes more difficult. Through deploying and ensuring consistent state across multiple systems based on central policies configuration managers help to lower the administrative overhead, improve security and reliability.

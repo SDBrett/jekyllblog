@@ -9,6 +9,7 @@ academia_post_display_home:
   - ""
 categories:
   - vBrownBag
+tags:
   - VMUG
 ---
 It&#8217;s coming up to two years that I have been running this blog, and roughly the same amount of time since I started being involved in the IT community. I thought it&#8217;s a good time to sit back and reflect on being involved in the IT community and maybe help some people looking to do the same.

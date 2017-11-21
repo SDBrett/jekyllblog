@@ -9,7 +9,6 @@ academia_post_display_home:
   - ""
 categories:
   - Cloud
-  - SDDC
 tags:
   - Cloud
   - Hybrid Cloud

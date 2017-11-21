@@ -11,7 +11,7 @@ image: /wp-content/uploads/2016/12/Communication.jpg
 categories:
   - Career
 tags:
-  - career
+  - Career
   - Communication
   - skills
 ---

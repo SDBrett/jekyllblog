@@ -13,7 +13,6 @@ categories:
 tags:
   - Python
   - Scripting
-  - XML
 ---
 #### <img class="alignnone size-medium wp-image-696" src="https://sdbrett.com/assets/images/2017/03/Python-300x101.png" alt="" width="300" height="101" srcset="https://sdbrett.com/assets/images2017/03/Python-300x101.png 300w, https://sdbrett.com/assets/images2017/03/Python-260x88.png 260w, https://sdbrett.com/assets/images2017/03/Python.png 601w" sizes="(max-width: 300px) 100vw, 300px" />
 

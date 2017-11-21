@@ -6,7 +6,7 @@ author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2016/07/a-quick-first-look-at-the-dell-fx2/
 categories:
-  - Uncategorized
+  - Reviews
 ---
 Recently, I had the chance to look at a Dell FX2 and from the time I got to spend on it, I was quite impressed. Time spend on this bit of kit wasn&#8217;t as long as I would have liked. It turned out the storage options didn&#8217;t suit the client needs.
 

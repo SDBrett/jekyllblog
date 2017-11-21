@@ -9,7 +9,6 @@ academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/12/pm2-config.png
 categories:
-  - OpenSource
   - Windows
 tags:
   - GitHub

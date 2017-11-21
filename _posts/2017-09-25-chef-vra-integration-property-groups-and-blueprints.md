@@ -18,8 +18,12 @@ categories:
   - vSphere
 tags:
   - Automation
-  - chef
+  - Chef
   - VMware
+  - Cloud
+  - vRA
+  - vRO
+  - vSphere
 ---
 
 The Chef plugin provides some workflows to help with getting the vRA integration up and running with minimal effort. I would suggest treating them as samples to build functionality on top of. There are some limitations from the default state which might not provide sufficient flexibility for production usage.

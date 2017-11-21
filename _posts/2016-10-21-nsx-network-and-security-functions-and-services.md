@@ -7,9 +7,9 @@ layout: post
 permalink: /BrettsITBlog/2016/10/nsx-network-and-security-functions-and-services/
 categories:
   - NSX
+tags:
   - Vmware
 ---
-**Network and Security Functions and Services**
 
 **Switching:** NSX switching resides on the data plane and utilises VMware vDS. Logical Switches are port groups on a vDS that are used for VXLAN traffic. Distributed port groups can also be used, but only for VLAN traffic.
 

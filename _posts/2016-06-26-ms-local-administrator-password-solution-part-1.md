@@ -7,6 +7,8 @@ layout: post
 permalink: /BrettsITBlog/2016/06/ms-local-administrator-password-solution-part-1/
 categories:
   - Server 2012
+tags:
+  - Microsoft
   - Windows
 ---
 In May 2015 Microsoft released Local Administrator Password Solution (LAPS) to help address the issue of keeping local administrator accounts secure. Setting the account password by GPO generally means a large number of computers will have the same password.

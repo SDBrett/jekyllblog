@@ -8,10 +8,8 @@ permalink: /BrettsITBlog/2016/11/converting-vmdk-physical-rdm/
 academia_post_display_home:
   - ""
 categories:
-  - Vmware
   - vSphere
 tags:
-  - Physical RDM
   - RDM
   - VMware
   - vSphere

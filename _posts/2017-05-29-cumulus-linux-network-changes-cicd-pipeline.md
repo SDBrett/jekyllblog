@@ -9,10 +9,7 @@ academia_post_display_home:
   - ""
 image: /wp-content/uploads/2017/05/cumulus-networks-linux-network-os.jpg
 categories:
-  - Cloud
-  - Interop ITX
-  - OpenSource
-  - SDDC
+  - Cumulus
 tags:
   - Cumulus
   - Linux
