@@ -11,8 +11,8 @@ tags:
 ---
 
 As part of the VCAP7-CMA Design study guide, I have put together a use case which will be used to provide context when addressing each of the exam objectives.
-
-The study guide can be found [here]({{ BASE_PATH }}{% link vcap7-CMA-Design.html %})
+                    
+The study guide can be found <a class="item" href="/vcap7-CMA-Design.html">here</a> 
 
 ##### Use Case
 
@@ -24,4 +24,4 @@ Mega-Awesome Transit would like to improve their deployment methods of the devel
  
 Execs have heard that implementation of automated processes could allow developers to deploy their own environments. They giving the developers control over environment deployment could improve efficiency. Resource and cost governance questions have been raised and will need to be addressed.
 
-[Back to study guide]({{ BASE_PATH }}{% link vcap7-CMA-Design.html %})
+<a class="item" href="/vcap7-CMA-Design.html">Back to study guide</a> 
