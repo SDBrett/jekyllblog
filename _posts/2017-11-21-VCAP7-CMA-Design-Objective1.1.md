@@ -46,19 +46,19 @@ We have started with a brief use case, this is the kind of detail that can be ex
 
 C level workshops, we should expect to gather business level requirements. Such as business objectives and legal regulations. These workshops are generally technical in nature.
 
-###### CEO Requirements
+##### CEO Requirements
 
 * Decrease time to deploy updates
 * Improve reliability of update process
 * Reduce downtime of application updates
 
-###### CFO Requirements
+##### CFO Requirements
 
 * Provide most cost-effective deployment environment
 * Provide reporting on costs
 * Enable governance over cost and prevent runaway pricing
 
-###### CTO Requirements
+##### CTO Requirements
 
 * Provide flexibility of deployment location
 * Automated testing of code
@@ -66,7 +66,7 @@ C level workshops, we should expect to gather business level requirements. Such 
 * As there is no dedicated dev infrastructure, cap resource usage
 * The solution should also allow IT staff to test VM's to cloud services
 
-###### CSO Requirements
+##### CSO Requirements
 
 * Access from non-corporate networks (including VPN) requires extra authentication
 
@@ -80,7 +80,7 @@ The BU and Line managers how the solution fits within the BU. It will need to be
 
 Personal note: I have found a lot of assumptions get made during these workshops. It pays to verify with operation teams and application owners. 
 
-###### BU and Line Manager Workshops
+##### BU and Line Manager Workshops
 
 * Developers can only consume 25% of on-site infrastructure
 * No more than 2 development instances per developer, maximum of 10 all up.
@@ -90,7 +90,7 @@ Personal note: I have found a lot of assumptions get made during these workshops
 * Developers work remotely and don't keep standard business hours. Downtime of the solution must be kept to a minimum.
 * IT staff test VMs cost must be controlled, with larger instances requiring approval
 
-###### BU and Line Manager
+##### BU and Line Manager
 
 Our BU and Line Managers have a strong focus on governance. They want to ensure what we put in place does not have a negative impact on other systems. Their requirements represent constraints we must work within.
 
@@ -100,7 +100,7 @@ During these workshops, we gather requirements specific to the application and h
 
 Personal note: It's not uncommon for application owners to contradict BU and Line managers. Usually, because the original deployment information is no longer relevant.
 
-###### Application Owner Requirements
+##### Application Owner Requirements
 
 * Other systems integrate with the application through REST API
 * End to end testing reports
@@ -110,7 +110,7 @@ Personal note: It's not uncommon for application owners to contradict BU and Lin
 * Use existing backup infrastructure to get data for testing
 * Prevent deployments communicating with each other
 
-###### Application Owner Summary
+##### Application Owner Summary
 
 The application owners have focused on the specifics of the applications needs. Their requirements will help ensure reliability and consistency of development environments. In a real scenario, application owners would offer greater detail into deployment methods.
 
@@ -118,7 +118,7 @@ The application owners have focused on the specifics of the applications needs. 
 
 IT administrator workshops help determine requirements such as; maintenance, operational support and alerts.
 
-###### IT Administrator Requirements
+##### IT Administrator Requirements
 
 * Use only specific networks
 * Central logging system used
@@ -128,7 +128,7 @@ IT administrator workshops help determine requirements such as; maintenance, ope
 * Test VMs in the public cloud should not touch production workloads
 
 
-###### IT Administrator Summary
+##### IT Administrator Summary
 
 IT Administrator provide requirements for operations. Their requirements will assist BAU manage the platform.
 
