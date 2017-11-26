@@ -22,6 +22,6 @@ Even though the networking, storage and compute infrastructure are highly virtua
  
 Mega-Awesome Transit would like to improve their deployment methods of the development environment to improve their ability to update their application and then look at new update strategies.
  
-Execs have heard that implementation of automated processes could allow developers to deploy their own environments. They giving the developers control over environment deployment could improve efficiency. Resource and cost governance questions have been raised and will need to be addressed.
+Execs have heard that implementation of automated processes could allow developers to deploy their own environments. They expect providing developers control of development environments to yield efficiency gains. Resource and cost governance questions have been raised and will need to be addressed.
 
 <a class="item" href="/vcap7-CMA-Design.html">Back to study guide</a> 

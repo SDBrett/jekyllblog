@@ -48,7 +48,7 @@ Ask yourself this. What products does VMware have which help code deployment? Co
 Our design needs to ensure required connectivity is present to push code to production. When deploying to brownfield sites, network air gaps are something to be aware of.
 
 
-> Execs have heard that implementation of automated processes could allow developers to deploy their own environments. They giving the developers control over environment deployment could improve efficiency. Resource and cost governance questions have been raised and will need to be addressed.
+> Execs have heard that implementation of automated processes could allow developers to deploy their own environments. They expect providing developers control of development environments to yield efficiency gains. Resource and cost governance questions have been raised and will need to be addressed.
 
 There is a lot of information packed into this paragraph.
 
