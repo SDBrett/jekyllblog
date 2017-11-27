@@ -10,7 +10,7 @@ tags:
   - vRA
 ---
 
-Holding workshops with business stakeholders is the primary method of gathering business requirements. The goal of requirement gathering is to understand what the business is trying to acheive. Requirements also provide the constraints which we must work within.
+Holding workshops with business stakeholders is the primary method of gathering business requirements. The goal of requirement gathering is to understand what the business is trying to acheive. Requirement workshops may also provide the constraints which we must work within.
 
 As a consultant conducting design workshops, it is important to have an agenda and list of goals before starting a workshop. When planning a workshop determine the desired outcomes. This will determine the appropriate stakeholders to invite.
 
