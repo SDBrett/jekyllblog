@@ -81,3 +81,5 @@ Some common risks are:
 
 ---- In Progress ----
 I'm currently creating a document containing the requirements, constraints, assumptions and risks. When completed this will be uploaded to github.
+
+<a class="item" href="/vcap7-CMA-Design.html">Back to study guide</a> 

@@ -80,7 +80,7 @@ The BU and Line managers how the solution fits within the BU. It will need to be
 
 Personal note: I have found a lot of assumptions get made during these workshops. It pays to verify with operation teams and application owners. 
 
-##### BU and Line Manager Workshops
+#### BU and Line Manager Workshops
 
 * Developers can only consume 25% of on-site infrastructure
 * No more than 2 development instances per developer, maximum of 10 all up.
@@ -94,7 +94,7 @@ Personal note: I have found a lot of assumptions get made during these workshops
 
 Our BU and Line Managers have a strong focus on governance. They want to ensure what we put in place does not have a negative impact on other systems. Their requirements represent constraints we must work within.
 
-##### Application Owner Workshops
+#### Application Owner Workshops
 
 During these workshops, we gather requirements specific to the application and how it's configured. As an external party, this could be an application we have never heard of. Or even a bespoke application. Application owners will help us understand how it's put together and deployed. 
 
@@ -114,7 +114,7 @@ Personal note: It's not uncommon for application owners to contradict BU and Lin
 
 The application owners have focused on the specifics of the applications needs. Their requirements will help ensure reliability and consistency of development environments. In a real scenario, application owners would offer greater detail into deployment methods.
 
-##### IT Administrators
+#### IT Administrators
 
 IT administrator workshops help determine requirements such as; maintenance, operational support and alerts.
 
@@ -132,6 +132,8 @@ IT administrator workshops help determine requirements such as; maintenance, ope
 
 IT Administrator provide requirements for operations. Their requirements will assist BAU manage the platform.
 
-##### Objective Summary
+##### Summary
 
 This objective is about finding out what criteria our design must meet to gain business approval. Different management levels will have their own priorities. 
+
+<a class="item" href="/vcap7-CMA-Design.html">Back to study guide</a> 

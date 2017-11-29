@@ -82,3 +82,5 @@ Generally there are governance questions cannot be answered at face value. We ne
 Use cases provide information as to the what the business goals are and the key drivers behind those goals. Little details can often be missed on first reading. Before answering questions, be confident you know the full details. A single sentence can change an entire use case.
 
 Think about what problems products within the exam scope solve and their limitations. An example is vRB does not integrate with Hyper-V. So it would an incorrect answer to a question on chargebacks with a Hyper-V endpoint.
+
+<a class="item" href="/vcap7-CMA-Design.html">Back to study guide</a> 
