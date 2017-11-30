@@ -6,3 +6,5 @@ s3_website.yml
 .java-version
 build-and-push.sh
 _drafts
+node_modules
+.vscode
