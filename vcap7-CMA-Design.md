@@ -1,6 +1,7 @@
 ---
 layout: page
 title: VCAP7 CMA Design
+permalink: /VCAP7-CMA-Design/
 ---
 This page is dedicated to providing information for the VCAP7-CMA Design exam.
 If you've read previous posts that I've written about study, you'll know that I'm a firm beleiver that learning only happens when we have context.
