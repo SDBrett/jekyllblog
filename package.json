@@ -1,0 +1,36 @@
+{
+  "name": "sdbrett",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp-exit": "^0.0.2",
+    "ngrok": "^2.2.24",
+    "pagespeed-cli": "^0.2.1",
+    "psi": "^3.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-run": "^1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdbrett/jekyllblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdbrett/jekyllblog/issues"
+  },
+  "homepage": "https://github.com/sdbrett/jekyllblog#readme",
+  "description": ""
+}
