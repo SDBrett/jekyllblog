@@ -9,6 +9,17 @@ baseurl: /
 plugins: 
   - jekyll-gist
   - jekyll-paginate
+
+exclude:
+  - gulp_config
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - s3_website.yml
+  - build-and-push.sh
+  - .java-version
+  - .vscode
   
 permalink: BrettsITBlog/:year/:month/:title.html
 
