@@ -20,6 +20,9 @@ exclude:
   - build-and-push.sh
   - .java-version
   - .vscode
+  - node_modules
+  - package-lock.json
+  - package.json
   
 permalink: BrettsITBlog/:year/:month/:title.html
 
