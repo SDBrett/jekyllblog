@@ -29,7 +29,7 @@ I have started my configuration a bit out of order from the study guide I am usi
 
 The starting topology is very simple, a router R1 and Layer2 device through IOU and a Debian VM.
 
-[<img class="alignnone size-medium wp-image-55" src="https://sdbrett.com/assets/images2015/07/Network-topology-300x217.png" alt="Network topology" width="300" height="217" srcset="https://sdbrett.com/assets/images2015/07/Network-topology-300x217.png 300w, https://sdbrett.com/assets/images2015/07/Network-topology.png 389w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images2015/07/Network-topology.png)
+[<img class="alignnone size-medium wp-image-55" src="https://sdbrett.com/assets/images/2015/07/Network-topology-300x217.png" alt="Network topology" width="300" height="217" srcset="https://sdbrett.com/assets/images/2015/07/Network-topology-300x217.png 300w, https://sdbrett.com/assets/images/2015/07/Network-topology.png 389w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2015/07/Network-topology.png)
 
 **The DHCP config**
 
@@ -68,18 +68,18 @@ Adding a VM to GNS3 is a very simple process. Go to Edit > Preferences > Virtual
 
 To get the VM to communicate with the devices go to Edit > Preferences > VirtualBox VMs > Edit > Network and tick Allow GNS3 to use any configured VirtualBox Adapter
 
-[<img class="alignnone wp-image-57" src="https://sdbrett.com/assets/images2015/07/debian-network-GNS3-300x92.png" alt="debian network GNS3" width="427" height="131" srcset="https://sdbrett.com/assets/images2015/07/debian-network-GNS3-300x92.png 300w, https://sdbrett.com/assets/images2015/07/debian-network-GNS3.png 573w" sizes="(max-width: 427px) 100vw, 427px" />](https://sdbrett.com/assets/images2015/07/debian-network-GNS3.png)
+[<img class="alignnone wp-image-57" src="https://sdbrett.com/assets/images/2015/07/debian-network-GNS3-300x92.png" alt="debian network GNS3" width="427" height="131" srcset="https://sdbrett.com/assets/images/2015/07/debian-network-GNS3-300x92.png 300w, https://sdbrett.com/assets/images/2015/07/debian-network-GNS3.png 573w" sizes="(max-width: 427px) 100vw, 427px" />](https://sdbrett.com/assets/images/2015/07/debian-network-GNS3.png)
 
 When I powered on the project the network settings for the VM in VirtualBox had been updated.
 
-[<img class="alignnone wp-image-58" src="https://sdbrett.com/assets/images2015/07/debian-network-vb-300x207.png" alt="debian network vb" width="428" height="295" srcset="https://sdbrett.com/assets/images2015/07/debian-network-vb-300x207.png 300w, https://sdbrett.com/assets/images2015/07/debian-network-vb.png 501w" sizes="(max-width: 428px) 100vw, 428px" />](https://sdbrett.com/assets/images2015/07/debian-network-vb.png)
+[<img class="alignnone wp-image-58" src="https://sdbrett.com/assets/images/2015/07/debian-network-vb-300x207.png" alt="debian network vb" width="428" height="295" srcset="https://sdbrett.com/assets/images/2015/07/debian-network-vb-300x207.png 300w, https://sdbrett.com/assets/images/2015/07/debian-network-vb.png 501w" sizes="(max-width: 428px) 100vw, 428px" />](https://sdbrett.com/assets/images/2015/07/debian-network-vb.png)
 
 &nbsp;
 
 Everything booted fine and communication tested well.
 
 <div id="attachment_54" style="width: 430px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images2015/07/ifconfig.png"><img class=" wp-image-54" src="https://sdbrett.com/assets/images2015/07/ifconfig-300x65.png" alt="DHCP setup confirmed" width="420" height="91" srcset="https://sdbrett.com/assets/images2015/07/ifconfig-300x65.png 300w, https://sdbrett.com/assets/images2015/07/ifconfig.png 706w" sizes="(max-width: 420px) 100vw, 420px" /></a>
+  <a href="https://sdbrett.com/assets/images/2015/07/ifconfig.png"><img class=" wp-image-54" src="https://sdbrett.com/assets/images/2015/07/ifconfig-300x65.png" alt="DHCP setup confirmed" width="420" height="91" srcset="https://sdbrett.com/assets/images/2015/07/ifconfig-300x65.png 300w, https://sdbrett.com/assets/images/2015/07/ifconfig.png 706w" sizes="(max-width: 420px) 100vw, 420px" /></a>
   
   <p class="wp-caption-text">
     DHCP setup confirmed
@@ -87,7 +87,7 @@ Everything booted fine and communication tested well.
 </div>
 
 <div id="attachment_53" style="width: 427px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images2015/07/host-to-router-ping.png"><img class=" wp-image-53" src="https://sdbrett.com/assets/images2015/07/host-to-router-ping-300x90.png" alt="Ping VM to FastEthernet 0/0" width="417" height="125" srcset="https://sdbrett.com/assets/images2015/07/host-to-router-ping-300x90.png 300w, https://sdbrett.com/assets/images2015/07/host-to-router-ping.png 578w" sizes="(max-width: 417px) 100vw, 417px" /></a>
+  <a href="https://sdbrett.com/assets/images/2015/07/host-to-router-ping.png"><img class=" wp-image-53" src="https://sdbrett.com/assets/images/2015/07/host-to-router-ping-300x90.png" alt="Ping VM to FastEthernet 0/0" width="417" height="125" srcset="https://sdbrett.com/assets/images/2015/07/host-to-router-ping-300x90.png 300w, https://sdbrett.com/assets/images/2015/07/host-to-router-ping.png 578w" sizes="(max-width: 417px) 100vw, 417px" /></a>
   
   <p class="wp-caption-text">
     Ping VM to FastEthernet 0/0
@@ -95,7 +95,7 @@ Everything booted fine and communication tested well.
 </div>
 
 <div id="attachment_60" style="width: 430px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images2015/07/host-to-router-fast-01.png"><img class=" wp-image-60" src="https://sdbrett.com/assets/images2015/07/host-to-router-fast-01-300x80.png" alt="Ping VM to FastEthernet 0/1" width="420" height="112" srcset="https://sdbrett.com/assets/images2015/07/host-to-router-fast-01-300x80.png 300w, https://sdbrett.com/assets/images2015/07/host-to-router-fast-01.png 580w" sizes="(max-width: 420px) 100vw, 420px" /></a>
+  <a href="https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01.png"><img class=" wp-image-60" src="https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01-300x80.png" alt="Ping VM to FastEthernet 0/1" width="420" height="112" srcset="https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01-300x80.png 300w, https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01.png 580w" sizes="(max-width: 420px) 100vw, 420px" /></a>
   
   <p class="wp-caption-text">
     Ping VM to FastEthernet 0/1
