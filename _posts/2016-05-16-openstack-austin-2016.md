@@ -38,10 +38,10 @@ As the convention wound down on Thursday, so did vBrownBag. With a lighter sched
   I'll wrap this up with some of my photos from the week at OpenStack.
 </p>
 
-![Setting Up]({{ "/assets/images/2016/05/Photo-25-04-2016-6-33-48-AM-CROP-1024x768.jpg"| absolute_url }})
+[![Setting Up](/assets/images/2016/05/Photo-25-04-2016-6-33-48-AM-CROP-1024x768.jpg)]({{site.url}}/assets/images/2016/05/Photo-25-04-2016-6-33-48-AM-CROP-1024x768.jpg)
 
-![Full House]({{ "/assets/images/2016/05/Photo-26-04-2016-3-11-26-AM-CROP-1024x768.jpg"| absolute_url }})
+[![Full House](/assets/images/2016/05/Photo-26-04-2016-3-11-26-AM-CROP-1024x768.jpg)]({{site.url}}/assets/images/2016/05/Photo-26-04-2016-3-11-26-AM-CROP-1024x768.jpg)
 
-![Mates]({{ "/assets/images/2016/05/Photo-26-04-2016-11-28-53-AM-CROP-1024x768.jpg"| absolute_url }})
+[![Mates](/assets/images/2016/05/Photo-26-04-2016-11-28-53-AM-CROP-1024x768.jpg)]({{site.url}}/assets/images/2016/05/Photo-26-04-2016-11-28-53-AM-CROP-1024x768.jpg)
 
-![BBQ]({{ "/assets/images/2016/05/Photo-27-04-2016-10-56-12-AM-CROP.jpg" | absolute_url }})
+[![BBQ](/assets/images/2016/05/Photo-27-04-2016-10-56-12-AM-CROP.jpg)]({{site.url}}/assets/images/2016/05/Photo-27-04-2016-10-56-12-AM-CROP.jpg)
