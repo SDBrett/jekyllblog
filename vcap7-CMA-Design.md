@@ -19,7 +19,7 @@ In addition, documentation in addition to the blog posts will be created and mad
        
     
 * Objective 2 - Create a vRealize Automation Logical Design
-    * Objective 2.1 - Map Business Requirements to the Logical Design
+    * [Objective 2.1 - Map Business Requirements to the Logical Design]({% post_url 2018-01-16-VCAP7-CMA-Design-Objective2.1 %})
     * Objective 2.2 - Map Service Dependencies
     * Objective 2.3 - Build Availability Requirements into the Logical Design
     * Objective 2.4 - Build Manageability Requirements into the Logical Design
