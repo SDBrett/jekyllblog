@@ -8,13 +8,13 @@ permalink: /BrettsITBlog/2016/05/creating-aws-instances-with-boto3/
 categories:
   - Python
 ---
-Yesterday I decided that I would like to create an AWS instance using python. After not very much searching, I came across Boto3 which is the python SDK for AWS and set to work. Being fairly green with both python and using API&#8217;s I felt like this was a bit of learning curve, but worth undertaking.
+Yesterday I decided that I would like to create an AWS instance using python. After not very much searching, I came across Boto3 which is the python SDK for AWS and set to work. Being fairly green with both python and using APIs I felt like this was a bit of learning curve, but worth undertaking.
 
 The code for this task is located on [GitHub](https://github.com/oversizedspoon/NewAWSInstance)
 
-For testing, I have been using Python 3 and the latest Boto3 build as of the 8/05/2016. If you&#8217;re using a version of Boto prior to 3, you will most likely find that the details below will not work.
+For testing, I have been using Python 3 and the latest Boto3 build as of the 8/05/2016. If youre using a version of Boto prior to 3, you will most likely find that the details below will not work.
 
-Boto3 can be installed through pip or by cloning the GitHub repo, I chose the GitHub repo. The Installation was very simple, navigate to the directory that you cloned Boto3 into and run _python setup.py install_. That&#8217;s all there is to getting Boto3.
+Boto3 can be installed through pip or by cloning the GitHub repo, I chose the GitHub repo. The Installation was very simple, navigate to the directory that you cloned Boto3 into and run _python setup.py install_. Thats all there is to getting Boto3.
 
 To use Boto3 our script needs to import the modules, this is done by using
 
@@ -47,17 +47,19 @@ instances = ec2.create_instances(
 
 There are a lot of attributes that can be used when creating and instance, for this task I have tried to keep it as simple as possible.
 
-ImageID &#8211; This specifies the instance we want to create. In this case, we will create a RHEL 7.2 instance
+ImageID: This specifies the instance we want to create. In this case, we will create a RHEL 7.2 instance
 
-MinCount and MaxCount &#8211; Specify the number of instances to establish
+MinCount and MaxCount: Specify the number of instances to establish
 
-KeyName &#8211; The name of the KeyPair to use. If KeyName is not used then you will not be able to access the instance
+KeyName: The name of the KeyPair to use. If KeyName is not used then you will not be able to access the instance
 
-InstanceType &#8211; The size of the instance to create.
+InstanceType: The size of the instance to create.
 
-The file section of code provide output to the instance ID&#8217;s created with the script
+The file section of code provide output to the instance IDs created with the script
 
-{% highlight python %}for instance in instances:
-    print(instance.id, instance.instance_type){% endhighlight %}
+{% highlight python %}
+for instance in instances:
+    print(instance.id, instance.instance_type)
+{% endhighlight %}
 
 This is a script that I plan on developing over time, making it more useful and seeing what functionality I can put into it.
