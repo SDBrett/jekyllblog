@@ -48,7 +48,7 @@ The supply chain provides end to end visibility of resource consumption. Adding 
 
 This is the Supply Chain view from the Turbonomic web page for a VM.
 
-<img class="alignnone size-medium wp-image-493" src="https://sdbrett.com/assets/images/2016/11/Turbonomic-Supply-Chain-258x300.png" alt="turbonomic supply chain" width="258" height="300" srcset="https://sdbrett.com/assets/images2016/11/Turbonomic-Supply-Chain-258x300.png 258w, https://sdbrett.com/assets/images2016/11/Turbonomic-Supply-Chain-260x302.png 260w, https://sdbrett.com/assets/images2016/11/Turbonomic-Supply-Chain.png 646w" sizes="(max-width: 258px) 100vw, 258px" />
+<img class="alignnone size-medium wp-image-493" src="https://sdbrett.com/assets/images/2016/11/Turbonomic-Supply-Chain-258x300.png" alt="turbonomic supply chain" width="258" height="300" srcset="https://sdbrett.com/assets/images/2016/11/Turbonomic-Supply-Chain-258x300.png 258w, https://sdbrett.com/assets/images/2016/11/Turbonomic-Supply-Chain-260x302.png 260w, https://sdbrett.com/assets/images/2016/11/Turbonomic-Supply-Chain.png 646w" sizes="(max-width: 258px) 100vw, 258px" />
 
 The above is a high level, more metrics go into the economic model. This is the not the post to go deep into the model, but that will be coming.
 
@@ -62,7 +62,7 @@ Configure policies as needed, Turbonomic will work out of the box. Too many poli
 
 By ingesting resource data and understanding policies (if configured) Turbonomic learns the &#8216;Desired State&#8217;. The desired state is the balance between efficient resource use and performance. Underutilization or resources is wasteful. But performance is at peak. Over utilization has a negative impact on performance. There is a balance where performance meets QoS and utilization is efficent. This is the desired state.
 
-<img class="alignnone size-medium wp-image-492" src="https://sdbrett.com/assets/images/2016/11/Turbonomic-Desired-State-300x201.png" alt="turbonomic desired state" width="300" height="201" srcset="https://sdbrett.com/assets/images2016/11/Turbonomic-Desired-State-300x201.png 300w, https://sdbrett.com/assets/images2016/11/Turbonomic-Desired-State-768x516.png 768w, https://sdbrett.com/assets/images2016/11/Turbonomic-Desired-State-260x175.png 260w, https://sdbrett.com/assets/images2016/11/Turbonomic-Desired-State.png 840w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-492" src="https://sdbrett.com/assets/images/2016/11/Turbonomic-Desired-State-300x201.png" alt="turbonomic desired state" width="300" height="201" srcset="https://sdbrett.com/assets/images/2016/11/Turbonomic-Desired-State-300x201.png 300w, https://sdbrett.com/assets/images/2016/11/Turbonomic-Desired-State-768x516.png 768w, https://sdbrett.com/assets/images/2016/11/Turbonomic-Desired-State-260x175.png 260w, https://sdbrett.com/assets/images/2016/11/Turbonomic-Desired-State.png 840w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Performance as mentioned above, could be CPU ready time, disk latency etc. These metrics have an acceptable range. By saying performance dips with increased resource use, doesn&#8217;t imply negative impact. vCPU to pCPU ratio might change from 1:1 to 1.2:1, causing CPU ready to change from 1% to 1.4%. While this is a performance impact, it may not be detremental to the workloads running.
 

@@ -27,7 +27,7 @@ About 12 months ago I decided it was time to start expanding my career and what 
 
 Getting to the VMUG wasn't without issue seeing as it was 2 hour drive each way and this was my commute for community every 6 weeks. Luckily for me getting nothing came up at work stopping me from taking the time off needed to get there in time.
 
-![vBeers]({{ "/assets/images2016/03/vbeers.jpg" | absolute_url }})
+![vBeers]({{ "/assets/images/2016/03/vbeers.jpg" | absolute_url }})
 
 My first vBeers couldn't have gone better. I got to meet a great bunch of people, who from the start really seemed interested in what I was doing and had some great stories of their own to share. I met VMware staff, contractors and vendors, as just as importantly had a few beers.
 
@@ -37,13 +37,13 @@ From there I organized with work do some extra hours leading up to each VMUG mee
 
 VMUG meetings provide great presentations from both community members and sponsors alike. There are usually a couple of sessions running at a time, while it can cause a bit of a conflict for some it really helps get more content out there. If you're part of a VMUG and want to present drop a line to your leaders and see how it goes. Meetings have a planned agenda which is published on the VMUG site. At least for Melbourne they are followed up that night with a vBeers.
 
-![Ramon]({{ "/assets/images2016/03/vmug-community-presentation.jpg" | absolute_url }})
+![Ramon]({{ "/assets/images/2016/03/vmug-community-presentation.jpg" | absolute_url }})
 
 In my time attending the Melbourne VMUG, I have meet some of the best people I know in the industry, I have learnt more than I expected, the amount of real world knowledge is phenomenal. Attending these groups gives a fantastic taste of how others do something, why a product was chosen and of course what can go wrong.
 
 Melbourne has been awarded the extra mile award and looking back it's easy to see why. Everyone that is part of the Melbourne VMUG has always been will to have a chat, answer a question or help provide another view point.
 
-![Extra mile award]({{ "/assets/images2016/03/CN7ML18UEAA_Zmq.jpg" | absolute_url }})
+![Extra mile award]({{ "/assets/images/2016/03/CN7ML18UEAA_Zmq.jpg" | absolute_url }})
 
 In Feb just gone I attended my first VMUG UserCon and the spirit of VMUG was alive and well with all the people I spoke to, including people from other VMUGS and even international attendees. I was able to have a great chat to [Brad Tompkins](https://twitter.com/VMUG_CEO) who is the CEO of VMUG and it was obvious that he had a genuine passion for not just VMUG as an entity but more importantly the people of VMUG.
 

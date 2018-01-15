@@ -14,7 +14,7 @@ tags:
   - VMware
   - vSphere
 ---
-<img class="alignnone wp-image-457 size-medium" src="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg" alt="Physical RDM" width="300" height="271" srcset="https://sdbrett.com/assets/images2016/11/RDM-300x271.jpg 300w, https://sdbrett.com/assets/images2016/11/RDM-260x235.jpg 260w, https://sdbrett.com/assets/images2016/11/RDM.jpg 346w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone wp-image-457 size-medium" src="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg" alt="Physical RDM" width="300" height="271" srcset="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg 300w, https://sdbrett.com/assets/images/2016/11/RDM-260x235.jpg 260w, https://sdbrett.com/assets/images/2016/11/RDM.jpg 346w" sizes="(max-width: 300px) 100vw, 300px" />
 
 I&#8217;ve been having some issues with the conversion of a VMDK to a Physical RDM. This is a request from a client, as the storage and backup vendor has stated that there are advantages to doing this. Not something I have done before, but nothing wrong with that.
 

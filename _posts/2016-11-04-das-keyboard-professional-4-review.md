@@ -14,7 +14,7 @@ tags:
   - Das Keyboard
   - Das Keyboard professional 4
 ---
-[<img class="alignnone wp-image-450" src="https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view-300x187.jpg" alt="daskeyboard-4-professional-front-view" width="499" height="311" srcset="https://sdbrett.com/assets/images2016/11/daskeyboard-4-professional-front-view-300x187.jpg 300w, https://sdbrett.com/assets/images2016/11/daskeyboard-4-professional-front-view-768x480.jpg 768w, https://sdbrett.com/assets/images2016/11/daskeyboard-4-professional-front-view-1024x639.jpg 1024w, https://sdbrett.com/assets/images2016/11/daskeyboard-4-professional-front-view-260x162.jpg 260w" sizes="(max-width: 499px) 100vw, 499px" />](https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view.jpg)
+[<img class="alignnone wp-image-450" src="https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view-300x187.jpg" alt="daskeyboard-4-professional-front-view" width="499" height="311" srcset="https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view-300x187.jpg 300w, https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view-768x480.jpg 768w, https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view-1024x639.jpg 1024w, https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view-260x162.jpg 260w" sizes="(max-width: 499px) 100vw, 499px" />](https://sdbrett.com/assets/images/2016/11/daskeyboard-4-professional-front-view.jpg)
 
 Recently I have started using a Das Professional 4 and I thought it might be time to do a review. I&#8217;m not going to go through the features of the keyboard, cable length etc. You can find that everywhere. This review covers my experience with it.
 
@@ -30,7 +30,7 @@ Since the original, Das have added some multimedia keys, which a nice and minima
 
 Frist impressions were like the Ultimate. It&#8217;s like a keyboard shaped brick. Heavy and solid, how I like it.
 
-<img class="alignnone size-medium wp-image-452" src="https://sdbrett.com/assets/images/2016/11/PlwJHy23_c8-300x276.jpg" alt="plwjhy23_c8" width="300" height="276" srcset="https://sdbrett.com/assets/images2016/11/PlwJHy23_c8-300x276.jpg 300w, https://sdbrett.com/assets/images2016/11/PlwJHy23_c8-260x240.jpg 260w, https://sdbrett.com/assets/images2016/11/PlwJHy23_c8.jpg 521w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-452" src="https://sdbrett.com/assets/images/2016/11/PlwJHy23_c8-300x276.jpg" alt="plwjhy23_c8" width="300" height="276" srcset="https://sdbrett.com/assets/images/2016/11/PlwJHy23_c8-300x276.jpg 300w, https://sdbrett.com/assets/images/2016/11/PlwJHy23_c8-260x240.jpg 260w, https://sdbrett.com/assets/images/2016/11/PlwJHy23_c8.jpg 521w" sizes="(max-width: 300px) 100vw, 300px" />
 
 The typing feel is excellent, very similar experience to the Ultimate. There is a noticeable difference in feel with the change in switches. The browns have less of a click feel than the blues. The weight of the keypress feels very similar.
 

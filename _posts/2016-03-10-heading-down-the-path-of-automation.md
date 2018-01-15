@@ -12,7 +12,7 @@ It's hard to work in the IT industry and not hear about automation on practicall
 
 **I was wrong.**
 
-![Wrong]({{ "/assets/images2016/03/wrong-logo.jpg" | absolute_url }})
+![Wrong]({{ "/assets/images/2016/03/wrong-logo.jpg" | absolute_url }})
 
 Over the last 12 months or so I have been making a very conscious effort to expand my personal network in the industry primarily for knowledge transfer as well has having people that I can have technical chats with over a (ok a few) beers. Looking back I realise that a lot of the conversations have had the topic of automation and when this happens I would think to myself &#8220;Wow I'd like to be able to do that&#8221;.
 

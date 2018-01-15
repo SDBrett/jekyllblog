@@ -14,7 +14,7 @@ tags:
   - VMUG
   - VMware
 ---
-<img class="alignnone size-medium wp-image-481" src="https://sdbrett.com/assets/images/2016/11/VCDX-merch-300x83.jpg" alt="VCDX Workshop" width="300" height="83" srcset="https://sdbrett.com/assets/images2016/11/VCDX-merch-300x83.jpg 300w, https://sdbrett.com/assets/images2016/11/VCDX-merch-260x72.jpg 260w, https://sdbrett.com/assets/images2016/11/VCDX-merch.jpg 709w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-481" src="https://sdbrett.com/assets/images/2016/11/VCDX-merch-300x83.jpg" alt="VCDX Workshop" width="300" height="83" srcset="https://sdbrett.com/assets/images/2016/11/VCDX-merch-300x83.jpg 300w, https://sdbrett.com/assets/images/2016/11/VCDX-merch-260x72.jpg 260w, https://sdbrett.com/assets/images/2016/11/VCDX-merch.jpg 709w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Last night [Sydney VMUG](https://twitter.com/VMUGSydney) hosted a VCDX Workshop, with [Travis Wood](https://twitter.com/vtravwood) presenting. This is the first workshop that I have attended and thought that I would share some thoughts on my impressions.
 

@@ -16,7 +16,7 @@ tags:
   - VMware
   - vSphere
 ---
-#### <img class="alignnone wp-image-565 size-full" title="PowerCLI" src="https://sdbrett.com/assets/images/2016/12/PowerCLI.png" width="237" height="236" srcset="https://sdbrett.com/assets/images2016/12/PowerCLI.png 237w, https://sdbrett.com/assets/images2016/12/PowerCLI-150x150.png 150w" sizes="(max-width: 237px) 100vw, 237px" />
+#### <img class="alignnone wp-image-565 size-full" title="PowerCLI" src="https://sdbrett.com/assets/images/2016/12/PowerCLI.png" width="237" height="236" srcset="https://sdbrett.com/assets/images/2016/12/PowerCLI.png 237w, https://sdbrett.com/assets/images/2016/12/PowerCLI-150x150.png 150w" sizes="(max-width: 237px) 100vw, 237px" />
 
 #### PowerCLI Script OverView
 

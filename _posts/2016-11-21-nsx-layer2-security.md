@@ -13,7 +13,7 @@ tags:
   - NSX
   - VMware
 ---
-<img class="alignnone size-medium wp-image-486" src="https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-300x154.jpg" alt="VMware NSX" width="300" height="154" srcset="https://sdbrett.com/assets/images2016/11/VMW-NSX-Logo1-300x154.jpg 300w, https://sdbrett.com/assets/images2016/11/VMW-NSX-Logo1-260x133.jpg 260w, https://sdbrett.com/assets/images2016/11/VMW-NSX-Logo1.jpg 359w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-486" src="https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-300x154.jpg" alt="VMware NSX" width="300" height="154" srcset="https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-300x154.jpg 300w, https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-260x133.jpg 260w, https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1.jpg 359w" sizes="(max-width: 300px) 100vw, 300px" />
 
 #### Layer2 Invisibility
 

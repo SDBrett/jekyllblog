@@ -16,7 +16,7 @@ tags:
   - VMware
   - vSphere
 ---
-#### <img class="alignnone size-medium wp-image-457" src="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg" alt="rdm" width="300" height="271" srcset="https://sdbrett.com/assets/images2016/11/RDM-300x271.jpg 300w, https://sdbrett.com/assets/images2016/11/RDM-260x235.jpg 260w, https://sdbrett.com/assets/images2016/11/RDM.jpg 346w" sizes="(max-width: 300px) 100vw, 300px" />
+#### <img class="alignnone size-medium wp-image-457" src="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg" alt="rdm" width="300" height="271" srcset="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg 300w, https://sdbrett.com/assets/images/2016/11/RDM-260x235.jpg 260w, https://sdbrett.com/assets/images/2016/11/RDM.jpg 346w" sizes="(max-width: 300px) 100vw, 300px" />
 
 #### RDM High-Level Cover
 
@@ -48,7 +48,7 @@ To take a step back for explanation purposes. When you have a new SDD for you a
 
 Use normal OS partitioning and formatting. With an RDM, the partition is written directly to the LUN, the filesystem is written directly to the LUN as well and can be seen in vSphere.
 
-<img class="alignnone wp-image-465" src="https://sdbrett.com/assets/images/2016/11/File-System-300x77.png" alt="RDM file-system" width="588" height="151" srcset="https://sdbrett.com/assets/images2016/11/File-System-300x77.png 300w, https://sdbrett.com/assets/images2016/11/File-System-260x67.png 260w, https://sdbrett.com/assets/images2016/11/File-System.png 544w" sizes="(max-width: 588px) 100vw, 588px" />
+<img class="alignnone wp-image-465" src="https://sdbrett.com/assets/images/2016/11/File-System-300x77.png" alt="RDM file-system" width="588" height="151" srcset="https://sdbrett.com/assets/images/2016/11/File-System-300x77.png 300w, https://sdbrett.com/assets/images/2016/11/File-System-260x67.png 260w, https://sdbrett.com/assets/images/2016/11/File-System.png 544w" sizes="(max-width: 588px) 100vw, 588px" />
 
 That&#8217;s the RDM setup. It will work, but just knowing the steps doesn&#8217;t provide much insight as to how RDM&#8217;s work, more to the point why you see what you see.
 

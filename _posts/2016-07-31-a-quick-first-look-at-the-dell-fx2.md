@@ -16,7 +16,7 @@ The back of the chassis has two RJ45 ports for CMC management. If you haven&#821
 
 CMC stacking is used to connect multiple FX2 CMC ports for cable consolidation.
 
-[<img class="alignnone size-medium wp-image-314" src="https://sdbrett.com/assets/images/2016/07/CMC-Stacking-259x300.png" alt="CMC Stacking" width="259" height="300" srcset="https://sdbrett.com/assets/images2016/07/CMC-Stacking-259x300.png 259w, https://sdbrett.com/assets/images2016/07/CMC-Stacking.png 712w" sizes="(max-width: 259px) 100vw, 259px" />](https://sdbrett.com/assets/images/2016/07/CMC-Stacking.png)
+[<img class="alignnone size-medium wp-image-314" src="https://sdbrett.com/assets/images/2016/07/CMC-Stacking-259x300.png" alt="CMC Stacking" width="259" height="300" srcset="https://sdbrett.com/assets/images/2016/07/CMC-Stacking-259x300.png 259w, https://sdbrett.com/assets/images/2016/07/CMC-Stacking.png 712w" sizes="(max-width: 259px) 100vw, 259px" />](https://sdbrett.com/assets/images/2016/07/CMC-Stacking.png)
 
 In the default configuration, connecting both management ports will create a network loop and cause a bit of havoc. To connect both CMC ports, the second ports configuration needs to be changed to redundant. This change can be made through the CMC web UI or serial console.
 
@@ -32,4 +32,4 @@ During my confirmation of this a large amount of the storage information I found
 
 Even though I did not get to spend more than half a day on the FX. I was impressed with the kit and am hoping to get another opportunity to spend more time working on them.
 
-[<img class="alignnone  wp-image-312" src="https://sdbrett.com/assets/images/2016/07/peFX2s_2x_fc430_1_8_2x_fc43-300x59.jpg" alt="FX2 Front" width="590" height="116" srcset="https://sdbrett.com/assets/images2016/07/peFX2s_2x_fc430_1_8_2x_fc43-300x59.jpg 300w, https://sdbrett.com/assets/images2016/07/peFX2s_2x_fc430_1_8_2x_fc43-768x150.jpg 768w, https://sdbrett.com/assets/images2016/07/peFX2s_2x_fc430_1_8_2x_fc43.jpg 870w" sizes="(max-width: 590px) 100vw, 590px" />](https://sdbrett.com/assets/images/2016/07/peFX2s_2x_fc430_1_8_2x_fc43.jpg)
+[<img class="alignnone  wp-image-312" src="https://sdbrett.com/assets/images/2016/07/peFX2s_2x_fc430_1_8_2x_fc43-300x59.jpg" alt="FX2 Front" width="590" height="116" srcset="https://sdbrett.com/assets/images/2016/07/peFX2s_2x_fc430_1_8_2x_fc43-300x59.jpg 300w, https://sdbrett.com/assets/images/2016/07/peFX2s_2x_fc430_1_8_2x_fc43-768x150.jpg 768w, https://sdbrett.com/assets/images/2016/07/peFX2s_2x_fc430_1_8_2x_fc43.jpg 870w" sizes="(max-width: 590px) 100vw, 590px" />](https://sdbrett.com/assets/images/2016/07/peFX2s_2x_fc430_1_8_2x_fc43.jpg)

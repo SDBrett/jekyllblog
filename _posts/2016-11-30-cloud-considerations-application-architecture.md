@@ -15,7 +15,7 @@ tags:
   - Microservices
   - SDDC
 ---
-### <img class="alignnone size-medium wp-image-527" src="https://sdbrett.com/assets/images/2016/11/Microservices-300x161.png" alt="micro services architecture" width="300" height="161" srcset="https://sdbrett.com/assets/images2016/11/Microservices-300x161.png 300w, https://sdbrett.com/assets/images2016/11/Microservices-768x412.png 768w, https://sdbrett.com/assets/images2016/11/Microservices-260x139.png 260w, https://sdbrett.com/assets/images2016/11/Microservices.png 800w" sizes="(max-width: 300px) 100vw, 300px" />
+### <img class="alignnone size-medium wp-image-527" src="https://sdbrett.com/assets/images/2016/11/Microservices-300x161.png" alt="micro services architecture" width="300" height="161" srcset="https://sdbrett.com/assets/images/2016/11/Microservices-300x161.png 300w, https://sdbrett.com/assets/images/2016/11/Microservices-768x412.png 768w, https://sdbrett.com/assets/images/2016/11/Microservices-260x139.png 260w, https://sdbrett.com/assets/images/2016/11/Microservices.png 800w" sizes="(max-width: 300px) 100vw, 300px" />
 
 ### **Application Architecture**
 
