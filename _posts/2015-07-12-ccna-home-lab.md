@@ -29,38 +29,38 @@ I have started my configuration a bit out of order from the study guide I am usi
 
 The starting topology is very simple, a router R1 and Layer2 device through IOU and a Debian VM.
 
-[<img class="alignnone size-medium wp-image-55" src="https://sdbrett.com/assets/images/2015/07/Network-topology-300x217.png" alt="Network topology" width="300" height="217" srcset="https://sdbrett.com/assets/images/2015/07/Network-topology-300x217.png 300w, https://sdbrett.com/assets/images/2015/07/Network-topology.png 389w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2015/07/Network-topology.png)
+![Topology]({{ "/assets/images/2015/07/Network-topology.png" | absolute_url }})
 
 **The DHCP config**
 
-`<br />
-<em>no ip dhcp use vrf connected</em><br />
-<em> ip dhcp excluded-address 192.168.10.1 192.168.10.20</em><br />
-<em> !</em><br />
-<em> ip dhcp pool Internal</em><br />
-<em> network 192.168.10.0 255.255.255.0</em><br />
-<em> dns-server 4.4.4.4</em><br />
-<em> default-router 192.168.10.1</em><br />
-` 
+{% highlight plaintext %}
+
+no ip dhcp use vrf connected
+ ip dhcp excluded-address 192.168.10.1 192.168.10.20
+ !
+ ip dhcp pool Internal
+ network 192.168.10.0 255.255.255.0
+ dns-server 4.4.4.4
+ default-router 192.168.10.1
+{% endhighlight %}
+
 
 **Interface Setup**
 
-`<em>interface FastEthernet0/0</em>`
+{% highlight plaintext %}
 
-`<em> ip address 192.168.10.1 255.255.255.0</em><br />
-<em> duplex auto</em><br />
-<em> speed auto</em><br />
-<em> !</em>`
+interface FastEthernet0/0
+ip address 192.168.10.1 255.255.255.0
+duplex auto
+speed auto
+!
+interface FastEthernet0/1
+ip address 192.168.20.1 255.255.255.0
+duplex auto
+speed auto
+!
+{% endhighlight %}
 
- _interface FastEthernet0/1_
-  
- _ip address 192.168.20.1 255.255.255.0_
-  
- _duplex auto_
-  
- _speed auto_
-  
- _!_
 
 Getting communication between the Debian VM and the devices took a bit of effort, but wasn&#8217;t too bad.
 
@@ -68,39 +68,20 @@ Adding a VM to GNS3 is a very simple process. Go to Edit > Preferences > Virtual
 
 To get the VM to communicate with the devices go to Edit > Preferences > VirtualBox VMs > Edit > Network and tick Allow GNS3 to use any configured VirtualBox Adapter
 
-[<img class="alignnone wp-image-57" src="https://sdbrett.com/assets/images/2015/07/debian-network-GNS3-300x92.png" alt="debian network GNS3" width="427" height="131" srcset="https://sdbrett.com/assets/images/2015/07/debian-network-GNS3-300x92.png 300w, https://sdbrett.com/assets/images/2015/07/debian-network-GNS3.png 573w" sizes="(max-width: 427px) 100vw, 427px" />](https://sdbrett.com/assets/images/2015/07/debian-network-GNS3.png)
+![Network]({{ "/assets/images/2015/07/debian-network-GNS3.png" | absolute_url }})
 
 When I powered on the project the network settings for the VM in VirtualBox had been updated.
 
-[<img class="alignnone wp-image-58" src="https://sdbrett.com/assets/images/2015/07/debian-network-vb-300x207.png" alt="debian network vb" width="428" height="295" srcset="https://sdbrett.com/assets/images/2015/07/debian-network-vb-300x207.png 300w, https://sdbrett.com/assets/images/2015/07/debian-network-vb.png 501w" sizes="(max-width: 428px) 100vw, 428px" />](https://sdbrett.com/assets/images/2015/07/debian-network-vb.png)
+![Network Adapter]({{ "/assets/images/2015/07/debian-network-vb.png" | absolute_url }})
 
-&nbsp;
 
 Everything booted fine and communication tested well.
 
-<div id="attachment_54" style="width: 430px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images/2015/07/ifconfig.png"><img class=" wp-image-54" src="https://sdbrett.com/assets/images/2015/07/ifconfig-300x65.png" alt="DHCP setup confirmed" width="420" height="91" srcset="https://sdbrett.com/assets/images/2015/07/ifconfig-300x65.png 300w, https://sdbrett.com/assets/images/2015/07/ifconfig.png 706w" sizes="(max-width: 420px) 100vw, 420px" /></a>
-  
-  <p class="wp-caption-text">
-    DHCP setup confirmed
-  </p>
-</div>
+![ifconfig]({{ "/assets/images/2015/07/ifconfig.png" | absolute_url }})
 
-<div id="attachment_53" style="width: 427px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images/2015/07/host-to-router-ping.png"><img class=" wp-image-53" src="https://sdbrett.com/assets/images/2015/07/host-to-router-ping-300x90.png" alt="Ping VM to FastEthernet 0/0" width="417" height="125" srcset="https://sdbrett.com/assets/images/2015/07/host-to-router-ping-300x90.png 300w, https://sdbrett.com/assets/images/2015/07/host-to-router-ping.png 578w" sizes="(max-width: 417px) 100vw, 417px" /></a>
-  
-  <p class="wp-caption-text">
-    Ping VM to FastEthernet 0/0
-  </p>
-</div>
+![Ping]({{ "/assets/images/2015/07/host-to-router-ping.png" | absolute_url }})
 
-<div id="attachment_60" style="width: 430px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01.png"><img class=" wp-image-60" src="https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01-300x80.png" alt="Ping VM to FastEthernet 0/1" width="420" height="112" srcset="https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01-300x80.png 300w, https://sdbrett.com/assets/images/2015/07/host-to-router-fast-01.png 580w" sizes="(max-width: 420px) 100vw, 420px" /></a>
-  
-  <p class="wp-caption-text">
-    Ping VM to FastEthernet 0/1
-  </p>
-</div>
+![Ping]({{ "/assets/images/2015/07/host-to-router-fast-01.png" | absolute_url }})
 
 Communication from VM to router has been confirmed and that the VM can communicate with FastEthernet 0/1 which is on another network.
 
