@@ -35,13 +35,15 @@ outfile.write(KeyPairOut){% endhighlight %}
 
 The next major code section creates the instances.
 
-{% highlight python %}instances = ec2.create_instances(
+{% highlight python %}
+instances = ec2.create_instances(
 	ImageId='ami-e0c19f83', 
 	MinCount=1, 
 	MaxCount=5,
 	KeyName="TestKey",
 	InstanceType="t2.micro"
-){% endhighlight %}
+)
+{% endhighlight %}
 
 There are a lot of attributes that can be used when creating and instance, for this task I have tried to keep it as simple as possible.
 

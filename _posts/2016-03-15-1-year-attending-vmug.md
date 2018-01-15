@@ -10,9 +10,8 @@ categories:
 tags:
   - Vmware
 ---
-<a href="https://sdbrett.com/assets/images/2016/03/vmug_logo-300x88.png" rel="attachment wp-att-196"><img class="alignnone wp-image-196" src="https://sdbrett.com/assets/images/2016/03/vmug_logo-300x88-300x88.png" alt="vmug" width="290" height="85" /></a>
 
-&nbsp;
+![VMUG]({{ "/assets/images/2016/03/vmug_logo-300x88-300x88.png" | absolute_url }})
 
 Before we go through my experience with VMUG over the last 12 months, it’s probably a good idea to cover what VMUG is.
 
@@ -26,44 +25,28 @@ Until recently I lived and worked in rural Victoria, which presented a few probl
 
 About 12 months ago I decided it was time to start expanding my career and what better way than to see what is out there and meet people. The main reason I chose VMUG over other groups is that I was studying my VCP and going to a bar looking for a group of strangers was probably the best thing I have ever done. I have been able to expand my career and have never been so motivated. vBeer was chosen over a meeting as it was pegged to be more social and have a smaller group to start with.
 
-Getting to the VMUG wasn&#8217;t without issue seeing as it was 2 hour drive each way and this was my commute for community every 6 weeks. Luckily for me getting nothing came up at work stopping me from taking the time off needed to get there in time.
+Getting to the VMUG wasn't without issue seeing as it was 2 hour drive each way and this was my commute for community every 6 weeks. Luckily for me getting nothing came up at work stopping me from taking the time off needed to get there in time.
 
-<div id="attachment_197" style="width: 310px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images/2016/03/vbeers.jpg" rel="attachment wp-att-197"><img class="wp-image-197 size-medium" src="https://sdbrett.com/assets/images/2016/03/vbeers-300x225.jpg" alt="vbeers" width="300" height="225" srcset="https://sdbrett.com/assets/images2016/03/vbeers-300x225.jpg 300w, https://sdbrett.com/assets/images2016/03/vbeers.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p class="wp-caption-text">
-    vBeers in full swing
-  </p>
-</div>
+![vBeers]({{ "/assets/images2016/03/vbeers.jpg" | absolute_url }})
 
-&nbsp;
-
-My first vBeers couldn&#8217;t have gone better. I got to meet a great bunch of people, who from the start really seemed interested in what I was doing and had some great stories of their own to share. I met VMware staff, contractors and vendors, as just as importantly had a few beers.
+My first vBeers couldn't have gone better. I got to meet a great bunch of people, who from the start really seemed interested in what I was doing and had some great stories of their own to share. I met VMware staff, contractors and vendors, as just as importantly had a few beers.
 
 I heard so many great things that night. <a href="https://twitter.com/daunce_" target="_blank">Dauncey</a> talking about migrations he was doing with powershell, <a href="https://twitter.com/cswaters1" target="_blank">Craig </a>about the server in a bag he uses for demos, <a href="https://twitter.com/sfolsson" target="_blank">Shannon</a> talking about security and <a href="https://twitter.com/wheatcloud" target="_blank">Nathan </a>taking a large interest in to my attending a VMUG.
 
 From there I organized with work do some extra hours leading up to each VMUG meeting and vBeers allowing me to indulge my new passion without burning leave balance.
 
-VMUG meetings provide great presentations from both community members and sponsors alike. There are usually a couple of sessions running at a time, while it can cause a bit of a conflict for some it really helps get more content out there. If you&#8217;re part of a VMUG and want to present drop a line to your leaders and see how it goes. Meetings have a planned agenda which is published on the VMUG site. At least for Melbourne they are followed up that night with a vBeers.
+VMUG meetings provide great presentations from both community members and sponsors alike. There are usually a couple of sessions running at a time, while it can cause a bit of a conflict for some it really helps get more content out there. If you're part of a VMUG and want to present drop a line to your leaders and see how it goes. Meetings have a planned agenda which is published on the VMUG site. At least for Melbourne they are followed up that night with a vBeers.
 
-<div id="attachment_198" style="width: 310px" class="wp-caption alignnone">
-  <a href="https://sdbrett.com/assets/images/2016/03/vmug-community-presentation.jpg" rel="attachment wp-att-198"><img class="wp-image-198 size-medium" src="https://sdbrett.com/assets/images/2016/03/vmug-community-presentation-300x225.jpg" alt="vmug community presentation" width="300" height="225" srcset="https://sdbrett.com/assets/images2016/03/vmug-community-presentation-300x225.jpg 300w, https://sdbrett.com/assets/images2016/03/vmug-community-presentation.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p class="wp-caption-text">
-    Ramon Valery discussing vCenter 5 to 6 differences
-  </p>
-</div>
+![Ramon]({{ "/assets/images2016/03/vmug-community-presentation.jpg" | absolute_url }})
 
 In my time attending the Melbourne VMUG, I have meet some of the best people I know in the industry, I have learnt more than I expected, the amount of real world knowledge is phenomenal. Attending these groups gives a fantastic taste of how others do something, why a product was chosen and of course what can go wrong.
 
-Melbourne has been awarded the extra mile award and looking back it&#8217;s easy to see why. Everyone that is part of the Melbourne VMUG has always been will to have a chat, answer a question or help provide another view point.
+Melbourne has been awarded the extra mile award and looking back it's easy to see why. Everyone that is part of the Melbourne VMUG has always been will to have a chat, answer a question or help provide another view point.
 
-<a href="https://sdbrett.com/assets/images/2016/03/CN7ML18UEAA_Zmq.jpg" rel="attachment wp-att-199"><img class="alignnone size-medium wp-image-199" src="https://sdbrett.com/assets/images/2016/03/CN7ML18UEAA_Zmq-225x300.jpg" alt="Extra mile award" width="225" height="300" srcset="https://sdbrett.com/assets/images2016/03/CN7ML18UEAA_Zmq-225x300.jpg 225w, https://sdbrett.com/assets/images2016/03/CN7ML18UEAA_Zmq.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" /></a>
-
-&nbsp;
+![Extra mile award]({{ "/assets/images2016/03/CN7ML18UEAA_Zmq.jpg" | absolute_url }})
 
 In Feb just gone I attended my first VMUG UserCon and the spirit of VMUG was alive and well with all the people I spoke to, including people from other VMUGS and even international attendees. I was able to have a great chat to [Brad Tompkins](https://twitter.com/VMUG_CEO) who is the CEO of VMUG and it was obvious that he had a genuine passion for not just VMUG as an entity but more importantly the people of VMUG.
 
-If you&#8217;re a VMware user or looking to be one and haven&#8217;t attended a VMUG, I cannot recommend enough that you give it a try. Head off to a vBeers and see how it goes, you never know how it might go. Check out <a href="https://www.vmug.com/" target="_blank">https://www.vmug.com/</a> to find your nearest VMUG.
+If you're a VMware user or looking to be one and haven't attended a VMUG, I cannot recommend enough that you give it a try. Head off to a vBeers and see how it goes, you never know how it might go. Check out <a href="https://www.vmug.com/" target="_blank">https://www.vmug.com/</a> to find your nearest VMUG.
 
 Over the last year I have the VMUG to thank for progressing my career, meeting amazing people, boosting my motivation and providing guidance on many different things. To all the people that are part of VMUG, from CEO to Leaders, to Sponsors and attendees thanks for making this community as bloody awesome as it is!!

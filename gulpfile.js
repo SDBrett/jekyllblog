@@ -15,8 +15,7 @@ var run          = require('gulp-run');
 var runSequence  = require('run-sequence');
 var sass         = require('gulp-ruby-sass');
 var uglify       = require('gulp-uglify');
-
-var paths        = require('./_assets/gulp_config/paths');
+var paths        = require('./gulp_config/paths');
 
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.

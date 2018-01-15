@@ -13,9 +13,9 @@ paths.siteAssetsDir   = '_site/assets/'; // The resulting static site's assets.
 paths.postFolderName   = '_posts';
 paths.draftFolderName  = '_drafts';
 paths.fontFolderName   = 'fonts';
-paths.imageFolderName  = 'img';
+paths.imageFolderName  = 'images';
 paths.scriptFolderName = 'js';
-paths.stylesFolderName = 'styles';
+paths.stylesFolderName = 'css';
 
 // Asset files locations.
 paths.sassFiles   = paths.assetsDir + paths.stylesFolderName;
