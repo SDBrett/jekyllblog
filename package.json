@@ -4,6 +4,7 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
+    "clean-css": "^4.1.9",
     "fs": "^0.0.1-security",
     "graceful-fs": "^4.1.11",
     "gulp": "^3.9.1",

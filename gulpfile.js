@@ -18,7 +18,7 @@ var cleanCSS = require('gulp-clean-css');
 
 gulp.task('minify-css', () => {
 	return gulp.src('_site/assets/**/*.css')
-	  .pipe(cleanCSS({compatibility: 'ie8'}))
+	  .pipe(cleanCSS({compatibility: 'ie8', specialComments: 'none'}))
 	  .pipe(gulp.dest('_site/assets'));
   });
 
