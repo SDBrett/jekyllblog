@@ -35,7 +35,7 @@ In addition, documentation in addition to the blog posts will be created and mad
        
     
 * Objective 4 - Design vRealize Automation Tenants
-    * Objective 4.1 - Determine Use Cases for Multi-Tenancy
+    * [Objective 4.1 - Determine Use Cases for Multi-Tenancy]({% post_url 2018-01-17-VCAP7-CMA-Design-Objective4.1 %}))
     * Objective 4.2 - Determine identity source requirements for a tenancy design
     * Objective 4.3 - Choose an authentication mechanism based on requirements
     * Objective 4.4 - Assign system wide and tenant specific roles based on administrative functions
