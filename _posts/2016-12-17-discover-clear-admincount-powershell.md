@@ -17,7 +17,6 @@ tags:
   - Script
   - Windows
 ---
-<img class="alignnone size-medium wp-image-545" src="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png" alt="" width="300" height="196" srcset="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png 300w, https://sdbrett.com/assets/images/2016/12/PowerShellIcon-260x170.png 260w, https://sdbrett.com/assets/images/2016/12/PowerShellIcon.png 391w" sizes="(max-width: 300px) 100vw, 300px" />
 
 #### What is Admin Count?
 
@@ -56,9 +55,9 @@ $list | Export-Csv $CSVPath -NoTypeInformation{% endhighlight %}
 
 #### Correcting the Problem
 
-In order to correct the problem, we run another script. This script is very close to the first. The reason for two scripts is change control. Our first script doesn&#8217;t contain functionality to make changes. As a result, we lower the chance of mistake.
+In order to correct the problem, we run another script. This script is very close to the first. The reason for two scripts is change control. Our first script doesn';t contain functionality to make changes. As a result, we lower the chance of mistake.
 
-As you will see, the second script is similar to the first in a number of ways. You run this from a computer joined to the affected domain. Therefore, if you&#8217;re an external party this is to be run on a client side system.
+As you will see, the second script is similar to the first in a number of ways. You run this from a computer joined to the affected domain. Therefore, if you';re an external party this is to be run on a client side system.
 
 {% highlight powershell %}$users = Get-ADUser -ldapfilter “(objectclass=user)” -searchbase “SEARCH BASE”
 
@@ -94,5 +93,3 @@ ForEach($user in $users)
 #### Final Notes
 
 If you do not correct the root cause, Admin Count and security permissions will revert within the hour. You must remove accounts from the administrative group.
-
-&nbsp;

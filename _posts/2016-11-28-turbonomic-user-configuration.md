@@ -14,13 +14,10 @@ tags:
   - Guide
   - Turbonomic
 ---
-<img class="alignnone size-medium wp-image-514" src="https://sdbrett.com/assets/images/2016/11/turbonomic-black-300x94.png" alt="turbonomic-black" width="300" height="94" srcset="https://sdbrett.com/assets/images/2016/11/turbonomic-black-300x94.png 300w, https://sdbrett.com/assets/images/2016/11/turbonomic-black-260x81.png 260w, https://sdbrett.com/assets/images/2016/11/turbonomic-black.png 540w" sizes="(max-width: 300px) 100vw, 300px" />
-
-&nbsp;
 
 We are going to cover the basics of user configuration that Turbonomic makes available. Authentication methods and RBAC are the two main focus areas. We will step through connecting to AD and providing users access.
 
-### Authentication Methods
+#### Authentication Methods
 
 Turbonomic provides two platforms authentication platforms. You can use local authentication and AD. AD authentication provides improved flexibility and management.
 
@@ -28,23 +25,23 @@ Managing local authentication comes with significant management overhead. Genera
 
 Whether using AD or Local authentication, user configuration is the same.
 
-### Default User Account
+#### Default User Account
 
 The default credentials for Turbonomic are. Username: Administrator and Password: vmturbo.
 
-You are not able to remove the default administrator account. If using AD authentication, it&#8217;s a good practice to only use this account if the connection to AD fails.
+You are not able to remove the default administrator account. If using AD authentication, it';s a good practice to only use this account if the connection to AD fails.
 
-### Connecting to AD
+#### Connecting to AD
 
 All account configuration takes place by going to Admin > Workflows > User Configuration.
 
 Connecting to AD is straight forward. Provide the Domain and if required, specify a domain controller. At the bottom of the page, there is a check box to enable secure communication with AD.
 
-[<img class="alignnone wp-image-513 size-medium" src="https://sdbrett.com/assets/images/2016/11/AD-config-300x196.png" alt="AD Configuration" width="300" height="196" srcset="https://sdbrett.com/assets/images/2016/11/AD-config-300x196.png 300w, https://sdbrett.com/assets/images/2016/11/AD-config-260x170.png 260w, https://sdbrett.com/assets/images/2016/11/AD-config.png 509w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2016/11/AD-config.png)
+[![Config](/assets/images/2016/11/AD-config.png)]({{site.url}}/assets/images/2016/11/AD-config.png)
 
-Enabling secure connection to AD is critical in a production environment. The image below is a Wireshark capture of my login to Turbonomic. That&#8217;s some tasty creds.
+Enabling secure connection to AD is critical in a production environment. The image below is a Wireshark capture of my login to Turbonomic. That';s some tasty creds.
 
-[<img class="alignnone wp-image-511 size-medium" src="https://sdbrett.com/assets/images/2016/11/LDAP-plain-text-300x165.png" alt="ldap-plain-text" width="300" height="165" srcset="https://sdbrett.com/assets/images/2016/11/LDAP-plain-text-300x165.png 300w, https://sdbrett.com/assets/images/2016/11/LDAP-plain-text-260x143.png 260w, https://sdbrett.com/assets/images/2016/11/LDAP-plain-text.png 540w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2016/11/LDAP-plain-text.png)
+[![Plain Text](/assets/images/2016/11/LDAP-plain-text.png)]({{site.url}}/assets/images/2016/11/LDAP-plain-text.png)
 
 There are prerequisites for configuring secure AD communication. The following link provides instructions: <https://greencircle.vmturbo.com/community/products/blog/2014/05/18/setting-up-vmturbo-to-communicate-to-secure-ldap-ldaps>
 
@@ -52,7 +49,7 @@ There are prerequisites for configuring secure AD communication. The following l
 
 Adding accounts is simple enough. Click on the Add button and provide the username. You will enter the password for a local user during this process. This is not required for AD users.
 
-[<img class="alignnone wp-image-512 size-medium" src="https://sdbrett.com/assets/images/2016/11/User-add-262x300.png" alt="user-add" width="262" height="300" srcset="https://sdbrett.com/assets/images/2016/11/User-add-262x300.png 262w, https://sdbrett.com/assets/images/2016/11/User-add-260x297.png 260w, https://sdbrett.com/assets/images/2016/11/User-add.png 431w" sizes="(max-width: 262px) 100vw, 262px" />](https://sdbrett.com/assets/images/2016/11/User-add.png)
+[![User Add](/assets/images/2016/11/User-add.png)]({{site.url}}/assets/images/2016/11/User-add.png)
 
 You can select Dedicated or Shared for the account type. Shared accounts can only have the Observer or Advisor roles assigned. Dedicated accounts do not have this limit. Shared accounts are also unable to work on physical infrastructure.
 
@@ -72,13 +69,13 @@ The user can use all the views except Admin and Policy. This user can accept rec
   
 The user can use all Turbonomic views.
 
-The account scope allows you to limit what the user can see. You can limit a user to only have control of their VM&#8217;s. Or the supporting infrastructure for their VMs.
+The account scope allows you to limit what the user can see. You can limit a user to only have control of their VM';s. Or the supporting infrastructure for their VMs.
 
-### Adding Groups
+#### Adding Groups
 
 Groups only work with AD authentication. The group name does not need to be the full distinguished name. You only enter the group name.
 
-[<img class="alignnone wp-image-510 size-medium" src="https://sdbrett.com/assets/images/2016/11/Group-Add-261x300.png" alt="group-add" width="261" height="300" srcset="https://sdbrett.com/assets/images/2016/11/Group-Add-261x300.png 261w, https://sdbrett.com/assets/images/2016/11/Group-Add-260x299.png 260w, https://sdbrett.com/assets/images/2016/11/Group-Add.png 432w" sizes="(max-width: 261px) 100vw, 261px" />](https://sdbrett.com/assets/images/2016/11/Group-Add.png)
+[![Group Add](/assets/images/2016/11/Group-Add.png)]({{site.url}}/assets/images/2016/11/Group-Add.png)
 
 Roles and scope are the same was what you configure for user accounts.
 

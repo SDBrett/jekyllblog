@@ -29,7 +29,7 @@ IPSEC VPN: Site to Site VPN connection. End point does not have to be an NSX Edg
 
 L2 VPN: For extending L2 between sites. Traffic is sent over SSL using TCP443. Both end points need to be NSX Edge. Users a client / server relationship.
 
-**API:** NSX management exposes API&#8217;s to allow programmatic configuration of the network and an integration point for 3rd party partners. This integration allows NSX to be consumed through self-service portals.
+**API:** NSX management exposes API';s to allow programmatic configuration of the network and an integration point for 3rd party partners. This integration allows NSX to be consumed through self-service portals.
 
 **Operations:** Central CLI, Traceflow, SPAN and IPFIX for monitoring and troubleshooting.
 

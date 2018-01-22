@@ -15,13 +15,8 @@ tags:
   - vBrownBag
   - VMUG
 ---
-<img class="alignnone wp-image-384 size-medium" title="vBrownBag" src="https://sdbrett.com/assets/images/2016/10/VBB_logo_landsc_transp565x209px-300x111.png" alt="vBrownBag" width="300" height="111" srcset="https://sdbrett.com/assets/images/2016/10/VBB_logo_landsc_transp565x209px-300x111.png 300w, https://sdbrett.com/assets/images/2016/10/VBB_logo_landsc_transp565x209px-260x96.png 260w, https://sdbrett.com/assets/images/2016/10/VBB_logo_landsc_transp565x209px.png 565w" sizes="(max-width: 300px) 100vw, 300px" />
 
-#### vBrownBag Schedule for Sydney and Melbourne VMUG UserCons 2017
-
-&nbsp;
-
-It&#8217;s UserCon time down under. Which means, vBrownBag are presenting tech talks. Following the UserCon theme, we a number of presentations of personal development. As well as technical coverage.
+It's UserCon time down under. Which means, vBrownBag are presenting tech talks. Following the UserCon theme, we a number of presentations of personal development. As well as technical coverage.
 
 Talk schedules are below
 
@@ -113,8 +108,6 @@ Talk schedules are below
   </tr>
 </table>
 
-<!-- #tablepress-5 from cache -->
-
 #### Melbourne
 
 <table id="tablepress-2" class="tablepress tablepress-id-2">
@@ -202,7 +195,3 @@ Talk schedules are below
     </td>
   </tr>
 </table>
-
-<!-- #tablepress-2 from cache -->
-
-&nbsp;

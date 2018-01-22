@@ -1,42 +1,5 @@
-<div class="header-wrapper">
-    <header>
-        <!-- logo and description -->
-        <div class="head-area">
-            <h1 class="site-logo">
-                {{ site.title }}
-            </h1>
-        </div>
-        <nav class="site-nav">
-            <div class="left-nav">
-                <!-- add titles to all buttons -->
-                <div class="ui secondary menu inverted">
-                    <a class="item" href="/">
-                        Home
-                    </a>
-                    <a class="item" href="/Archive">
-                        Archive
-                    </a>
-                    <a class="item" href="/VCAP7-CMA-Design">
-                        VCAP7-CMA Design
-                    </a> 
-                    <div class="right menu">
-                        <div id="head-search" class="ui category search item">
-                            <div class="ui transparent icon input">
-                                <input placeholder="Search..." type="text" id="search-input" onkeypress="handleKeyPress()">
-                                <i class="search link icon" onclick="handleSubmit()"></i>
-                            </div>
-                        </div>
-                        <a class="item" href="https://twitter.com/brettjohnson008">
-                            <i class="twitter link icon"></i>
-                        </a>
-                        <a class="item" href="https://github.com/sdbrett">
-                            <i class="github link icon"></i>
-                        </a>
-                        <a class="item" href="/feed.xml">Subscribe</a>
-                    </div>
-                </div>
-            </div>
-            <div class="right-nav"></div>
-        </nav>
-    </header>
-</div>
+<header id="header">
+	<a href="/">
+	  <h1>{{ site.title }}</h1>
+	</a>
+</header>

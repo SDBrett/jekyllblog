@@ -12,7 +12,7 @@ This is an exercise I thought of on the drive home from work. Just a task to hel
 
 This exercise came from wanting to VPN into my home network. The home network has a dynamic external IP address, which means I need a way to know if that IP has changed.
 
-The script IPcheck.py helps solve that problem. It&#8217;s been created to check the current external IP against a stored value and notify by email if the two do not match. It&#8217;s intended to be run as a scheduled task. For example, I have a cron job setup on my Raspberry Pi.
+The script IPcheck.py helps solve that problem. It';s been created to check the current external IP against a stored value and notify by email if the two do not match. It';s intended to be run as a scheduled task. For example, I have a cron job setup on my Raspberry Pi.
 
 The GitHub for this project is located [here](https://github.com/oversizedspoon/IPCheck). At the time of writing this entry, there is still a little work to be done, such as adding doc strings.
 
@@ -25,9 +25,9 @@ The script was written for Python3 and requires the following modules:
 
 Before running the script, the file needs to have some values set to work.
 
-The first three are required for emailing to work. For my testing, I didn&#8217;t need to auth against the SMTP server, as such this is not in the script. If you require SMTP auth then it will need to be added. _ipstorepath_ is set as a raw string to allow paths such as &#8220;C:\&#8221; without the need for escape characters.
+The first three are required for emailing to work. For my testing, I didn';t need to auth against the SMTP server, as such this is not in the script. If you require SMTP auth then it will need to be added. _ipstorepath_ is set as a raw string to allow paths such as &#8220;C:\&#8221; without the need for escape characters.
 
-As a bit of a side note, when using cron, I needed to use a full path in _ipstorepath_, however when running manually, a filename is all that&#8217;s needed.
+As a bit of a side note, when using cron, I needed to use a full path in _ipstorepath_, however when running manually, a filename is all that';s needed.
 
 {% highlight python %}smtpserver = "Enter SMTP Server"
 fromaddress = "Enter From Email Address"

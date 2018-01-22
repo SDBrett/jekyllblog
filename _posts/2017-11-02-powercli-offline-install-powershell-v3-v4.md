@@ -22,13 +22,13 @@ Today I came across the need to use PowerCLI on a computer without internet acce
 
 When using `Install-Module` to install a module, the module files as located in a subdirectory which is the version number. This is not a supported directory structure for PowerShell version 3 and 4. This caused an error when attempting to import, PowerShell could not find the modules.
 
-[<img class="alignnone size-medium wp-image-887" src="https://sdbrett.com/assets/images/2017/11/PowerShell-v5-Module-Structure-224x300.png" alt="PowerShell v5 Module Structure" width="224" height="300" srcset="https://sdbrett.com/assets/images/2017/11/PowerShell-v5-Module-Structure-224x300.png 224w, https://sdbrett.com/assets/images/2017/11/PowerShell-v5-Module-Structure-768x1030.png 768w, https://sdbrett.com/assets/images/2017/11/PowerShell-v5-Module-Structure-763x1024.png 763w, https://sdbrett.com/assets/images/2017/11/PowerShell-v5-Module-Structure-260x349.png 260w, https://sdbrett.com/assets/images/2017/11/PowerShell-v5-Module-Structure.png 972w" sizes="(max-width: 224px) 100vw, 224px" />](https://sdbrett.com/assets/images/2017/11/PowerShell-v5-Module-Structure.png)
+[![PowerShell-v5-Module-Structure](/assets/images/2017/11/PowerShell-v5-Module-Structure.png)]({{site.url}}/assets/images/2017/11/PowerShell-v5-Module-Structure.png)
 
-[<img class="alignnone size-medium wp-image-886" src="https://sdbrett.com/assets/images/2017/11/PowerShell-v3v4-Module-Structure-221x300.png" alt="PowerShell v3v4 Module Structure" width="221" height="300" srcset="https://sdbrett.com/assets/images/2017/11/PowerShell-v3v4-Module-Structure-221x300.png 221w, https://sdbrett.com/assets/images/2017/11/PowerShell-v3v4-Module-Structure-768x1040.png 768w, https://sdbrett.com/assets/images/2017/11/PowerShell-v3v4-Module-Structure-756x1024.png 756w, https://sdbrett.com/assets/images/2017/11/PowerShell-v3v4-Module-Structure-260x352.png 260w, https://sdbrett.com/assets/images/2017/11/PowerShell-v3v4-Module-Structure.png 908w" sizes="(max-width: 221px) 100vw, 221px" />](https://sdbrett.com/assets/images/2017/11/PowerShell-v3v4-Module-Structure.png)
+[![PowerShell-v5-Module-Structure](/assets/images/2017/11/PowerShell-v3v4-Module-Structure.png)]({{site.url}}/assets/images/2017/11/PowerShell-v3v4-Module-Structure.png)
 
 #### The Solution
 
-The solution to the problem is simple enough, move the module files up one directory. As there are a number of modules this can be tedious. So here&#8217;s a script to do that for you
+The solution to the problem is simple enough, move the module files up one directory. As there are a number of modules this can be tedious. So here';s a script to do that for you
 
 {% highlight powershell %}
 $ModuleFolders = Get-ChildItem VMware*

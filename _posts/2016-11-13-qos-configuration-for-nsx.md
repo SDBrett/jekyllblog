@@ -16,7 +16,6 @@ tags:
   - vDS
   - VMware
 ---
-<img class="alignnone size-medium wp-image-486" src="https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-300x154.jpg" alt="VMware NSX" width="300" height="154" srcset="https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-300x154.jpg 300w, https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-260x133.jpg 260w, https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1.jpg 359w" sizes="(max-width: 300px) 100vw, 300px" />
 
 QoS is a method of providing a minimal Quality of Service to network traffic. This is done through adding values to the Ethernet or packet headers. By adding these values, priority can be assigned to network traffic types. Some services do not a significant amount of bandwidth but are sensitive to latency. These services can benefit from QoS.
 

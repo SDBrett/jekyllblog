@@ -12,7 +12,7 @@ tags:
 ---
 I enjoy building test environments to help cement the concepts I read about.
 
-In this case it&#8217;s the changes to the source and destination MAC addresses of a frame at layer 2 while it passes through each hop on the way to the final destination. To watch this process I setup wireshark between each hop.
+In this case it';s the changes to the source and destination MAC addresses of a frame at layer 2 while it passes through each hop on the way to the final destination. To watch this process I setup wireshark between each hop.
 
 The topology was very simple, 2 hosts and 2 routers.
 

@@ -18,7 +18,6 @@ tags:
   - Python
   - Script
 ---
-#### <img class="alignnone size-medium wp-image-602" src="https://sdbrett.com/assets/images/2017/01/AWSLOGO-300x111.png" alt="" width="300" height="111" srcset="https://sdbrett.com/assets/images2017/01/AWSLOGO-300x111.png 300w, https://sdbrett.com/assets/images2017/01/AWSLOGO-768x283.png 768w, https://sdbrett.com/assets/images2017/01/AWSLOGO-260x96.png 260w, https://sdbrett.com/assets/images2017/01/AWSLOGO.png 800w" sizes="(max-width: 300px) 100vw, 300px" />
 
 To describe a VPC is to retrieve the values of it attributes. A task we might perform to validate configuration.
 
@@ -65,7 +64,7 @@ The variable vpcs now contains a list of VPCIDs for the VPCs which matched our 
 
 #### Describing the VPCs
 
-We have searched for VPCs and their IDs are now in the list vpcs. It&#8217;s now time to see some information on them.
+We have searched for VPCs and their IDs are now in the list vpcs. It';s now time to see some information on them.
 
 We will utilise a for loop to achieve this.
 

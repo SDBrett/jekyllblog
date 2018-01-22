@@ -83,4 +83,4 @@ Use cases provide information as to the what the business goals are and the key 
 
 Think about what problems products within the exam scope solve and their limitations. An example is vRB does not integrate with Hyper-V. So it would an incorrect answer to a question on chargebacks with a Hyper-V endpoint.
 
-<a class="item" href="/vcap7-CMA-Design.html">Back to study guide</a> 
+<a class="item" href="/VCAP7-CMA-Design">Back to study guide</a> 

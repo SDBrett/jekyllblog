@@ -1,14 +1,52 @@
-title : Automated Ramblings
-description: ''
+# Site settings
+title: Automated Ramblings
+url: "https://sdbrett.com"
+author:
+  name: "Brett Johnson"
+  email: "brett@sdbrett.com"
+  url: "https://sdbrett.com"
 
+github:
+  url: https://github.com/sdbrett
+
+twitter:
+  url: https://twitter.com/brettjohnson008
+
+# Build settings
+#baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 highlighter: rouge
-logo: false
+source: .
+destination: ./_site
+permalink: BrettsITBlog/:year/:month/:title/
 paginate: 15
-baseurl: /
-plugins: 
-  - jekyll-gist
+paginate_path: /page:num/
+
+google_analytics: UA-77455242-1
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
 
 exclude:
   - gulp_config
@@ -25,8 +63,5 @@ exclude:
   - package.json
   - gulpconfig.json
   - tmp
-  
-permalink: BrettsITBlog/:year/:month/:title
 
-# Google Analytics
-google_analytics: UA-77455242-1
+  

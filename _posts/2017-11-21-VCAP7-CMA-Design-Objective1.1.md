@@ -136,4 +136,4 @@ IT Administrator provide requirements for operations. Their requirements will as
 
 This objective is about finding out what criteria our design must meet to gain business approval. Different management levels will have their own priorities. 
 
-<a class="item" href="/vcap7-CMA-Design.html">Back to study guide</a> 
+<a class="item" href="/VCAP7-CMA-Design">Back to study guide</a> 

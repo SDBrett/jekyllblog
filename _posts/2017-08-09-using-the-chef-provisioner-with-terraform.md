@@ -16,16 +16,14 @@ tags:
   - Cloud
   - terraform
 ---
-<img class="alignnone size-medium wp-image-788" src="https://sdbrett.com/assets/images/2017/07/chef-logo-300x296.png" alt="" width="300" height="296" srcset="https://sdbrett.com/assets/images2017/07/chef-logo-300x296.png 300w, https://sdbrett.com/assets/images2017/07/chef-logo-260x256.png 260w, https://sdbrett.com/assets/images2017/07/chef-logo.png 417w" sizes="(max-width: 300px) 100vw, 300px" />
-
 
 Terraform is an awesome tool used to manage infrastructure using the Infrastructure as Code philosophy. Modules called Providers enable Terraform to communicate with a number of different cloud providers.
 
-Post deployment tasks are performed through a separate set of modules called &#8216;Provisioners&#8217;. A provisioner is used to execute commands locally on an instance after it’s been created. One such provisioner enables the Chef client to be installed on the newly provisioned instance and the instance to be added as a node to the Chef Server.
+Post deployment tasks are performed through a separate set of modules called &#8216;Provisioners';. A provisioner is used to execute commands locally on an instance after it’s been created. One such provisioner enables the Chef client to be installed on the newly provisioned instance and the instance to be added as a node to the Chef Server.
 
-#### **Using Provisioners**
+#### Using Provisioners
 
-To use a provisioner, you place the resource for your specific provisioner into the code block for the resource you&#8217;re deploying. In the examples below, the provisioned a resource is an AWS EC2 instance. But, the same principals can be applied to a VM in Azure.
+To use a provisioner, you place the resource for your specific provisioner into the code block for the resource you';re deploying. In the examples below, the provisioned a resource is an AWS EC2 instance. But, the same principals can be applied to a VM in Azure.
 
 {% highlight hcl %}
 resource “aws_instance” “lamp_server”{
@@ -39,7 +37,7 @@ resource “aws_instance” “lamp_server”{
 
 By using the code above, you have stated that you want to have an AWS instance and that you would like to use the Chef provisioner for post deployment configuration. For more information on the EC2 instances settings check out <https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180> by Josh Padnick.
 
-Settings for the provisioner are required in each resource code block. It&#8217;s a good idea to store repeated settings in another file such as, &#8216;provisioner.tf&#8217;. This provides you with a single point to update required settings.
+Settings for the provisioner are required in each resource code block. It';s a good idea to store repeated settings in another file such as, &#8216;provisioner.tf';. This provides you with a single point to update required settings.
 
 {% highlight hcl %}
 variable "chef_provision" { 
@@ -80,7 +78,7 @@ provisioner "chef" {
 
 As you can see, the provisioner variables are used in conjunction with others to describe how the state of this node for my Chef server.
 
-#### **The Chef Provisioner**
+#### The Chef Provisioner
 
 The Chef provisioner provides a number of options, many which I have not used in my projects to date. The full list is available at <https://www.terraform.io/docs/provisioners/chef.html>.
 
@@ -124,7 +122,7 @@ With the correct information, provisioning an instance now allows immediate conn
 
 It’s important to note that the computer you run the command _terraform apply_ on, needs to remain connected to both the provider and the provisioner for the duration of the process. There is some recovery if the connection drops, but my experience with that has been hit and miss.
 
-#### **Additional Steps for Windows Servers**
+##### Additional Steps for Windows Servers
 
 Initially, I had trouble when deploying Windows EC2 instances on AWS due to the random password set at provisioning. I was unable to place that in the connection string To resolve this, I used the user data functionality of EC2 to set the administrator password at creation time.
 
@@ -134,7 +132,7 @@ To perform the above-mentioned steps in a secure manner, you should have a look 
 
 Another option for domain joined computers is to use a static password, then use a password manager, be it Secret server or MS LAPS to change the password.
 
-#### **Summary**
+##### Summary
 
 Using Terraform to deploy an EC2 instance and have it connect to Chef Server is simple, but it’s a task that requires hands on to get properly.  It’s a great way to spin out test labs which can be destroyed at will and spun up again.
 

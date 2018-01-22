@@ -15,13 +15,11 @@ tags:
   - VMware
 ---
 
-![Workstation Logo](/assets/images/2017/11/vmware-workstation-logo.jpg)
-
 I recently updated my Ubuntu install from 17.04 to 17.10, which meant the kernel was updated to 4.13. As a result, I was no longer able to run VMs with VMware Workstation.
 
 I found some posts regarding the error and that it was due to a change in the way the Linux kernel handles paging. To resolve the issue I needed to replace the vmmon modules.
 
-I didn&#8217;t take down the entire error message, but [this post](https://superuser.com/questions/1255099/vmware-workstation-not-enough-physical-memory-since-last-update) references the same error. There are a number of other posts on the VMware community forums for the same error.
+I didn';t take down the entire error message, but [this post](https://superuser.com/questions/1255099/vmware-workstation-not-enough-physical-memory-since-last-update) references the same error. There are a number of other posts on the VMware community forums for the same error.
 
 #### The Fix
 

@@ -5,8 +5,6 @@ date: 2017-05-23T20:40:23+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/05/interop-itx-first-time-attendees-impressions/
-academia_post_display_home:
-  - ""
 image: /wp-content/uploads/2017/05/406798LOGO.jpeg
 categories:
   - Interop ITX
@@ -15,9 +13,7 @@ tags:
   - Interop ITX
 ---
 
-<img class=" wp-image-759" src="https://sdbrett.com/assets/images/2017/05/406798LOGO-300x83.jpeg" alt="" width="528" height="146" srcset="https://sdbrett.com/assets/images2017/05/406798LOGO-300x83.jpeg 300w, https://sdbrett.com/assets/images2017/05/406798LOGO-768x213.jpeg 768w, https://sdbrett.com/assets/images2017/05/406798LOGO-1024x284.jpeg 1024w, https://sdbrett.com/assets/images2017/05/406798LOGO-260x72.jpeg 260w, https://sdbrett.com/assets/images2017/05/406798LOGO.jpeg 1050w" sizes="(max-width: 528px) 100vw, 528px" />
-
-As I write this, I&#8217;m on my way home after attending my first Interop event. The purpose of this post is to detail my experience at Interop ITX 2017 as a first time attendee.
+As I write this, I';m on my way home after attending my first Interop event. The purpose of this post is to detail my experience at Interop ITX 2017 as a first time attendee.
 
 ### Interop Community
 
@@ -29,31 +25,31 @@ The atmosphere around the conference was that of discussion and sharing. Making 
 
 I would love to see Interop provide a whiteboarding space, where we can take conversations to the whiteboard as they can get technical.
 
-### vFIT
+#### vFIT
 
 Eric Wright organised a 5KM run on Tuesday and Wednesday for those of us who manage to wake up early enough. This year was the first time that vFit was on the official adenda and it proved to be a popular attraction.
 
-vFit started in the lobby of the MGM Grand; runners made their way to the &#8220;Welcome to Fabulous Las Vegas&#8221; sign and back. With a large number of runners there were some logistical issues. The event is open to runners of all fitness levels and there wasn&#8217;t presure to be competive.
+vFit started in the lobby of the MGM Grand; runners made their way to the &#8220;Welcome to Fabulous Las Vegas&#8221; sign and back. With a large number of runners there were some logistical issues. The event is open to runners of all fitness levels and there wasn';t presure to be competive.
 
-### Parties
+#### Parties
 
 I attended a mix of parties and private events over the course of the event. One of the things I noticed between sponsored / official events, compared to other conferences, was you could talk to people. I find big vendor parties at big conferences do not make this easy, due to high crowd numbers and loud music.
 
 The parties at Interop were fairly low-key, fun and allowed for conversation. The Packet Pushers party (Sponsored by Viptela), was a great example. When looking around the Centrifuge bar, all I could see was groups of people. I think I even saw a napkin drawing taking place to.
 
-### Workshops and Sessions
+#### Workshops and Sessions
 
 Workshops were on the two days of Interop ITX, sessions were on the last three. Workshops run for either 3, 4 or 8 hours, with each following one of the training tracks. Due to the duration, a workshop provides an in-depth training experience.
 
-In the agenda, a workshops are down into shorter sessions. Allowing attendees to only attend parts that would be relevant to themselves. I didn&#8217;t feel compled to attend the entire workshop, handy if you have interests with mulitple ones.
+In the agenda, a workshops are down into shorter sessions. Allowing attendees to only attend parts that would be relevant to themselves. I didn';t feel compled to attend the entire workshop, handy if you have interests with mulitple ones.
 
-Sessions run for approx 45min to an hour each, there are more like your standard conference session. While a session provides education, I wouldn&#8217;t classify them as training; due to the short duration.
+Sessions run for approx 45min to an hour each, there are more like your standard conference session. While a session provides education, I wouldn';t classify them as training; due to the short duration.
 
-The danger of sessions, is sometimes what you hope to be a education session ends up as a marketing presentation. I didn&#8217;t experience this, though my results might have a skew as I knew the presenters for most of the sessions I attended.
+The danger of sessions, is sometimes what you hope to be a education session ends up as a marketing presentation. I didn';t experience this, though my results might have a skew as I knew the presenters for most of the sessions I attended.
 
-I would encourage everyone who attended sessions and workshops to provide honest feedback to Interop. You would have received an email with survery links. Whether feedback is positive of negative, it helps shape furture events. When presenting, you hope to hit the audiance target, but sometimes miss. Without feedback, you don&#8217;t know this.
+I would encourage everyone who attended sessions and workshops to provide honest feedback to Interop. You would have received an email with survery links. Whether feedback is positive of negative, it helps shape furture events. When presenting, you hope to hit the audiance target, but sometimes miss. Without feedback, you don';t know this.
 
-### Summary
+#### Summary
 
 Attending Interop ITX was an amazing experience, I met a lot of new people and caught up with many existing mates. Organizers have done a great job proving an atmosphere of community and conversation.
 

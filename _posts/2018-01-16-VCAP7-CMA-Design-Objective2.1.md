@@ -63,3 +63,5 @@ The location selection feature of composit blueprints allows the user to select 
 ##### Summary
 
 The logical design is a high level design document detailing the components and services required. Building a logical design requires knowing how a component and service can solve a requirement.
+
+<a class="item" href="/VCAP7-CMA-Design">Back to study guide</a> 

@@ -15,9 +15,6 @@ tags:
   - Hybrid Cloud
   - SDDC
 ---
-#### <img class="alignnone wp-image-523 size-medium" src="https://sdbrett.com/assets/images/2016/11/data-gravity-throughput-and-latency-300x122.png" alt="Data Gravity" width="300" height="122" srcset="https://sdbrett.com/assets/images/2016/11/data-gravity-throughput-and-latency-300x122.png 300w, https://sdbrett.com/assets/images/2016/11/data-gravity-throughput-and-latency-260x106.png 260w, https://sdbrett.com/assets/images/2016/11/data-gravity-throughput-and-latency.png 477w" sizes="(max-width: 300px) 100vw, 300px" />
-
-#### Data Gravity
 
 Data gravity imposes a significant constraint on assessing where a workload should run. Workloads perform better when close to the source of data.
   
@@ -43,7 +40,7 @@ Scenario 1: Move it all to public cloud
   
 Everything is going well with this approach. All services have reasonable latency. Data transfer rate is ok. Due to the nature of public cloud, we are on shared infrastructure. These metrics are not guaranteed.
   
-PTC pays a premium for performance configurations. This still doesn&#8217;t guarantee that PTC is not affected by noisy neighbours. This premium increases the running cost, especially when all 3 tiers are on 24/7.
+PTC pays a premium for performance configurations. This still doesn';t guarantee that PTC is not affected by noisy neighbours. This premium increases the running cost, especially when all 3 tiers are on 24/7.
   
 Due to the moving to cloud, on-prem applications that rely on this DB, have an added 20ms latency. Ouch.
 

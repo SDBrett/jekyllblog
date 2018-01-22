@@ -20,7 +20,7 @@ Some tenant level settings are inherited from the default tenant until overwritt
 
 This image from [blogs.vmware.com](https://blogs.vmware.com/management/2015/02/managing-multi-tenant-cloud-vrealize-automation.html) should help provide a visual guide to difference between System level and Tenant level.
 
-![Tenant Visual](/assets/images/vRealize-Automation-Multi-Tenant.png)
+[![Chef Environment](/assets/images/vRealize-Automation-Multi-Tenant.png)]({{site.url}}/assets/images/vRealize-Automation-Multi-Tenant.png)
 
 ##### Tenant Characteristics
 
@@ -71,3 +71,5 @@ The users are internal to the company and primarily made up of developers. There
 ##### Summary
 
 When evaluating the use case for multi-tenancy, assess the items to be isolated and the reason why. I work with a single tenant until something doesn't fit.
+
+<a class="item" href="/VCAP7-CMA-Design">Back to study guide</a> 

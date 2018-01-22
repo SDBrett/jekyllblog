@@ -16,15 +16,12 @@ tags:
   - Script
   - Server 2012
 ---
-#### <img class="alignnone size-medium wp-image-545" src="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png" alt="" width="300" height="196" srcset="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png 300w, https://sdbrett.com/assets/images/2016/12/PowerShellIcon-260x170.png 260w, https://sdbrett.com/assets/images/2016/12/PowerShellIcon.png 391w" sizes="(max-width: 300px) 100vw, 300px" />
 
-#### Intro
-
-When writing scripts for clients, it&#8217;s important to generate good logs. It&#8217;s a common position where a script works perfectly in test. But in production something is askew.
+When writing scripts for clients, it';s important to generate good logs. It';s a common position where a script works perfectly in test. But in production something is askew.
 
 Being able to look back at the process and step through after the fact is essential.
 
-Usually my logs are written in CSV format. CSV is great for parsing. But, it&#8217;s awful to run in a text file. Due to this, I decided to modify my log function. It now writes in JSON format.
+Usually my logs are written in CSV format. CSV is great for parsing. But, it';s awful to run in a text file. Due to this, I decided to modify my log function. It now writes in JSON format.
 
 #### The Design
 
@@ -38,7 +35,7 @@ Named parameters were used for script readability.
 
 #### The Code
 
-I think I could do better with naming the function, but that&#8217;s stuck at 2 AM.
+I think I could do better with naming the function, but that';s stuck at 2 AM.
 
 {% highlight powershell %}
 Function Write-Verbose-Log
@@ -76,7 +73,7 @@ My most recent use for the function, was working with AD groups. As a result I w
 
 Values which are &#8220;Null&#8221; will write the string &#8220;&#8221; to the log file.
 
-The function and it&#8217;s parameters can be modified easily, making it applicable.
+The function and it';s parameters can be modified easily, making it applicable.
 
 #### Output and Parsing
 
@@ -98,7 +95,7 @@ Below is a sample output I have run. You will notice that the exception message 
                }
 }{% endhighlight %}
 
-Using unique key values as we have, presents an interesting challenge for parsing. If we wanted to find groups which had an error. We need to search by the nested key &#8216;Result&#8217;.
+Using unique key values as we have, presents an interesting challenge for parsing. If we wanted to find groups which had an error. We need to search by the nested key &#8216;Result';.
 
 {% highlight powershell %}Function Parse-JSONLog
 {

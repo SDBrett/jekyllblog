@@ -40,25 +40,25 @@ The first step is to import the certificate for your Chef server. Follow the ste
 
 Click on Certificates
 
-[<img class="alignnone wp-image-830 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Certs-300x120.png" alt="" width="300" height="120" srcset="https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Certs-300x120.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Certs-768x306.png 768w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Certs-1024x408.png 1024w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Certs-260x104.png 260w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Certs.png 1300w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Certs.png)
+[![vRO Control Center](/assets/images/2017/09/vRO-Contol-Center-Certs.png)]({{site.url}}/assets/images/2017/09/vRO-Contol-Center-Certs.png)
 
 Enter the URL of your Chef server and click Import
 
-[<img class="alignnone wp-image-829 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Input-URL-300x146.png" alt="" width="300" height="146" srcset="https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Input-URL-300x146.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Input-URL-768x375.png 768w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Input-URL-1024x500.png 1024w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Input-URL-260x127.png 260w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Input-URL.png)
+[![Enter URL](/assets/images/2017/09/vRO-Contol-Center-Input-URL.png)]({{site.url}}/assets/images/2017/09/vRO-Contol-Center-Input-URL.png)
 
 ##### Installing the Plugin
 
 From the main page of the Control Center scroll down the page and click on Manage Plugins
 
-[<img class="alignnone wp-image-828 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Plugins-257x300.png" alt="" width="257" height="300" srcset="https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Plugins-257x300.png 257w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Plugins-260x303.png 260w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Plugins.png 312w" sizes="(max-width: 257px) 100vw, 257px" />](https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Plugins.png)
+[![Plugins](/assets/images/2017/09/vRO-Contol-Center-Plugins.png)]({{site.url}}/assets/images/2017/09/vRO-Contol-Center-Plugins.png)
 
 Upload the Plugin
 
-[<img class="alignnone wp-image-827 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Install-plugin-300x103.png" alt="" width="300" height="103" srcset="https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Install-plugin-300x103.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Install-plugin-768x263.png 768w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Install-plugin-1024x350.png 1024w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Install-plugin-260x89.png 260w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Install-plugin.png 1310w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Install-plugin.png)
+[![Upload Plugin](/assets/images/2017/09/vRO-Contol-Center-Install-plugin.png)]({{site.url}}/assets/images/2017/09/vRO-Contol-Center-Install-plugin.png)
 
 Accept the EULA and click Install
 
-[<img class="alignnone wp-image-826 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Accept-EULA-300x293.png" alt="" width="300" height="293" srcset="https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Accept-EULA-300x293.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Accept-EULA-768x750.png 768w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Accept-EULA-1024x1000.png 1024w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Accept-EULA-260x254.png 260w, https://sdbrett.com/assets/images2017/09/vRO-Contol-Center-Accept-EULA.png 1178w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Contol-Center-Accept-EULA.png)
+[![Accept EULA](/assets/images/2017/09/vRO-Contol-Center-Accept-EULA.png)]({{site.url}}/assets/images/2017/09/vRO-Contol-Center-Accept-EULA.png)
 
 If you’re running a vRO cluster, you need to restart the vRO services to synchronize the change.
 
@@ -70,21 +70,21 @@ Launch the vRO client and go to Workflows > Library > Chef > Configuration
 
 Select Add Chef Host
 
-[<img class="alignnone wp-image-825 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Client-Add-Chef-Host-300x241.png" alt="" width="300" height="241" srcset="https://sdbrett.com/assets/images2017/09/vRO-Client-Add-Chef-Host-300x241.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Client-Add-Chef-Host-260x208.png 260w, https://sdbrett.com/assets/images2017/09/vRO-Client-Add-Chef-Host.png 666w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Client-Add-Chef-Host.png)
+[![Add host](/assets/images/2017/09/vRO-Client-Add-Chef-Host.png)]({{site.url}}/assets/images/2017/09/vRO-Client-Add-Chef-Host.png)
 
 Enter the required data and click Submit
 
-[<img class="alignnone wp-image-824 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Client-Chef-Add-Host-Data-300x284.png" alt="" width="300" height="284" srcset="https://sdbrett.com/assets/images2017/09/vRO-Client-Chef-Add-Host-Data-300x284.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Client-Chef-Add-Host-Data-768x727.png 768w, https://sdbrett.com/assets/images2017/09/vRO-Client-Chef-Add-Host-Data-1024x970.png 1024w, https://sdbrett.com/assets/images2017/09/vRO-Client-Chef-Add-Host-Data-260x246.png 260w, https://sdbrett.com/assets/images2017/09/vRO-Client-Chef-Add-Host-Data.png 1476w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Client-Chef-Add-Host-Data.png)
+[![Add host Data](/assets/images/2017/09/vRO-Client-Chef-Add-Host-Data.png)]({{site.url}}/assets/images/2017/09/vRO-Client-Chef-Add-Host-Data.png)
 
 After the workflow completed, your Chef server has been added as an endpoint. If the work fails, validate your input and correct where required.
 
 You can verify the connection to the Chef server using the workflow “Chef Server
 
-[<img class="alignnone wp-image-823 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Client-Check-Chef-Status-300x241.png" alt="" width="300" height="241" srcset="https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-300x241.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-768x618.png 768w, https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-1024x824.png 1024w, https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-260x209.png 260w, https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status.png 1474w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Client-Check-Chef-Status.png)
+[![Client status check](/assets/images/2017/09/vRO-Client-Check-Chef-Status.png)]({{site.url}}/assets/images/2017/09/vRO-Client-Check-Chef-Status.png)
 
 The output of the workflow should be similar to the image below
 
-[<img class="alignnone wp-image-822 size-medium" src="https://sdbrett.com/assets/images/2017/09/vRO-Client-Check-Chef-Status-Output-300x135.png" alt="" width="300" height="135" srcset="https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-Output-300x135.png 300w, https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-Output-768x347.png 768w, https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-Output-1024x462.png 1024w, https://sdbrett.com/assets/images2017/09/vRO-Client-Check-Chef-Status-Output-260x117.png 260w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/09/vRO-Client-Check-Chef-Status-Output.png)
+[![Client status output](/assets/images/2017/09/vRO-Client-Check-Chef-Status-Output.png)]({{site.url}}/assets/images/2017/09/vRO-Client-Check-Chef-Status-Output.png)
 
 #### Summary
 

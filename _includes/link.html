@@ -1,0 +1,23 @@
+<nav id="sidebar-icon-links">
+    <a id="github-link"
+        class="icon" title="Github Project" aria-label="Github Project"
+        href="{{ site.github.url }}">
+        {% include svg/github.svg %}
+    </a>
+    <a id="twitter-link"
+        class="icon" title="Twitter" aria-label="Twitter"
+        href="{{ site.twitter.url }}">
+        {% include svg/twitter.svg %}
+    </a>
+    <a id="tags-link"
+        class="icon{% if page.url == '/tags' %} active{% endif %}"
+        title="Tags" aria-label="Tags"
+        href="/tags">
+        {% include svg/tags.svg %}
+    </a>
+        <a id="subscribe-link"
+        class="icon" title="Subscribe" aria-label="Subscribe"
+        href="{{ site.baseurl }}/atom.xml">
+        {% include svg/feed.svg %}
+    </a>
+</nav>

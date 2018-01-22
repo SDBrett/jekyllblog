@@ -14,7 +14,6 @@ tags:
   - Python
   - Scripting
 ---
-#### <img class="alignnone size-medium wp-image-696" src="https://sdbrett.com/assets/images/2017/03/Python-300x101.png" alt="" width="300" height="101" srcset="https://sdbrett.com/assets/images2017/03/Python-300x101.png 300w, https://sdbrett.com/assets/images2017/03/Python-260x88.png 260w, https://sdbrett.com/assets/images2017/03/Python.png 601w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Recently I have started to look at the Turbonomic API. Due to my current skill level in Python, I quickly hit a roadblock. The response from an API is in in XML format. Parsing the response in XML slowed things down a little. Which is the focus of the post. How to parse the XML response with Python.
 
@@ -24,7 +23,7 @@ You will need two modules. Requests and ElementTree. Links to the documentation 
 
   * Requests: <http://docs.python-requests.org/en/master/>
   * ElementTree: <https://docs.python.org/3.6/library/xml.etree.elementtree.html#module-xml.etree.ElementTree>
-  * If you&#8217;re unfamilar with XML terminology, I&#8217;d recommend having a quick look [here](https://www.w3schools.com/xml/xml_tree.asp).
+  * If you';re unfamilar with XML terminology, I';d recommend having a quick look [here](https://www.w3schools.com/xml/xml_tree.asp).
 
 #### Getting Started
 
@@ -39,16 +38,16 @@ To practice with this, we need XML formatted text. Below is a copy of the respon
 	&lt;/TopologyElement&gt;
 &lt;/TopologyElements&gt;{% endhighlight %}
 
-For these examples, the content isn&#8217;t a concern. We will be looking at process.
+For these examples, the content isn';t a concern. We will be looking at process.
 
 #### The API Call and Data Parsing
 
-The specifics of the API call will change depending on the system you&#8217;re accessing. Due to that, lets keep it generic.
+The specifics of the API call will change depending on the system you';re accessing. Due to that, lets keep it generic.
 
 {% highlight python %}r = requests.get('https://sdbrett.com/api/users')
 {% endhighlight %}
 
-We have some data in a variable. It&#8217;s in XML format. Which means looking at the content object isn&#8217;t that helpful.
+We have some data in a variable. It';s in XML format. Which means looking at the content object isn';t that helpful.
 
 {% highlight python %}r.content
 b'&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;&lt;TopologyElements&gt;\n&lt;TopologyElement creationClassName="User" displayName="testuser" isScoped="false" loginProvider="Local" name="testuser" userType="DedicatedCustomer" uuid="_iXQoYAaeEeeT5YCo6TtTyA"&gt;\n&lt;TopologyRelationship childrenUuids="_4T_7lQY-Ed-WUKbEYSVIDw" name="role"/&gt;\n&lt;/TopologyElement&gt;\n&lt;TopologyElement creationClassName="User" displayName="Administrator User" isScoped="false" loginProvider="Local" name="administrator" userType="DedicatedCustomer" uuid="_4T_7kwY-Ed-WUKbEYSVIDw"&gt;\n&lt;TopologyRelationship childrenUuids="_4UAioQY-Ed-WUKbEYSVIDw" name="role"/&gt;\n&lt;/TopologyElement&gt;\n&lt;/TopologyElements&gt;\n'
@@ -60,7 +59,7 @@ These is were the module ElementTree comes in. Using ElementTree, we parse the d
 
 Now our data is in the root variable, we can work with it.
 
-We will use the method &#8216;iter&#8217; to access data within the variable.
+We will use the method &#8216;iter'; to access data within the variable.
 
 To view all elements (tags) we can use a wildcard.
 

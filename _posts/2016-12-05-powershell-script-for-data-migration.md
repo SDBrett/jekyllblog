@@ -15,17 +15,16 @@ tags:
   - Script
   - Windows
 ---
-<img class="alignnone size-medium wp-image-545" src="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png" alt="powershellicon" width="300" height="196" srcset="https://sdbrett.com/assets/images/2016/12/PowerShellIcon-300x196.png 300w, https://sdbrett.com/assets/images/2016/12/PowerShellIcon-260x170.png 260w, https://sdbrett.com/assets/images/2016/12/PowerShellIcon.png 391w" sizes="(max-width: 300px) 100vw, 300px" />
 
 I recently needed to create a script for the purpose of migrating data. Due to complexity, a number of scripts were used. This post covers the script I created to remove illegal characters from directory names. Also adjusting for new directory paths.
 
 ### Migration Overview
 
-The migration had some quirks. Due to this, a simple A to B move wasn&#8217;t an option. There was some restructuring and many folders were not to coming across.
+The migration had some quirks. Due to this, a simple A to B move wasn';t an option. There was some restructuring and many folders were not to coming across.
 
 Due to these requirements, I ended up creating a list of folders which would migrate. From this list, I needed to remove the illegal characters and create new directory paths.
 
-I used two CSV files. In one CSV file, I had the root directories and it&#8217;s destination. A second CSV contained the full source path of 14,000 directories.
+I used two CSV files. In one CSV file, I had the root directories and it';s destination. A second CSV contained the full source path of 14,000 directories.
 
 ### The Script
 
@@ -97,7 +96,7 @@ Try and Catch allows errors to be captured. This is important for logging our sc
 
 Due to the per directory evaluation, there were some issues with repetition. This is to say, the attempts to create the directory more than once.
 
-An IF statement combined with Test-Path helps resolve this. We only want to create a directory if it doesn&#8217;t exist.
+An IF statement combined with Test-Path helps resolve this. We only want to create a directory if it doesn';t exist.
 
 With Test-Path returning false, our new directory gets created.
 
@@ -107,7 +106,7 @@ I made use of Out-File to record logs. A log called &#8220;Full.txt&#8221; provi
 
 Errors.txt allowed for viewing of any exceptions. This was especially useful to find that I needed test-path.
 
-There are some &#8216;write-host&#8217; lines in the script. Some commented out, some not. These are for live debugging and making sure that the script was still processing.
+There are some &#8216;write-host'; lines in the script. Some commented out, some not. These are for live debugging and making sure that the script was still processing.
 
 ### Summary
 

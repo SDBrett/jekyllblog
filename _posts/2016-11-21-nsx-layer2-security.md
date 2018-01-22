@@ -13,7 +13,6 @@ tags:
   - NSX
   - VMware
 ---
-<img class="alignnone size-medium wp-image-486" src="https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-300x154.jpg" alt="VMware NSX" width="300" height="154" srcset="https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-300x154.jpg 300w, https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1-260x133.jpg 260w, https://sdbrett.com/assets/images/2016/11/VMW-NSX-Logo1.jpg 359w" sizes="(max-width: 300px) 100vw, 300px" />
 
 #### Layer2 Invisibility
 
@@ -23,7 +22,7 @@ Physical firewalls work well for North-South traffic. They do not perform as wel
 
 #### Hairpinning Traffic
 
-In virtualized data centres, hosts are likely to contain VM&#8217;s on different subnets. In order for these VM&#8217;s to talk to each other. Traffic will leave the host and traverse the physical network. It would then arrive at the firewall for inspection. Before finally arriving at the same physical host it left.
+In virtualized data centres, hosts are likely to contain VM';s on different subnets. In order for these VM';s to talk to each other. Traffic will leave the host and traverse the physical network. It would then arrive at the firewall for inspection. Before finally arriving at the same physical host it left.
 
 This hairpin traffic path creates unneeded traffic on the physical network. If we reduce the excess traffic on the physical network, we can reduce the cost of the network.
 

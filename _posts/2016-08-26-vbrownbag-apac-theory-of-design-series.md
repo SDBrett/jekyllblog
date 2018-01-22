@@ -74,6 +74,6 @@ Documentation
 Post implementation review
 
   * What went right
-  * What didn&#8217;t and why
+  * What didn';t and why
 
 If you have design experience and project delivery, and would like to contribute to this series, contact me on twitter [@brettjohnson008](https://twitter.com/BrettJohnson008)

@@ -38,15 +38,15 @@ The workflow ‘EBS – Machine Provisioned &#8211; Chef’ assigned the node to
 
 In my vRA environment, I have configured two reservations policies and two reservations.
 
-[<img class="alignnone wp-image-875 size-medium" title="vRA Reservations" src="https://sdbrett.com/assets/images/2017/10/vRA-reservations-300x79.png" alt="" width="300" height="79" srcset="https://sdbrett.com/assets/images2017/10/vRA-reservations-300x79.png 300w, https://sdbrett.com/assets/images2017/10/vRA-reservations-768x203.png 768w, https://sdbrett.com/assets/images2017/10/vRA-reservations-1024x271.png 1024w, https://sdbrett.com/assets/images2017/10/vRA-reservations-260x69.png 260w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/10/vRA-reservations.png)
+[![vRA-reservations](/assets/images/2017/10/vRA-reservations.png)]({{site.url}}/assets/images/2017/10/vRA-reservations.png)
 
-Edit a reservation and click &#8216;New&#8217; on the custom properties section. Type the name &#8216;chef.environment&#8217; and a value. The value you assign needs to match the name of an environment on the Chef server. The property name and value are case sensitive.
+Edit a reservation and click &#8216;New'; on the custom properties section. Type the name &#8216;chef.environment'; and a value. The value you assign needs to match the name of an environment on the Chef server. The property name and value are case sensitive.
 
 The property chef.environment is assigned to both reservations, with values matching Chef environments.
 
-[<img class="alignnone wp-image-874 size-medium" title="vRA Reservation Properties" src="https://sdbrett.com/assets/images/2017/10/Dev-reservation-custom-properties-300x65.png" alt="" width="300" height="65" srcset="https://sdbrett.com/assets/images2017/10/Dev-reservation-custom-properties-300x65.png 300w, https://sdbrett.com/assets/images2017/10/Dev-reservation-custom-properties-768x167.png 768w, https://sdbrett.com/assets/images2017/10/Dev-reservation-custom-properties-1024x223.png 1024w, https://sdbrett.com/assets/images2017/10/Dev-reservation-custom-properties-260x57.png 260w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/10/Dev-reservation-custom-properties.png)
+[![Custom Properties](/assets/images/2017/10/Dev-reservation-custom-properties.png)]({{site.url}}/assets/images/2017/10/Dev-reservation-custom-properties.png)
 
-[<img class="alignnone wp-image-873 size-medium" title="Chef environments" src="https://sdbrett.com/assets/images/2017/10/Chef-server-environments-300x56.png" alt="" width="300" height="56" srcset="https://sdbrett.com/assets/images2017/10/Chef-server-environments-300x56.png 300w, https://sdbrett.com/assets/images2017/10/Chef-server-environments-768x143.png 768w, https://sdbrett.com/assets/images2017/10/Chef-server-environments-1024x191.png 1024w, https://sdbrett.com/assets/images2017/10/Chef-server-environments-260x48.png 260w" sizes="(max-width: 300px) 100vw, 300px" />](https://sdbrett.com/assets/images/2017/10/Chef-server-environments.png)
+[![Chef Environment](/assets/images/2017/10/Chef-server-environments.png)]({{site.url}}/assets/images/2017/10/Chef-server-environments.png)
 
 The EBS passes the custom property to vRO as a machine property. Which the deployment workflow uses to select the environment. In the example configuration, this provides a link between physical deployment clusters and Chef environments.
 

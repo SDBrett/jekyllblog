@@ -23,7 +23,7 @@ Just like traditional routers, each LIF will have an IP address assigned. As the
 
 To help put some context to the text, I have done up a quick diagram of a DLR on two hosts with four VM’s, two per host.
 
-<a href="https://sdbrett.com/assets/images/2016/10/Logical-Router.png" target="_blank"><img class="alignnone wp-image-388" src="https://sdbrett.com/assets/images/2016/10/Logical-Router-280x300.png" alt="logical-router" width="364" height="390" srcset="https://sdbrett.com/assets/images/2016/10/Logical-Router-280x300.png 280w, https://sdbrett.com/assets/images/2016/10/Logical-Router-260x279.png 260w, https://sdbrett.com/assets/images/2016/10/Logical-Router.png 726w" sizes="(max-width: 364px) 100vw, 364px" /></a>
+[![Logical Router](/assets/images/2016/10/Logical-Router.png)]({{site.url}}/assets/images/2016/10/Logical-Router.png)
 
 Despite there being two router icons in the image, what we see is one instance / one router. This one router has two VXLAN LIFS connecting it to two Logical Switches. These VXLAN LIFS are referred to as internal LIFS as they connect to an internal network. A DLR instance cannot have two Internal LIFS connected to the same logical switch.
   
@@ -33,4 +33,4 @@ The DLR can participate in dynamic routing. During the deployment of a DLR you h
 
 DLR’s have at least 2 MAC addresses, the first being the vMAC which is the same on all DLRs and there LIF’s, the vMAC is always 02:50:56:56:56:44:52. The Second MAC address is the pMAC, this is always different and assigned per Uplink LIF. Referring back to the image, the DLR copies on both hosts would have different pMAC addresses. The pMAC starts with VMwares OUI 00:50:56. 
 
-I will cover more about the Logical Routers in later posts, there is a lot to cover, but I&#8217;ll get there
+I will cover more about the Logical Routers in later posts, there is a lot to cover, but I';ll get there

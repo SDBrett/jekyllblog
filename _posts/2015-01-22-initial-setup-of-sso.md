@@ -16,16 +16,15 @@ https://_Server Name_:9443/web-client
   
 Though if you selected a different port to 9443 during the installation then use that.
 
-
-![Initial Logon]({{ "/assets/images/2015/01/1-Initial-logon.png" | absolute_url }})
+[![Initial Login](/assets/images/2015/01/1-Initial-logon.png)]({{site.url}}/assets/images/2015/01/1-Initial-logon.png)
 
 On the Left hand side go to Administration
 
-![Administration]({{ "/assets/images/2015/01/2-Vcentre-home.png" | absolute_url }})
+[![Administration](/assets/images/2015/01/2-Vcentre-home.png)]({{site.url}}/assets/images/2015/01/2-Vcentre-home.png)
 
 Click Configuration > Identity Sources > Plus symbol
 
-![Administration Menu]({{ "/assets/images/2015/01/3-Administration.png" | absolute_url }})
+[![Administration Menu](/assets/images/2015/01/3-Administration.png)]({{site.url}}/assets/images/2015/01/3-Administration.png)
 
 There are a number of authentication options. As my Vcentre server is part of a Windows domain, I will be using AD (Integrated Windows Authentication) in this example.
   
@@ -33,18 +32,15 @@ Enter the domain name if needed and if your Vcentre server is part of the Window
   
 If you want to use SPN please refer to http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2058298
 
-![Add Id Source]({{ "/assets/images/2015/01/8-Add-Identity-Source1.png" | absolute_url }})
-
-
-&nbsp;
+[![Add Id Source](/assets/images/2015/01/8-Add-Identity-Source1.png)]({{site.url}}/assets/images/2015/01/8-Add-Identity-Source1.png)
 
 From the left hand menu go to Users and Groups, then select the group you would like to change. In the lower box select the Add member button.
 
-![Users and groups]({{ "/assets/images/2015/01/4-Users-and-groups.png" | absolute_url }})
+[![Users and groups](/assets/images/2015/01/4-Users-and-groups.png)]({{site.url}}/assets/images/2015/01/4-Users-and-groups.png)
 
 Select your domain from the drop down menu and select the user / group you would like to add, then OK.
 
-![Add user]({{ "/assets/images/2015/01/5-Adding-user.png" | absolute_url }})
+[![Add user](/assets/images/2015/01/5-Adding-user.png)]({{site.url}}/assets/images/2015/01/5-Adding-user.png)
 
 We are close to finished with adding the new users to the Vcentre server. We now need to add the newly assigned users and groups to specific Vcentre servers.
 
@@ -52,7 +48,7 @@ From the Left hand menu go
 
 Home > Vcentre > Vcentre > Vcentre Servers > _Server Name_ > Manage > Permissions
 
-![Permissions]({{ "/assets/images/2015/01/6-Permissions.png" | absolute_url }})
+[![Permissions](/assets/images/2015/01/6-Permissions.png)]({{site.url}}/assets/images/2015/01/6-Permissions.png)
 
 Click on the Plus symbol
 
@@ -60,6 +56,6 @@ Select the role you would like to assign and then click Add
   
 Select your user / group and OK and OK again.
 
-![Add Permissions]({{ "/assets/images/2015/01/7-adding-permissions.png" | absolute_url }})
+[![Add Permissions](/assets/images/2015/01/7-adding-permissions.png)]({{site.url}}/assets/images/2015/01/7-adding-permissions.png)
 
 You have now given a domain member permissions to use the Vcentre server.

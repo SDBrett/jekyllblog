@@ -14,27 +14,26 @@ tags:
   - VMware
   - vSphere
 ---
-<img class="alignnone wp-image-457 size-medium" src="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg" alt="Physical RDM" width="300" height="271" srcset="https://sdbrett.com/assets/images/2016/11/RDM-300x271.jpg 300w, https://sdbrett.com/assets/images/2016/11/RDM-260x235.jpg 260w, https://sdbrett.com/assets/images/2016/11/RDM.jpg 346w" sizes="(max-width: 300px) 100vw, 300px" />
 
-I&#8217;ve been having some issues with the conversion of a VMDK to a Physical RDM. This is a request from a client, as the storage and backup vendor has stated that there are advantages to doing this. Not something I have done before, but nothing wrong with that.
+I';ve been having some issues with the conversion of a VMDK to a Physical RDM. This is a request from a client, as the storage and backup vendor has stated that there are advantages to doing this. Not something I have done before, but nothing wrong with that.
 
 I found the KB article with ease: <https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=3443266>
 
 Steps looked straight forward, get the identifier and power down the server, run the commands. Yeah, Nah.
 
-At this point, I&#8217;m going to take the assumption that you already understand how to create an RDM for a VM using the VM settings.
+At this point, I';m going to take the assumption that you already understand how to create an RDM for a VM using the VM settings.
 
-#### Stop&#8230; Error Time, can&#8217;t complete this!!!!
+#### Stop&#8230; Error Time, can';t complete this!!!!
 
-<span style="color: #ff0000;">Destination disk format: pass-through raw disk mapping to &#8216;/vmfs/devices/disks/naa.6xxxxxxxxxxxxxxxx&#8217;</span>
+<span style="color: #ff0000;">Destination disk format: pass-through raw disk mapping to &#8216;/vmfs/devices/disks/naa.6xxxxxxxxxxxxxxxx';</span>
   
-<span style="color: #ff0000;">Cloning disk &#8216;/vmfs/volumes/DS1/VM/VM.vmdk&#8217;&#8230;</span>
+<span style="color: #ff0000;">Cloning disk &#8216;/vmfs/volumes/DS1/VM/VM.vmdk';&#8230;</span>
   
 <span style="color: #ff0000;">Failed to clone disk: One of the parameters supplied is invalid (1).</span>
 
 #### Findings:
 
-I first found that there are a number of articles referring to the conversion of RDM to VMDK and Physical RDM to Virtual. Unfortunately, articles and posts about the process I am attempting are around vSphere 3.5. Back then the command structure was a lot different and I couldn&#8217;t adapt that.
+I first found that there are a number of articles referring to the conversion of RDM to VMDK and Physical RDM to Virtual. Unfortunately, articles and posts about the process I am attempting are around vSphere 3.5. Back then the command structure was a lot different and I couldn';t adapt that.
 
 #### The problem:
 

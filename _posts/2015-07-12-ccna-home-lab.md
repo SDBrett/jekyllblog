@@ -10,9 +10,9 @@ categories:
 ---
 During my study for my VCP5-DCV certification I found that having a home lab was a huge asset in terms of being able to get a better understanding of the subject matter. Now that I am working towards my CCNA Routing and Switch I feel this will be the case once again.
 
-My goal is use the home lab to work on labs as per the study guides I am using and also to have something productive to work on when I don&#8217;t feel like reading through a study guide. Let&#8217;s face it all study guides can get a bit dry.
+My goal is use the home lab to work on labs as per the study guides I am using and also to have something productive to work on when I don';t feel like reading through a study guide. Let';s face it all study guides can get a bit dry.
 
-The home lab PC was originally spec&#8217;d up for running a nested ESXi environment and is overkill for what I will be doing for my CCNA.
+The home lab PC was originally spec';d up for running a nested ESXi environment and is overkill for what I will be doing for my CCNA.
 
   * i5-4690
   * 32 GB Ram
@@ -62,7 +62,7 @@ speed auto
 {% endhighlight %}
 
 
-Getting communication between the Debian VM and the devices took a bit of effort, but wasn&#8217;t too bad.
+Getting communication between the Debian VM and the devices took a bit of effort, but wasn';t too bad.
 
 Adding a VM to GNS3 is a very simple process. Go to Edit > Preferences > VirtualBox VMs > New. Then just select the VM you want to add and your done.
 
@@ -87,7 +87,7 @@ Communication from VM to router has been confirmed and that the VM can communica
 
 &nbsp;
 
-This is my starting configuration for my CCNA lab which I&#8217;m sure will get plenty of use as well has get broken many times during the course of my study.
+This is my starting configuration for my CCNA lab which I';m sure will get plenty of use as well has get broken many times during the course of my study.
 
 &nbsp;
 
@@ -95,8 +95,8 @@ This is my starting configuration for my CCNA lab which I&#8217;m sure will get 
 
 [Sybex CCNA Routing and Switching](http://www.amazon.com.au/Routing-Switching-Deluxe-Study-Guide-ebook/dp/B00R04DDK8/ref=sr_1_1?ie=UTF8&qid=1436703124&sr=8-1&keywords=sybex+ccna "Sybex CCNA Routing and Switching")
 
-[Chris Bryant&#8217;s CCNA Study Guide, Volume 1](http://www.amazon.com.au/Chris-Bryants-CCNA-Study-Guide-ebook/dp/B00GFYEZ1A/ref=sr_1_5?ie=UTF8&qid=1436703267&sr=8-5&keywords=ccna "Chris Bryant's CCNA Study Guide, Volume 1")
+[Chris Bryant';s CCNA Study Guide, Volume 1](http://www.amazon.com.au/Chris-Bryants-CCNA-Study-Guide-ebook/dp/B00GFYEZ1A/ref=sr_1_5?ie=UTF8&qid=1436703267&sr=8-5&keywords=ccna "Chris Bryant's CCNA Study Guide, Volume 1")
 
-[Chris Bryant&#8217;s CCNA Study Guide, Volume 2](http://www.amazon.com.au/Chris-Bryants-Study-Guide-Volume-ebook/dp/B00H9ICMV6/ref=pd_sim_351_1?ie=UTF8&refRID=0JSBJ969VBMDVVEGR3FY "Chris Bryant's CCNA Study Guide, Volume 2")
+[Chris Bryant';s CCNA Study Guide, Volume 2](http://www.amazon.com.au/Chris-Bryants-Study-Guide-Volume-ebook/dp/B00H9ICMV6/ref=pd_sim_351_1?ie=UTF8&refRID=0JSBJ969VBMDVVEGR3FY "Chris Bryant's CCNA Study Guide, Volume 2")
 
 [CBTNuggets](https://www.cbtnuggets.com/ "CBT Nuggets")

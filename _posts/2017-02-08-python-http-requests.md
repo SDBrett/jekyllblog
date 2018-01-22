@@ -15,9 +15,8 @@ tags:
   - Python
   - Cloud
 ---
-#### [<img class="alignnone size-medium wp-image-651" src="https://sdbrett.com/assets/images/2017/02/HTTP-Requests-Logo-234x300.png" alt="" width="234" height="300" srcset="https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-234x300.png 234w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-768x985.png 768w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-799x1024.png 799w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo-260x333.png 260w, https://sdbrett.com/assets/images2017/02/HTTP-Requests-Logo.png 1020w" sizes="(max-width: 234px) 100vw, 234px" />](https://sdbrett.com/assets/images/2017/02/HTTP-Requests-Logo.png)
 
-If you&#8217;re looking at Python to interact with API&#8217;s, it&#8217;s likely that you&#8217;ll use the Requests module. Many platforms also offer SDK&#8217;s to help. Such as, Boto3 which is the AWS Python SDK.
+If you';re looking at Python to interact with API';s, it';s likely that you';ll use the Requests module. Many platforms also offer SDK';s to help. Such as, Boto3 which is the AWS Python SDK.
 
 Requests is very well documented, both official and community documentation.
 
@@ -46,7 +45,7 @@ Note: Installation may require elevated privileges.
 
 #### Performing a HTTP GET
 
-Performing a HTTP GET is one of the first things you&#8217;re likely to do. A GET will attempt to retrieve (GET) data from a resource. The operation is simple enough. To help with learning, there are a number of sites which you can test basic operations. For this post we are going to use [JSON Placeholder](https://jsonplaceholder.typicode.com/).
+Performing a HTTP GET is one of the first things you';re likely to do. A GET will attempt to retrieve (GET) data from a resource. The operation is simple enough. To help with learning, there are a number of sites which you can test basic operations. For this post we are going to use [JSON Placeholder](https://jsonplaceholder.typicode.com/).
 
 The resource that you intend to retrieve data from could require authentication. This is out of the planned scope for this post.
 

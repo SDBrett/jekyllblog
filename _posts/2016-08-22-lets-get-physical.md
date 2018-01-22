@@ -1,6 +1,6 @@
 ---
 id: 344
-title: 'Let&#8217;s get Physical'
+title: 'Lets get Physical'
 date: 2016-08-22T07:18:45+00:00
 author: Brett Johnson
 layout: post

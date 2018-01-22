@@ -8,9 +8,9 @@ permalink: /BrettsITBlog/2016/02/vbrownbag-aci-series/
 categories:
   - vBrownBag
 ---
-Recently vBrownBag kicked off the APAC podcast with a 4 part series on Cisco&#8217;s SDN solution ACI. Before getting into the details of the show I would like to thank our presenters, Lauren Malhoit [@<span class="u-linkComplex-target">malhoit</span>](https://twitter.com/malhoit){.ProfileHeaderCard-screennameLink.u-linkComplex.js-nav} and Carl Niger [@<span class="u-linkComplex-target">carl_niger</span>](https://twitter.com/carl_niger){.ProfileHeaderCard-screennameLink.u-linkComplex.js-nav} for taking the time to put together some fantastic content and presenting at a local time when most of us would be asleep.
+Recently vBrownBag kicked off the APAC podcast with a 4 part series on Cisco';s SDN solution ACI. Before getting into the details of the show I would like to thank our presenters, Lauren Malhoit [@<span class="u-linkComplex-target">malhoit</span>](https://twitter.com/malhoit){.ProfileHeaderCard-screennameLink.u-linkComplex.js-nav} and Carl Niger [@<span class="u-linkComplex-target">carl_niger</span>](https://twitter.com/carl_niger){.ProfileHeaderCard-screennameLink.u-linkComplex.js-nav} for taking the time to put together some fantastic content and presenting at a local time when most of us would be asleep.
 
-The series provided excellent product information on Cisco&#8217;s SDN solution as well a great a technical overview of the components and some of its capabilities. We were taken through the architecture required, terminology and implementation details. Both Lauren and Carl provided excellent technical depth and explanation.
+The series provided excellent product information on Cisco';s SDN solution as well a great a technical overview of the components and some of its capabilities. We were taken through the architecture required, terminology and implementation details. Both Lauren and Carl provided excellent technical depth and explanation.
 
 **Part 1 &#8211; Getting started with ACI**
 

@@ -3,6 +3,9 @@ layout: page
 title: VCAP7 CMA Design
 permalink: /VCAP7-CMA-Design/
 ---
+
+# VCAP7 CMA Design Study Guide
+
 This page is dedicated to providing information for the VCAP7-CMA Design exam.
 If you've read previous posts that I've written about study, you'll know that I'm a firm beleiver that learning only happens when we have context.
 As such, I have started by creating a problem to be solved. This can be found under the 'use case' link below. This will provide context to the objectives and help provide relevance to the information provided.
@@ -15,7 +18,7 @@ In addition, documentation in addition to the blog posts will be created and mad
 * [Objective 1 - Create a vRealize Automation Conceptual Design]
     * [Objective 1.1 - Gather and analyze business requirements]({% post_url 2017-11-21-VCAP7-CMA-Design-Objective1.1 %})
     * [Objective 1.2 - Gather and analyze use cases]({% post_url 2017-11-22-VCAP7-CMA-Design-Objective1.2 %})
-    * [Objective 1.3 - Differentiate requirements, risks, constraints and assumptions]({% post_url 2017-11-29-VCAP7-CMA-Design-Objective1.3 %}))
+    * [Objective 1.3 - Differentiate requirements, risks, constraints and assumptions]({% post_url 2017-11-29-VCAP7-CMA-Design-Objective1.3 %})
        
     
 * Objective 2 - Create a vRealize Automation Logical Design
@@ -35,7 +38,7 @@ In addition, documentation in addition to the blog posts will be created and mad
        
     
 * Objective 4 - Design vRealize Automation Tenants
-    * [Objective 4.1 - Determine Use Cases for Multi-Tenancy]({% post_url 2018-01-17-VCAP7-CMA-Design-Objective4.1 %}))
+    * [Objective 4.1 - Determine Use Cases for Multi-Tenancy]({% post_url 2018-01-17-VCAP7-CMA-Design-Objective4.1 %})
     * Objective 4.2 - Determine identity source requirements for a tenancy design
     * Objective 4.3 - Choose an authentication mechanism based on requirements
     * Objective 4.4 - Assign system wide and tenant specific roles based on administrative functions
