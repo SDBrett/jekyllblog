@@ -1,6 +1,6 @@
 ---
 id: 885
-title: 'PowerCLI: Offline install Powershell v3 and v4'
+title: 'PowerCLI: Offline install PowerShell v3 and v4'
 date: 2017-11-02T11:25:25+00:00
 author: Brett Johnson
 layout: post
@@ -11,7 +11,7 @@ categories:
   - PowerCLI
 tags:
   - PowerCLI
-  - powershell
+  - PowerShell
   - VMware
 ---
 

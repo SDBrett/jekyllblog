@@ -9,10 +9,10 @@ academia_post_display_home:
   - ""
 image: /wp-content/uploads/2016/12/PowerShellIcon.png
 categories:
-  - Powershell
+  - PowerShell
 tags:
   - Microsoft
-  - Powershell
+  - PowerShell
   - Script
   - Server 2012
 ---

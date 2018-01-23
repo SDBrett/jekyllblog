@@ -1,24 +1,24 @@
 ---
 id: 48
-title: Default to Powershell in Windows Core
+title: Default to PowerShell in Windows Core
 date: 2015-02-11T04:46:37+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2015/02/default-to-powershell-in-windows-core/
 categories:
-  - Powershell
+  - PowerShell
 tags:
   - Server 2012
 ---
-One of the big pushes in Server 2012 is the use a Server Core installation instead of the full GUI install. Microsoft have put a lot of effort into encouraging administrators to use Powershell as a core tool for day to day administration of servers, which is why is seems a bit strange that a Server Core installation boots to a traditional command prompt instead of a Powershell prompt.
+One of the big pushes in Server 2012 is the use a Server Core installation instead of the full GUI install. Microsoft have put a lot of effort into encouraging administrators to use PowerShell as a core tool for day to day administration of servers, which is why is seems a bit strange that a Server Core installation boots to a traditional command prompt instead of a PowerShell prompt.
 
-To change your Server Core installation to launch Powershell instead of the normal Command Prompt is a simple registry change.
+To change your Server Core installation to launch PowerShell instead of the normal Command Prompt is a simple registry change.
 
 From the Command Prompt run _Regedit_
 
 Navigate to _HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon_
 
-![Regedit]({{ "/assets/images/2015/02/Powershell-reg-default.png" | absolute_url }})
+![Regedit]({{ "/assets/images/2015/02/PowerShell-reg-default.png" | absolute_url }})
 
 The highlighted _Shell_ dword is what we need to change, so double click on that and type in _powershell.exe_
 
@@ -26,4 +26,4 @@ The highlighted _Shell_ dword is what we need to change, so double click on that
 
 Click _Ok_ and close the Registry Editior.
 
-When you reboot the server you will now have a Powershell prompt.
+When you reboot the server you will now have a PowerShell prompt.

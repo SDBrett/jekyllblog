@@ -7,7 +7,6 @@ categories:
 tags:
   - VMware
   - vRA
-  - StudyGuide
 ---
 
 As part of the VCAP7-CMA Design study guide, I have put together a use case which will be used to provide context when addressing each of the exam objectives.

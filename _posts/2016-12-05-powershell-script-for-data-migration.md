@@ -8,10 +8,10 @@ permalink: /BrettsITBlog/2016/12/powershell-script-for-data-migration/
 academia_post_display_home:
   - ""
 categories:
-  - Powershell
+  - PowerShell
 tags:
   - Microsoft
-  - Powershell
+  - PowerShell
   - Script
   - Windows
 ---

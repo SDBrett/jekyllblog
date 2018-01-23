@@ -47,7 +47,7 @@ The System event logs also show that installation was successful.
 
 [![Event Logs](/assets/images/2016/08/Laps-Eventviewer.png)]({{site.url}}/assets/images/2016/08/Laps-Eventviewer.png)
 
-Back on the DC we can check that the password has been set using the fat client &#8220;LAPS UI&#8221; or through Powershell.
+Back on the DC we can check that the password has been set using the fat client &#8220;LAPS UI&#8221; or through PowerShell.
 
 [![LAPS Fat Client](/assets/images/2016/08/Laps-fat-client.png)]({{site.url}}/assets/images/2016/08/Laps-fat-client.png)
 
