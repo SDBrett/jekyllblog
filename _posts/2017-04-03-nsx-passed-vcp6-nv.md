@@ -1,21 +1,14 @@
 ---
-id: 710
 title: 'NSX: Passed VCP6-NV'
 date: 2017-04-03T09:17:35+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/04/nsx-passed-vcp6-nv/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/04/VMW-LGO-CERT-PRO-6-NETWK-VIRT.gif
 categories:
   - NSX
 tags:
-  - Networking
   - NSX
-  - SDN
   - VMware
-  - vSphere
 ---
 
 In October 2016, I took the VCP6-NV exam and failed. While this was not the first exam I have failed, it was eye opening. After seeing the question set, I realized my understanding of the exam was incorrect. I wrote a post 

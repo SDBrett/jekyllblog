@@ -1,12 +1,9 @@
 ---
-id: 890
 title: VMware Workstation 14 Linux Not Enough Memory
 date: 2017-11-03T07:42:49+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/11/vmware-workstation-14-linux-not-enough-memory/
-academia_post_display_home:
-  - ""
 categories:
   - Vmware
 tags:

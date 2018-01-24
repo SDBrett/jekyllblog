@@ -1,13 +1,9 @@
 ---
-id: 737
 title: 'Vertiv: UPS Discussion'
 date: 2017-05-13T10:58:21+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/05/vertiv-ups/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/05/ver_logo_tm_hrz_rgb_gry.jpg
 categories:
   - Vertiv
 tags:

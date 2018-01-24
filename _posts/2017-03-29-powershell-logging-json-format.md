@@ -1,20 +1,14 @@
 ---
-id: 701
 title: 'PowerShell: Logging in JSON format'
 date: 2017-03-29T12:57:56+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/03/powershell-logging-json-format/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2016/12/PowerShellIcon.png
 categories:
   - PowerShell
 tags:
   - Microsoft
   - PowerShell
-  - Script
-  - Server 2012
 ---
 
 When writing scripts for clients, it';s important to generate good logs. It';s a common position where a script works perfectly in test. But in production something is askew.

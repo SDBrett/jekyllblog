@@ -1,13 +1,9 @@
 ---
-id: 806
 title: 'Automation: Understanding the Role of your tool'
 date: 2017-09-04T20:30:45+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/09/automation-understanding-role-tool/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/09/robotic-process-automation-hero.jpg
 categories:
   - Automation
 tags:

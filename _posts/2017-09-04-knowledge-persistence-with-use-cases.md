@@ -1,17 +1,13 @@
 ---
-id: 744
 title: 'Study: Knowledge Persistence with Use Cases'
 date: 2017-09-04T20:36:49+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/09/knowledge-persistence-with-use-cases/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/05/learning-what-counts.jpg
 categories:
   - Career
 tags:
-  - study
+  - Study
 ---
 
 Building use cases to learn new products allows for new knowledge to be applied and persist much longer.

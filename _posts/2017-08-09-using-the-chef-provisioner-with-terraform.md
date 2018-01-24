@@ -1,20 +1,16 @@
 ---
-id: 792
 title: Using the Chef provisioner with Terraform
 date: 2017-08-09T20:14:57+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/08/using-the-chef-provisioner-with-terraform/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/07/chef-logo.png
 categories:
   - Chef
+  - Terraform
 tags:
   - AWS
-  - chef
-  - Cloud
-  - terraform
+  - Chef
+  - Terraform
 ---
 
 Terraform is an awesome tool used to manage infrastructure using the Infrastructure as Code philosophy. Modules called Providers enable Terraform to communicate with a number of different cloud providers.

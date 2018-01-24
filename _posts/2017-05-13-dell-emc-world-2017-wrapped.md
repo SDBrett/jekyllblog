@@ -1,18 +1,13 @@
 ---
-id: 728
 title: 'Dell EMC World 2017: All wrapped up'
 date: 2017-05-13T10:12:10+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/05/dell-emc-world-2017-wrapped/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/05/Dell-EMC-World-2017.jpg
 categories:
   - vBrownBag
 tags:
   - Community
-  - Conference
   - vBrownBag
 ---
 

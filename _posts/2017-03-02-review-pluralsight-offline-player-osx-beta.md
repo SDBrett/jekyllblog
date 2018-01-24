@@ -1,13 +1,10 @@
 ---
-id: 665
+
 title: 'Review: PluralSight Offline Player OSX Beta'
 date: 2017-03-02T10:32:53+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/03/review-pluralsight-offline-player-osx-beta/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/03/pluralsight-logo-2016-e1471542891309.png
 categories:
   - Reviews
 tags:

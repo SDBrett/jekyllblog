@@ -1,19 +1,17 @@
 ---
-id: 844
 title: 'CHEF: Integration with vRA, Client installation workflows'
 date: 2017-09-07T21:49:12+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/09/chef-integration-vra-client-installation-workflows/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/07/chef-logo.png
 categories:
   - Chef
+  - vRA
 tags:
-  - chef
-  - Cloud
+  - Chef
   - VMware
+  - vRA
+  - vRO
 ---
 
 Chef Integration with vRA: [Part1](https://sdbrett.com/BrettsITBlog/2017/09/chef-integration-vra-installing-vro-plugin/)

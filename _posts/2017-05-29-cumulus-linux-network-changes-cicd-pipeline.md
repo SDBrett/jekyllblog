@@ -1,22 +1,14 @@
 ---
-id: 781
 title: 'Cumulus Linux: Network changes with a CICD pipeline'
 date: 2017-05-29T21:31:53+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/05/cumulus-linux-network-changes-cicd-pipeline/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/05/cumulus-networks-linux-network-os.jpg
 categories:
   - Cumulus
 tags:
   - Cumulus
-  - Linux
   - Networking
-  - Scripting
-  - SDDC
-  - SDN
 ---
 
 While at Interop ITX 2017, I met with [Eric Pulvino](https://twitter.com/EricPulvino) from Cumulus Networks and learnt a bit about where Cumulus was heading and what’s new. One of the topics that got my attention was using a CICD pipeline for end to end testing of network configuration changes.

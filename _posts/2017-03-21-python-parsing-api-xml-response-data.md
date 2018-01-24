@@ -1,18 +1,13 @@
 ---
-id: 689
 title: 'Python: Parsing API XML Response Data'
 date: 2017-03-21T21:46:32+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/03/python-parsing-api-xml-response-data/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/03/Python.png
 categories:
   - Python
 tags:
   - Python
-  - Scripting
 ---
 
 Recently I have started to look at the Turbonomic API. Due to my current skill level in Python, I quickly hit a roadblock. The response from an API is in in XML format. Parsing the response in XML slowed things down a little. Which is the focus of the post. How to parse the XML response with Python.

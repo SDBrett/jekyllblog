@@ -1,20 +1,13 @@
 ---
-id: 787
 title: 'Chef: Breaking out the oven mitts'
 date: 2017-07-25T08:07:19+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/07/chef-breaking-oven-mitts/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/07/chef-logo.png
 categories:
   - Chef
 tags:
   - Chef
-  - Cloud
-  - DevOps
-  - Automation
 ---
 
 Configuration management systems are used to deploy and ensure a standard environmental state. You might use a configuration manager to ensure that a file exists, or a certain setting is always applied to a system. As your IT infrastructure grows or becomes more distributed ensuring a consistent state becomes more difficult. Through deploying and ensuring consistent state across multiple systems based on central policies configuration managers help to lower the administrative overhead, improve security and reliability.

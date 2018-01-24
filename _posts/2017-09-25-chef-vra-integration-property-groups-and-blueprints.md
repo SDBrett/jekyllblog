@@ -1,29 +1,17 @@
 ---
-id: 862
 title: 'CHEF: vRA Integration, Property Groups and Blueprints'
 date: 2017-09-25T15:59:20+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/09/chef-vra-integration-property-groups-and-blueprints/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/07/chef-logo.png
 categories:
-  - Automation
   - Chef
-  - Cloud
-  - Vmware
   - vRA
-  - vRO
-  - vSphere
 tags:
-  - Automation
   - Chef
   - VMware
-  - Cloud
   - vRA
   - vRO
-  - vSphere
 ---
 
 The Chef plugin provides some workflows to help with getting the vRA integration up and running with minimal effort. I would suggest treating them as samples to build functionality on top of. There are some limitations from the default state which might not provide sufficient flexibility for production usage.

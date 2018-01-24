@@ -1,13 +1,9 @@
 ---
-id: 642
 title: 'Python: Getting Started with HTTP Requests'
 date: 2017-02-08T22:39:23+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/02/python-http-requests/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/02/HTTP-Requests-Logo.png
 categories:
   - Python
 tags:

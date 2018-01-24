@@ -1,18 +1,14 @@
 ---
-id: 831
 title: 'CHEF: Integration with vRA, installing the vRO plugin'
 date: 2017-09-07T09:08:05+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/09/chef-integration-vra-installing-vro-plugin/
-academia_post_display_home:
-  - ""
-image: /wp-content/uploads/2017/07/chef-logo.png
 categories:
   - Chef
+  - vRA
 tags:
-  - Automation
-  - chef
+  - Chef
   - VMware
   - vRA
   - vRO

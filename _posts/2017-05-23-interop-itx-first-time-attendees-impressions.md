@@ -1,15 +1,12 @@
 ---
-id: 778
 title: 'Interop ITX: First time attendees impressions'
 date: 2017-05-23T20:40:23+00:00
 author: Brett Johnson
 layout: post
 permalink: /BrettsITBlog/2017/05/interop-itx-first-time-attendees-impressions/
-image: /wp-content/uploads/2017/05/406798LOGO.jpeg
 categories:
   - Interop ITX
 tags:
-  - Interop
   - Interop ITX
 ---
 
