@@ -70,7 +70,6 @@ gulp.task('deploy', function(callback) {
 	runSequence(
 		'fetch-newest-analytics',
 		'jekyll',
-		'optimize-images',
 		'minify-html',
 		'minify-js',
 		callback
