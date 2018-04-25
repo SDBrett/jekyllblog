@@ -1,18 +1,26 @@
-var	gulp = require('gulp');
-var	shell = require('gulp-shell');
-var runSequence = require('run-sequence');
 var autoprefixer = require('gulp-autoprefixer');
-var imagemin = require('gulp-imagemin');
-var pngquant = require('imagemin-pngquant');
-var jpegtran = require('imagemin-jpegtran');
-var gifsicle = require('imagemin-gifsicle');
-var replace = require('gulp-replace');
-var fs = require('fs');
-var download = require('gulp-download');
-var htmlmin = require('gulp-htmlmin');
 var cleanCSS = require('gulp-clean-css');
-var uglify = require('gulp-uglify');
+var download = require('gulp-download');
+var exec = require('child_process').exec;
+var fs = require('fs');
+var gifsicle = require('imagemin-gifsicle');
+var	gulp = require('gulp');
+var htmlmin = require('gulp-htmlmin');
+var imagemin = require('gulp-imagemin');
+var jpegtran = require('imagemin-jpegtran');
+var pngquant = require('imagemin-pngquant');
 var pump = require('pump');
+var replace = require('gulp-replace');
+var runSequence = require('run-sequence');
+var	shell = require('gulp-shell');
+var uglify = require('gulp-uglify');
+
+gulp.task('s3-push', function(cb) {
+	exec('s3_website push', function(err, stdout, stderr){
+		console.log(stdout);
+		console.log(stderr);
+	});
+});
 
 gulp.task('minify-html', function() {
     return gulp.src('_site/**/*.html')
@@ -72,6 +80,7 @@ gulp.task('deploy', function(callback) {
 		'jekyll',
 		'minify-html',
 		'minify-js',
+		's3-push',
 		callback
 	);
 });
