@@ -24,14 +24,19 @@ In order to have redundant vRA appliances, you need to have a minumum of two. Th
 
 Load balancer configuration is detailed in the public VMware documents for vRA.
 
-DNS                     Target
-vra.company.local       Load Balancer VIP
-vra-srv01.company.local vRA appliance
-vra-srv02.company.local vRA appliance
+**DNS**
+|DNS| Target | Purpose |
+|---|--------|---------|
+vra.company.local | 192.168.1.50 | Load Balancer VIP
+vra-srv01.company.local | 182.168.1.51 | vRA appliance
+vra-srv02.company.local | 182.168.1.52 | vRA appliance
 
-Certificate
-CommonName: vra.company.local
-SAN:        vra-srv01.company.local, vra-srv02.company.local
+**Certificate**
+* CommonName: vra.company.local
+* SAN:
+  * vra.company.local
+  * vra-srv01.company.local 
+  * vra-srv02.company.local
 
 Within VAMI of an appliance the 'HostName' should be that of the load balancer VIP. In our case vra.company.local.
 To enable HA of the iDP, go to the vRA interface and change the connector URL to vra.company.local. This will send identity requests to the vip.
@@ -55,14 +60,19 @@ HA required, site redundant | 2 vRA appliances(one per site), async replication 
 
 The IaaS manager service can be installed on multiple servers. In vRA 7.2 this is an active / passive configuration. DNS, Load Balancer and Certificate configurations need to be made to implement.
 
-DNS                     Target
-iaas-man.company.local       Load Balancer VIP
-iaas-man-srv01.company.local vRA appliance
-iaas-man-srv02.company.local vRA appliance
+**DNS**
+|DNS| Target | Purpose |
+|---|--------|---------|
+iaas-man.company.local | 192.168.1.56 | IaaS Web Load Balancer VIP
+iaas-man-srv01.company.local | 182.168.1.57 | IaaS Web Server
+iaas-man-srv02.company.local | 182.168.1.58 | IaaS Web Server
 
-Certificate
-CommonName: iaas-man.company.local 
-SAN:        iaas-man-srv01.company.local, iaas-man-srv02.company.local
+**Certificate**
+* CommonName: iaas-man.company.local 
+* SAN:
+  * iaas-web.company.local 
+  * iaas-man-srv01.company.local
+  * iaas-man-srv02.company.local
 
 When multiple IaaS managers are deployed, only one can be active. On any non-active IaaS Manager servers, the VMware <SERVICE> service should be disabled. If a failover occurs, then you must manually start the service.
 
@@ -76,14 +86,19 @@ HA required | 2 IaaS Managers
 
 The IaaS web service can be installed on multiple servers. In vRA 7.2 this is an active / active configuration. DNS, Load Balancer and Certificate configurations need to be made to implement. 
 
-DNS                     Target
-iaas-web.company.local       Load Balancer VIP
-iaas-web-srv01.company.local vRA appliance
-iaas-web-srv02.company.local vRA appliance
+**DNS**
+|DNS| Target | Purpose |
+|---|--------|---------|
+iaas-web.company.local | 192.168.1.56 | IaaS Web Load Balancer VIP
+iaas-web-srv01.company.local | 182.168.1.57 | IaaS Web Server
+iaas-web-srv02.company.local| 182.168.1.58 | IaaS Web Server
 
-Certificate
-CommonName: iaas-web.company.local 
-SAN:        iaas-web-srv01.company.local, iaas-web-srv02.company.local
+**Certificate**
+* CommonName: iaas-web.company.local 
+* SAN:
+  * iaas-web.company.local 
+  * iaas-web-srv01.company.local
+  * iaas-web-srv02.company.local
 
 Availability is quite simple for the web service, deploying more web servers increases failures to tollerate. Failover is automatic due to the active / active nature of the service.
 
