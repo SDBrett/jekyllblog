@@ -8,3 +8,4 @@ build-and-push.sh
 _drafts
 node_modules
 .vscode
+assets/analytics.js
