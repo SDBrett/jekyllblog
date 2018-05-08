@@ -4,10 +4,11 @@ description: First look at the Python SDK for USC Manager
 author: Brett Johnson
 layout: post
 categories:
-  - UCS
+  - UCSMSDK
 tags: 
   - Python
   - Cisco
+  - UCS
 ---
 
 Cisco UCSMSDK Intro
