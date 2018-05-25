@@ -59,14 +59,8 @@ gulp.task('optimize-images', function () {
 		.pipe(gulp.dest('_site'));
 });
 
-gulp.task('fetch-newest-analytics', function() {
-	return download('https://www.google-analytics.com/analytics.js')
-    	.pipe(gulp.dest('assets/'));
-});
-
 gulp.task('dry-run', function(callback) {
 	runSequence(
-		'fetch-newest-analytics',
 		'jekyll',
 		'minify-html',
 		'minify-js',
@@ -76,7 +70,6 @@ gulp.task('dry-run', function(callback) {
 
 gulp.task('deploy', function(callback) {
 	runSequence(
-		'fetch-newest-analytics',
 		'jekyll',
 		'minify-html',
 		'minify-js',
