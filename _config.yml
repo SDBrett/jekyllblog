@@ -36,6 +36,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+    image: /assets/images/sdbrett-logo.svg
 
 # Plugins
 plugins:
