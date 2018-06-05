@@ -12,7 +12,7 @@
 		  {% include inline.scss %}
 		{% endcapture %}
 		{{ include_to_scssify | scssify }}
-		</style>
+	</style>
 
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
@@ -34,7 +34,7 @@
 	<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
 	{% else %}
 	<meta name="twitter:card"  content="summary">
-	<meta name="twitter:image" content="{{ site.title_image }}">
+	<meta name="twitter:image" content="{{ site.image }}">
 	{% endif %}
 	<!-- end of Twitter cards -->
 
