@@ -6,9 +6,6 @@ var fs = require('fs');
 var gifsicle = require('imagemin-gifsicle');
 var	gulp = require('gulp');
 var htmlmin = require('gulp-htmlmin');
-var imagemin = require('gulp-imagemin');
-var jpegtran = require('imagemin-jpegtran');
-var pngquant = require('imagemin-pngquant');
 var pump = require('pump');
 var replace = require('gulp-replace');
 var runSequence = require('run-sequence');
@@ -47,16 +44,6 @@ gulp.task('jekyll', function() {
 		.pipe(shell([
 			'jekyll build'
 		]));
-});
-
-gulp.task('optimize-images', function () {
-	return gulp.src(['_site/**/*.jpg', '_site/**/*.jpeg', '_site/**/*.gif', '_site/**/*.png'])
-		.pipe(imagemin({
-			progressive: false,
-			svgoPlugins: [{removeViewBox: false}],
-			use: [pngquant(), jpegtran(), gifsicle()]
-		}))
-		.pipe(gulp.dest('_site'));
 });
 
 gulp.task('dry-run', function(callback) {
