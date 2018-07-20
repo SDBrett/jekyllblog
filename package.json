@@ -1,37 +1,21 @@
 {
-  "name": "emerald",
-  "version": "1.0.0",
-  "description": "Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.",
-  "main": "gulpfile.js",
   "dependencies": {
-    "fs": "0.0.1-security",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^4.1.0",
-    "gulp-clean-css": "^3.9.2",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-cli": "^2.0.1",
     "gulp-download": "0.0.1",
     "gulp-htmlmin": "^4.0.0",
     "gulp-imagemin": "^4.1.0",
-    "gulp-minify": "^2.1.0",
-    "gulp-postcss": "^7.0.1",
-    "gulp-replace": "^0.6.1",
+    "gulp-replace": "^1.0.0",
     "gulp-shell": "^0.6.5",
     "gulp-uglify": "^3.0.0",
     "imagemin-gifsicle": "^5.2.0",
     "imagemin-jpegtran": "^5.0.2",
-    "imagemin-pngquant": "^5.0.1",
-    "jenv": "^0.3.0",
-    "pump": "^2.0.0",
-    "run-sequence": "^2.2.1",
-    "s3-website": "^3.3.0",
-    "update": "^0.7.4"
-  },
-  "devDependencies": {
-    "gulp-s3": "^0.11.0",
-    "gulp-s3-deploy": "^1.0.1"
+    "pump": "^3.0.0",
+    "run-sequence": "^2.2.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT"
+    "gulp": "gulp"
+}
 }

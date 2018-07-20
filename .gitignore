@@ -9,3 +9,5 @@ _drafts
 node_modules
 .vscode
 assets/analytics.js
+package.json
+.gitignore
