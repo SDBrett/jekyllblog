@@ -1,6 +1,6 @@
 ---
 title: Adding vRA Replica Stuck
-description: RabbitMQ causes join cluster process to hang when adding new vRA nodes.
+summary: RabbitMQ causes join cluster process to hang when adding new vRA nodes.
 author: Brett Johnson
 layout: post
 image: /assets/images/sdbrett-logo.svg
