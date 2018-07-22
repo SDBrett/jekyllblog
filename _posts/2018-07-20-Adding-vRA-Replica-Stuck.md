@@ -26,7 +26,7 @@ DIAGNOSTICS
 
 attempted to contact: ['rabbit@vra03']
 
-rabbit@ip-10-200-1-100.eu-west-1.compute.internal:
+rabbit@rabbit@vra03
   * connected to epmd (port 4379) on vra03
   * epmd reports node 'rabbit' running on port 25682
   * TCP connection succeeded but Erlang distribution failed
