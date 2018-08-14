@@ -12,13 +12,6 @@ var runSequence = require('run-sequence');
 var	shell = require('gulp-shell');
 var uglify = require('gulp-uglify');
 
-gulp.task('s3-push', function(cb) {
-	exec('s3_website push', function(err, stdout, stderr){
-		console.log(stdout);
-		console.log(stderr);
-	});
-});
-
 gulp.task('minify-html', function() {
     return gulp.src('_site/**/*.html')
 	  .pipe(htmlmin({collapseWhitespace: true, removeComments: true, minifyCSS: true, minifyJS: true}))
@@ -60,7 +53,6 @@ gulp.task('deploy', function(callback) {
 		'jekyll',
 		'minify-html',
 		'minify-js',
-		's3-push',
 		callback
 	);
 });
