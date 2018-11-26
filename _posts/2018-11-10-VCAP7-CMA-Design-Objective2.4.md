@@ -14,7 +14,7 @@ Manageability requirements cover monitoring and maintaining a solution from both
 
 Other requirements can impact how the manageability requirements are met as part of the design. To provide HA functionality, redundant components need to be deployed plus load balancing, this increases the complexity of management. 
 
-A management requirement might be to monitor workflows simply. With an HA deployment, this could be met by using a centralised logging platform which all components log to, making it easier to search logs and monitoring workflows start to finish.
+A management requirement might be to monitor workflows. With an HA deployment, this could be met by using a centralised logging platform which all components log to, making it easier to search logs and monitoring workflows start to finish.
 
 Looking at this specifically within the scope of the CMA exam, consider what options are available to monitor the system as someone with an administrative role or a general end user. Remembering that requirements could be to limit the number of alerts or e-mails, not just send or see more.
 
