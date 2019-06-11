@@ -1,5 +1,5 @@
 ---
-title: VCAP7-CMA Objective 1.2
+title: VCAP7-CMA Objective 2.4
 description: Build Manageability Requirements into the Logical Design
 author: Brett Johnson
 layout: post
