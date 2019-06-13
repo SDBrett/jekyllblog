@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About 
-permalink: /about
+permalink: /about/
 ---
 
 The SDBrett blog is the personal blog of Brett Johnson, I started this blog in 2015 to help myself study for the Cisco CCNA R/S certification. I found that I enjoyed the writing process and that it was beneficial for my own development.
