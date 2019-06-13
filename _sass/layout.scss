@@ -194,6 +194,14 @@ img {
       -ms-border-radius: 4px;
           border-radius: 4px;
 }
+img[alt=ProfilePic] {   max-width: 30%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+      -ms-border-radius: 4px;
+          border-radius: 4px; }
 
 img[title="Emerald"] {
     box-shadow: 0 2px 6px #ddd;
