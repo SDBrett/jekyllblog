@@ -6,7 +6,7 @@ $gray-5: #515151 !default;
 $gray-6: #313131 !default;
 
 $red: #ac4142 !default;
-$orange: #d28445 !default;
+$purple: #420D73 !default;
 $yellow: #f4bf75 !default;
 $green: #90a959 !default;
 $cyan: #75b5aa !default;
@@ -20,8 +20,12 @@ $root-line-height: 1.5 !default;
 $body-color: $gray-5 !default;
 $body-muted: $gray-4 !default;
 $body-bg: #fff !default;
-$link-color: #d89b62 !default;
+$link-color: $purple !default;
 $heading-color: $gray-6 !default;
+
+h1, h2, h3, h4, h5, h6{
+    color: $purple;
+}
 
 $border-color: $gray-2 !default;
 $border-radius: 300px !default;
