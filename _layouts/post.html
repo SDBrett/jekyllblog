@@ -2,7 +2,12 @@
 layout: default
 ---
 <article id="post-page">
-	<h2>{{ page.title }}</h2>		
+	<h2>{{ page.title }}</h2>
+
+	{% if page.k8s-version %}
+	<div class="by-line"> Based on Kubernetes {{page.k8s-version}} </div>
+	{% endif %}
+
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
 

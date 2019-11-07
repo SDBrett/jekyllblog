@@ -6,6 +6,7 @@ categories:
   - Kubernetes
 tags: 
   - Kubernetes
+k8s-version: v1.15.x
 ---
 
 ![Kubernetes Logo](/assets/images/Kubernetes_logo.svg)
