@@ -1,13 +1,6 @@
-var autoprefixer = require('gulp-autoprefixer');
-var cleanCSS = require('gulp-clean-css');
-var download = require('gulp-download');
-var exec = require('child_process').exec;
-var fs = require('fs');
-var gifsicle = require('imagemin-gifsicle');
 var	gulp = require('gulp');
 var htmlmin = require('gulp-htmlmin');
 var pump = require('pump');
-var replace = require('gulp-replace');
 var runSequence = require('run-sequence');
 var	shell = require('gulp-shell');
 var uglify = require('gulp-uglify');
@@ -17,10 +10,6 @@ gulp.task('minify-html', function() {
 	  .pipe(htmlmin({collapseWhitespace: true, removeComments: true, minifyCSS: true, minifyJS: true}))
 	  .pipe(gulp.dest('_site'));
   });
-
-var gulp = require('gulp');
-var uglify = require('gulp-uglify');
-var pump = require('pump');
 
 gulp.task('minify-js', function () {
   pump([
@@ -39,16 +28,7 @@ gulp.task('jekyll', function() {
 		]));
 });
 
-gulp.task('dry-run', function(callback) {
-	runSequence(
-		'jekyll',
-		'minify-html',
-		'minify-js',
-		callback
-	);
-});
-
-gulp.task('deploy', function(callback) {
+gulp.task('build', function(callback) {
 	runSequence(
 		'jekyll',
 		'minify-html',
