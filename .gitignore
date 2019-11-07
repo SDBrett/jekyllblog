@@ -11,3 +11,4 @@ node_modules
 assets/analytics.js
 package.json
 .gitignore
+.jekyll-cache
