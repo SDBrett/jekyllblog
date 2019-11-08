@@ -22,15 +22,15 @@ tags:
 
 Before we discuss Admin Count, a little background is needed. AD contains an object called AdminSDHolder. Its purpose is to protect objects. Specifically, objects which are members of administrative groups.
 
-AD objects have an attribute called &#8220;Admin Count&#8221;. The default value is <not set> for most objects. Changing the value to &#8220;1&#8221;, flags the account as protected by AdminSDHolder.
+AD objects have an attribute called "Admin Count&#8221;. The default value is <not set> for most objects. Changing the value to "1&#8221;, flags the account as protected by AdminSDHolder.
 
-By adding a user to an administrative AD group. You change the value to &#8220;1&#8221;. As a result, the user object is subject to stricter ACLs. Such as, disabled permission inheritance. Furthermore, many admins are not aware of this.
+By adding a user to an administrative AD group. You change the value to "1&#8221;. As a result, the user object is subject to stricter ACLs. Such as, disabled permission inheritance. Furthermore, many admins are not aware of this.
 
 Prevention is the best medicine, or so they say. If you are unaware of these conditions and attributes. Please read this [article](https://technet.microsoft.com/en-us/library/2009.09.sdadminholder.aspx).
 
 #### Finding Affected Accounts
 
-We have noticed that accounts cannot be managed by the Help Desk. We discover that Admin Count is &#8220;1&#8221;. As a result, we need to find all affected accounts.
+We have noticed that accounts cannot be managed by the Help Desk. We discover that Admin Count is "1&#8221;. As a result, we need to find all affected accounts.
 
 Below is a script which will change for user objects affected. First of all, this script will not make changes. This is has been separated by design.
 
@@ -82,7 +82,7 @@ ForEach($user in $users)
 
     if ($sec.get_AreAccessRulesProtected())
     {
-		#Changes AdminCount back to &lt;not set&gt;
+		#Changes AdminCount back to not set
         Get-ADuser $user.DistinguishedName -Properties "admincount" | Set-ADUser -Remove $replaceAttributeHashTable  -Server $domainPdc
         #Change security and commit
 		$sec.SetAccessRuleProtection($isProtected, $preserveInheritance)

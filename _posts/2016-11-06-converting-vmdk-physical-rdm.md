@@ -47,7 +47,7 @@ Physical
 
 {% highlight text %}vmkfstools –i srcfile -d rdmd:/vmfs/devices/disks/identifier /vmfs/volumes/datastore/vmdir/vmname.vmdk{% endhighlight %}
 
-The difference in the commands is that Virtual uses &#8220;rdm&#8221; and physical uses &#8220;rdmp&#8221;.
+The difference in the commands is that Virtual uses "rdm&#8221; and physical uses "rdmp&#8221;.
 
 However, using rdmp gave the error above. After a good period of time and\ oOn the brink of a bottle-o run, I looked into converting virtual RDM to physical RDM, as well as digging more around RDM in general. Maybe I could convert VMDK > Virtual RDM, then Virtual RDM > Physical RDM.
 

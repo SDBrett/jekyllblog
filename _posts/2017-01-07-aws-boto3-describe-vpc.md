@@ -44,7 +44,7 @@ client = boto3.client('ec2')
 
 #### Retrieving VPCs
 
-Filters are used to scope our results. These filters are based on tags. Such as, Name, VPCID etc. You can use multiple entries for the value or a wildcard &#8220;*&#8221;.
+Filters are used to scope our results. These filters are based on tags. Such as, Name, VPCID etc. You can use multiple entries for the value or a wildcard "*&#8221;.
 
 {% highlight python %}
 filters = [{'Name':'tag:Name', 'Values':['VPN*']}]

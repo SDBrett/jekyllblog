@@ -14,7 +14,7 @@ It's hard to work in the IT industry and not hear about automation on practicall
 
 ![Wrong]({{ "/assets/images/2016/03/wrong-logo.jpg" | absolute_url }})
 
-Over the last 12 months or so I have been making a very conscious effort to expand my personal network in the industry primarily for knowledge transfer as well has having people that I can have technical chats with over a (ok a few) beers. Looking back I realise that a lot of the conversations have had the topic of automation and when this happens I would think to myself &#8220;Wow I'd like to be able to do that&#8221;.
+Over the last 12 months or so I have been making a very conscious effort to expand my personal network in the industry primarily for knowledge transfer as well has having people that I can have technical chats with over a (ok a few) beers. Looking back I realise that a lot of the conversations have had the topic of automation and when this happens I would think to myself "Wow I'd like to be able to do that&#8221;.
 
 One of my first eye openers to how wrong I was happened during the <a href="https://twitter.com/mvmug" target="_blank">MVMUG</a> UserCon during which I had the pleasure of talking to <a href="https://twitter.com/scott_lowe" target="_blank">Scott Lowe</a>. Scott made a few great points, the biggest one was to use automation tools to ensure consistency, instead of just to do the same thing many times. I'll be honest I have heard similar things said, but it finally clicked and I started to think of automation differently. Another person that has helped me begin to look at this subject is <a href="https://twitter.com/daunce_" target="_blank">Andrew Daunce</a>, over a few discussions he has really helped open my eyes to how important this will be to staying relevant.
 

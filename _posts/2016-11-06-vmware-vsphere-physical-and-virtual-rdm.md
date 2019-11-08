@@ -41,7 +41,7 @@ The path for a naa is /vmfs/devices/disks/naa.aaaaaaaabbbbbbbbbbbbccdddddddddd. 
 
 #### Attaching to a VM
 
-To add an RDM to a VM, we go to Edit Settings > New RDM Disk > Add. Here we select the naa found before. During the creation process, we are asked to select the storage location, &#8220;With VM&#8221; or &#8220;Another Datastore&#8221;. The reason for this will be covered in a bit.
+To add an RDM to a VM, we go to Edit Settings > New RDM Disk > Add. Here we select the naa found before. During the creation process, we are asked to select the storage location, "With VM&#8221; or "Another Datastore&#8221;. The reason for this will be covered in a bit.
 
 To take a step back for explanation purposes. When you have a new SDD for you a PC, it is blank, no filesystem, just a control board and NAND. This is the LUN after it';s been created on the SAN. There';s a controller, but no partition, no filesystem. The SSD is connected to your computer and you boot. That is where the above paragraph puts you.
 
@@ -112,7 +112,7 @@ ddb.longContentID = ""
 ddb.uuid = "6uuid"
 ddb.virtualHWVersion = "11"{% endhighlight %}
 
-There are a few slight differences, the main one of interest though is the &#8220;createType&#8221;. On the Virtual RDM, it is &#8220;vmfsRawDeviceMap&#8221; on Physical it';s &#8220;vmfsPassthroughRawDeviceMap&#8221;. Also, there is no change tracking file for a Physical RDM.
+There are a few slight differences, the main one of interest though is the "createType&#8221;. On the Virtual RDM, it is "vmfsRawDeviceMap&#8221; on Physical it';s "vmfsPassthroughRawDeviceMap&#8221;. Also, there is no change tracking file for a Physical RDM.
 
 The extent description is a used to describe the size of the drive being presented. If you check the Datastore it will be the same size. If you SSH to the host and run
 

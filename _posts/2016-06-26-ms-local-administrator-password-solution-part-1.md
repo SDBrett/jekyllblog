@@ -49,7 +49,7 @@ Launch ADSIedit.msc and connect to the Default Naming Context
 
 [![ADSI Edit](/assets/images/2016/06/ADSIedit-Connecto.png)]({{site.url}}/assets/images/2016/06/ADSIedit-Connecto.png)
 
-Find the OU which contains computers that are going to have their passwords set using LAPS. Right click > Properties > Security > Advanced. For each non-administrative group, edit the permissions and make sure &#8220;All Extended Rights&#8221; is unchecked.
+Find the OU which contains computers that are going to have their passwords set using LAPS. Right click > Properties > Security > Advanced. For each non-administrative group, edit the permissions and make sure "All Extended Rights&#8221; is unchecked.
 
 [![Group Rights](/assets/images/2016/06/GroupRights.png)]({{site.url}}/assets/images/2016/06/GroupRights.png)
 

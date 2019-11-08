@@ -16,7 +16,7 @@ tags:
   - skills
 ---
 
-<a href="https://twitter.com/discoposse" rel="”nofollow”">Eric Wright</a> made a blog post titled: <a href="https://turbonomic.com/blog/on-technology/the-top-3-skills-every-it-person-needs/" data-cke-saved-href="https://turbonomic.com/blog/on-technology/the-top-3-skills-every-it-person-needs/">he Top 3 Skills Every IT Person Needs</a>&#8220;. It';s an excellent article, focusing on technical skills. Skills you should be learning about to stay relevant. Eric made a number of points that I';ve taken on board.
+<a href="https://twitter.com/discoposse" rel="”nofollow”">Eric Wright</a> made a blog post titled: <a href="https://turbonomic.com/blog/on-technology/the-top-3-skills-every-it-person-needs/" data-cke-saved-href="https://turbonomic.com/blog/on-technology/the-top-3-skills-every-it-person-needs/">he Top 3 Skills Every IT Person Needs</a>". It';s an excellent article, focusing on technical skills. Skills you should be learning about to stay relevant. Eric made a number of points that I';ve taken on board.
 
 Eric';s post is the source of inspiration for this one. In the same spirit, I would like to address communication skills, rather than technical.
 
@@ -34,7 +34,7 @@ As you improve your writing skills, you';ll notice changes in your writing proce
 
 Talking in front of a crowd is intimidating. Even seasoned speakers get nervous. It can become enjoyable with time.
 
-Taking the time to get familiar with the presentation has a big impact. As you want to limit the &#8220;umms&#8221; and &#8220;ahhs&#8221;. This also allows you to build a flow and feel more relaxed. Appearing relaxed and confident improves the way your presentation is received.
+Taking the time to get familiar with the presentation has a big impact. As you want to limit the "umms&#8221; and "ahhs&#8221;. This also allows you to build a flow and feel more relaxed. Appearing relaxed and confident improves the way your presentation is received.
 
 In a similar fashion to writing, you need to understand different presentations. Deep technical and executive summaries are different from each other. Understanding the audience and targeting your message. Also, the delivery of that method.
 
@@ -50,7 +50,7 @@ You have found a technology that excites you, or perhaps a method that makes thi
 
 Hopefully, you have now tuned back in.
 
-Speaking as an engineer, we have many great and new ideas. We often find opposition to these ideas. A common one is &#8220;We have always done it this way. I don';t see a reason to change&#8221;. Being able to work past an objection is a sales skill. If you';ve done scripting, think of exception handling.
+Speaking as an engineer, we have many great and new ideas. We often find opposition to these ideas. A common one is "We have always done it this way. I don';t see a reason to change&#8221;. Being able to work past an objection is a sales skill. If you';ve done scripting, think of exception handling.
 
 We may need to build excitement or appeal to emotion over logic. Sometimes you need to tell a story to achieve the desired outcome. These are all things, that can be learnt through sales.
 

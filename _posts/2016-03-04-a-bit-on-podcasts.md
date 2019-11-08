@@ -15,12 +15,12 @@ The app I use for my podcasts is <a href="https://itunes.apple.com/au/app/icatch
 At the start I went through a number of different podcasts to find the ones I like. I started to find that there were simple things that just made some unlistenable. The major things I find that kills a podcast are:
 
   * Sound Quality, I have no intention of sitting through 30 + minutes of crackle, static and dropouts.
-  * Too many ads, a few of the podcasts I listen to are sponsored. This is a non-issue, state who the sponsor is at the start of the show and at the start of the sponsored section state again. Don';t try to get my attention by using shit like &#8220;I have some breaking news&#8230;&#8221; No you don';t, really.
+  * Too many ads, a few of the podcasts I listen to are sponsored. This is a non-issue, state who the sponsor is at the start of the show and at the start of the sponsored section state again. Don';t try to get my attention by using shit like "I have some breaking news&#8230;&#8221; No you don';t, really.
   * Bias, even if the product being discussed might be from a show sponsor, still ask the harder questions about it, don';t turn in it an infomercial. Also break out the SCUBA gear and dive deep.
 
 To the advertisers, a small sponsoring slot on a podcast over a period of time does work. From listening to podcasts I can tell you the name of a number of new SDN vendors off the top of my head. Keep the message simple, let the hosts be critical and technical it builds credibility to yourself and the show itself.
 
-I';m a big fan of the way Packet Pushers and Risky Business do their ads. At the start of the show &#8220;Welcome to X, todays show is brought to you by Y, they bring Z to your network&#8221; and later on in the show, time for our sponsored interview. Or if the show is all about that vendor, clearly state if it';s a sponsored show.  If it';s a new company name, that';s usually enough to get people to have a look.
+I';m a big fan of the way Packet Pushers and Risky Business do their ads. At the start of the show "Welcome to X, todays show is brought to you by Y, they bring Z to your network&#8221; and later on in the show, time for our sponsored interview. Or if the show is all about that vendor, clearly state if it';s a sponsored show.  If it';s a new company name, that';s usually enough to get people to have a look.
 
 Now for the list of the podcasts in my standard rotation.
 

@@ -26,7 +26,7 @@ I would love to see Interop provide a whiteboarding space, where we can take co
 
 Eric Wright organised a 5KM run on Tuesday and Wednesday for those of us who manage to wake up early enough. This year was the first time that vFit was on the official adenda and it proved to be a popular attraction.
 
-vFit started in the lobby of the MGM Grand; runners made their way to the &#8220;Welcome to Fabulous Las Vegas&#8221; sign and back. With a large number of runners there were some logistical issues. The event is open to runners of all fitness levels and there wasn';t presure to be competive.
+vFit started in the lobby of the MGM Grand; runners made their way to the "Welcome to Fabulous Las Vegas&#8221; sign and back. With a large number of runners there were some logistical issues. The event is open to runners of all fitness levels and there wasn';t presure to be competive.
 
 #### Parties
 

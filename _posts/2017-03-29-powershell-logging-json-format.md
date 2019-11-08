@@ -65,7 +65,7 @@ Function Write-Verbose-Log
 
 My most recent use for the function, was working with AD groups. As a result I wanted to use the group name as the top level key name. Being the key value, it is a mandatory parameter.
 
-Values which are &#8220;Null&#8221; will write the string &#8220;&#8221; to the log file.
+Values which are "Null&#8221; will write the string "&#8221; to the log file.
 
 The function and it';s parameters can be modified easily, making it applicable.
 

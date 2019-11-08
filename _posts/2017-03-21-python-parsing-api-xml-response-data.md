@@ -24,14 +24,14 @@ You will need two modules. Requests and ElementTree. Links to the documentation 
 
 To practice with this, we need XML formatted text. Below is a copy of the response I have been testing against. I performed a GET to retrieve the users.
 
-{% highlight xml %}&lt;TopologyElements&gt;
-	&lt;TopologyElement creationClassName="User" displayName="testuser" isScoped="false" loginProvider="Local" name="testuser" userType="DedicatedCustomer" uuid="_iXQoYAaeEeeT5YCo6TtTyA"&gt;
-		&lt;TopologyRelationship childrenUuids="_4T_7lQY-Ed-WUKbEYSVIDw" name="role"/&gt;
-	&lt;/TopologyElement&gt;
-	&lt;TopologyElement creationClassName="User" displayName="Administrator User" isScoped="false" loginProvider="Local" name="administrator" userType="DedicatedCustomer" uuid="_4T_7kwY-Ed-WUKbEYSVIDw"&gt;
-		&lt;TopologyRelationship childrenUuids="_4UAioQY-Ed-WUKbEYSVIDw" name="role"/&gt;
-	&lt;/TopologyElement&gt;
-&lt;/TopologyElements&gt;{% endhighlight %}
+{% highlight xml %}TopologyElements
+	TopologyElement creationClassName="User" displayName="testuser" isScoped="false" loginProvider="Local" name="testuser" userType="DedicatedCustomer" uuid="_iXQoYAaeEeeT5YCo6TtTyA"
+		TopologyRelationship childrenUuids="_4T_7lQY-Ed-WUKbEYSVIDw" name="role"/
+	/TopologyElement
+	TopologyElement creationClassName="User" displayName="Administrator User" isScoped="false" loginProvider="Local" name="administrator" userType="DedicatedCustomer" uuid="_4T_7kwY-Ed-WUKbEYSVIDw"
+		TopologyRelationship childrenUuids="_4UAioQY-Ed-WUKbEYSVIDw" name="role"/
+	/TopologyElement
+/TopologyElements{% endhighlight %}
 
 For these examples, the content isn';t a concern. We will be looking at process.
 
@@ -45,7 +45,7 @@ The specifics of the API call will change depending on the system you';re access
 We have some data in a variable. It';s in XML format. Which means looking at the content object isn';t that helpful.
 
 {% highlight python %}r.content
-b'&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;&lt;TopologyElements&gt;\n&lt;TopologyElement creationClassName="User" displayName="testuser" isScoped="false" loginProvider="Local" name="testuser" userType="DedicatedCustomer" uuid="_iXQoYAaeEeeT5YCo6TtTyA"&gt;\n&lt;TopologyRelationship childrenUuids="_4T_7lQY-Ed-WUKbEYSVIDw" name="role"/&gt;\n&lt;/TopologyElement&gt;\n&lt;TopologyElement creationClassName="User" displayName="Administrator User" isScoped="false" loginProvider="Local" name="administrator" userType="DedicatedCustomer" uuid="_4T_7kwY-Ed-WUKbEYSVIDw"&gt;\n&lt;TopologyRelationship childrenUuids="_4UAioQY-Ed-WUKbEYSVIDw" name="role"/&gt;\n&lt;/TopologyElement&gt;\n&lt;/TopologyElements&gt;\n'
+b'?xml version="1.0" encoding="ISO-8859-1"?TopologyElements\nTopologyElement creationClassName="User" displayName="testuser" isScoped="false" loginProvider="Local" name="testuser" userType="DedicatedCustomer" uuid="_iXQoYAaeEeeT5YCo6TtTyA"\nTopologyRelationship childrenUuids="_4T_7lQY-Ed-WUKbEYSVIDw" name="role"/\n/TopologyElement\nTopologyElement creationClassName="User" displayName="Administrator User" isScoped="false" loginProvider="Local" name="administrator" userType="DedicatedCustomer" uuid="_4T_7kwY-Ed-WUKbEYSVIDw"\nTopologyRelationship childrenUuids="_4UAioQY-Ed-WUKbEYSVIDw" name="role"/\n/TopologyElement\n/TopologyElements\n'
 {% endhighlight %}
 
 These is were the module ElementTree comes in. Using ElementTree, we parse the data into a variable. This will use the root of the structure. Essentially, we create a dictionary.

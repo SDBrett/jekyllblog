@@ -10,7 +10,7 @@ categories:
 tags:
   - Vmware
 ---
-Whenever evaluating a product / technology, the question of &#8220;What problem does this solve?&#8221; should always be asked. Many times. This is how we understand the value and justify the expense, which can be very substantial. With that in mind, lets jump into some NSX Use Cases.
+Whenever evaluating a product / technology, the question of "What problem does this solve?&#8221; should always be asked. Many times. This is how we understand the value and justify the expense, which can be very substantial. With that in mind, lets jump into some NSX Use Cases.
 
 ##### Security
 NSX has a lot of features and capabilities, but security is probably the biggest draw card, especially micro-segmentation. In a traditional network, it’s very difficult and cumbersome to segregate workloads on the same L2 domain. This difficulty often means once the edge is breached, moving laterally isn’t a difficult and alerts are triggered. The ability to separate workloads on the same L2 domain and thus apply policy is called _Micro-Segmentation_. It’s difficult to have a conversation with someone about SDN and not have micro-segmentation come up.

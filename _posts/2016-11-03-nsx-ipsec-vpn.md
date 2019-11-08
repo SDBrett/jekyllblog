@@ -74,7 +74,7 @@ Now it';s just a matter of configuring the IPSec VPN connections on both ESG';s
 
 Firewall rules are automatically created for the VPN at each site.
 
-IPsec tunnel status can be confirmed by clicking &#8220;Show IPsec Statistics&#8221;
+IPsec tunnel status can be confirmed by clicking "Show IPsec Statistics&#8221;
 
 [![Show IP](/assets/images/2016/11/Show-IP.png)]({{site.url}}/assets/images/2016/11/Show-IP.png)
 

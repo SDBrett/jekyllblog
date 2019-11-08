@@ -50,7 +50,7 @@ As we are on a Windows system. The command
 
 fails. In order to run the command, we will need to SSH to the VM. The first step is to generate a private key in a usable format.
 
-Using PuttyGen, load the file private_key as per the Vagrant output. Click &#8220;Save Private Key&#8221;.
+Using PuttyGen, load the file private_key as per the Vagrant output. Click "Save Private Key&#8221;.
 
 [![PuttyGen](/assets/images/2016/12/PuttyGen.png)]({{site.url}}/assets/images/2016/12/PuttyGen.png)
 

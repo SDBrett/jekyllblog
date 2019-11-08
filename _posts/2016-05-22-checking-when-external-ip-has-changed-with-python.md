@@ -25,7 +25,7 @@ The script was written for Python3 and requires the following modules:
 
 Before running the script, the file needs to have some values set to work.
 
-The first three are required for emailing to work. For my testing, I didn';t need to auth against the SMTP server, as such this is not in the script. If you require SMTP auth then it will need to be added. _ipstorepath_ is set as a raw string to allow paths such as &#8220;C:\&#8221; without the need for escape characters.
+The first three are required for emailing to work. For my testing, I didn';t need to auth against the SMTP server, as such this is not in the script. If you require SMTP auth then it will need to be added. _ipstorepath_ is set as a raw string to allow paths such as "C:\&#8221; without the need for escape characters.
 
 As a bit of a side note, when using cron, I needed to use a full path in _ipstorepath_, however when running manually, a filename is all that';s needed.
 

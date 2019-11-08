@@ -56,7 +56,7 @@ The omission of any other IF statements or an ELSE statement means if there is n
 {% highlight powershell %}$CleanName = $y.Folders -replace '[+]',''
 $CleanName = $CleanName -replace '[?]',''{% endhighlight %}
 
-The two lines after the IF statement are where we clean the directory name. For this task, I only had to worry about the &#8220;+&#8221; and &#8220;?&#8221; characters.
+The two lines after the IF statement are where we clean the directory name. For this task, I only had to worry about the "+&#8221; and "?&#8221; characters.
 
 IF the directory name contained these, it would remove them. By this I mean, it would replace with nothing.
 
@@ -69,7 +69,7 @@ $dest = $x.Destination + $dest{% endhighlight %}
 
 After we have cleaned the directory name, we now need to remove the root path from the directory. We then attach the new root.
 
-We get the number of characters in the original root directory using the length method. The &#8220;SubString&#8221; method then removes that number of characters from $CleanName.
+We get the number of characters in the original root directory using the length method. The "SubString&#8221; method then removes that number of characters from $CleanName.
 
 This leaves us with a directory path without the root leading. This is $dest. We then combine $dest to the destination from our CSV file.
 
@@ -102,7 +102,7 @@ With Test-Path returning false, our new directory gets created.
 
 ### Out-File and Write-Host
 
-I made use of Out-File to record logs. A log called &#8220;Full.txt&#8221; provide information of the process on paths.
+I made use of Out-File to record logs. A log called "Full.txt&#8221; provide information of the process on paths.
 
 Errors.txt allowed for viewing of any exceptions. This was especially useful to find that I needed test-path.
 

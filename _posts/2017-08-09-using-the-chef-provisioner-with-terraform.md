@@ -62,7 +62,7 @@ provisioner "chef" {
   run_list        = ["role[fileserver]"]
   recreate_client = "${var.chef_provision.["recreate_client"]}"
   on_failure      = "continue"
-  attributes_json = &lt;&lt;-EOF
+  attributes_json = -EOF
   {
     "tags": [
       "fileserver"
@@ -122,7 +122,7 @@ It’s important to note that the computer you run the command _terraform apply_
 
 Initially, I had trouble when deploying Windows EC2 instances on AWS due to the random password set at provisioning. I was unable to place that in the connection string To resolve this, I used the user data functionality of EC2 to set the administrator password at creation time.
 
-The password is stored in the variable &#8220;${var.administrator_pw}&#8221; which is used in the connection argument reference and within the template used to render the user data file. Together, the administrator password can be set when the instance is provisioned and used for the connection.
+The password is stored in the variable "${var.administrator_pw}&#8221; which is used in the connection argument reference and within the template used to render the user data file. Together, the administrator password can be set when the instance is provisioned and used for the connection.
 
 To perform the above-mentioned steps in a secure manner, you should have a look at password storage options such as Vault, where you can encrypt the password but retrieve and place into the workflow at runtime.
 

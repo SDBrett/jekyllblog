@@ -13,7 +13,7 @@ tags:
   - health
   - work life balance
 ---
-There&#8217;s an old saying &#8220;Heathy body, healthy mind&#8221; and it&#8217;s something I agree with strongly. Being physically active is something I find very helpful for my work and personal life. Due to this, I would like to deviate from the technical side of things and write a post about lifestyle.
+There&#8217;s an old saying "Heathy body, healthy mind&#8221; and it&#8217;s something I agree with strongly. Being physically active is something I find very helpful for my work and personal life. Due to this, I would like to deviate from the technical side of things and write a post about lifestyle.
 
 When I talk about being more physically active, I&#8217;m not explicitly referring to getting fitter or achieving a fitness goal. I am simply talking about moving more, finding times during the day to move a bit.
 

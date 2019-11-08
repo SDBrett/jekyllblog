@@ -16,7 +16,7 @@ A few days ago, I spun up Turbonomic on my home lab and have had a bit of a loo
 
 Installing Turbonomic is about as easy and straight forward as you can get. Download the OVA from Turbonomics website and deploy. After deployment log on to the console and configure the IP addressing. Done, time for a beer.
 
-All work is done through the web UI which is functional, but not that pretty. There are a number of dashboards, and you can build your own as well. Below is an image of the default Dashboard &#8220;Assure Service Performance&#8221;
+All work is done through the web UI which is functional, but not that pretty. There are a number of dashboards, and you can build your own as well. Below is an image of the default Dashboard "Assure Service Performance&#8221;
 
 [![Dashboard](/assets/images/2016/10/Dashboard.png)]({{site.url}}/assets/images/2016/10/Dashboard.png)
 
@@ -26,7 +26,7 @@ When looking through the inventory of my vCenter server, there are numerous abou
 
 The UI is quite responsive and considering my home lab build that is saying something. I have 3 ESXi hosts nested in vCenter using the 1 physical SSD to provide storage to all three, which is then configured to run VSAN where all my VM';s run. Getting very quick responses from the UI and no errors or issues has been awesome and I think it could only be better in an environment there the configure makes sense.
 
-Systems that Turbonomic ingests data from are called &#8220;Targets&#8221;. There are many options for Targets and honestly more than I expected. There are options for Hypervisors, PaaS, Databases, Windows Applications, Cloud and event Load Balancers. I am quite impressed by the list of options that I can configure Turbonomic to work with and provide feedback on.
+Systems that Turbonomic ingests data from are called "Targets&#8221;. There are many options for Targets and honestly more than I expected. There are options for Hypervisors, PaaS, Databases, Windows Applications, Cloud and event Load Balancers. I am quite impressed by the list of options that I can configure Turbonomic to work with and provide feedback on.
 
 [![HV Entry](/assets/images/2016/10/HV-entry.png)]({{site.url}}/assets/images/2016/10/HV-entry.png)
 

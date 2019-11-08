@@ -19,9 +19,9 @@ tags:
 
 Boto3 was my first real attempt to work with an API interface. At the start, I had difficulty using the API response. This was partly due to only light exposure to Python. Also, an incorrect understanding of what the response was.
 
-When people talk about APIs, it';s hard to go a minute without hearing &#8220;JSON format';. I had seen JSON formatted text before. Combining this, with documentation displaying API call response in JSON formation, lead to a 2+2=5 scenario. I thought that was the object type returned.
+When people talk about APIs, it';s hard to go a minute without hearing "JSON format';. I had seen JSON formatted text before. Combining this, with documentation displaying API call response in JSON formation, lead to a 2+2=5 scenario. I thought that was the object type returned.
 
-JSON is a text formatting standard. That';s it. It does not describe the object type which is returned. For a high level &#8220;What is JSON&#8221; visit this [page](http://developers.squarespace.com/what-is-json/).
+JSON is a text formatting standard. That';s it. It does not describe the object type which is returned. For a high level "What is JSON&#8221; visit this [page](http://developers.squarespace.com/what-is-json/).
 
 #### API Response Object Types
 
@@ -54,17 +54,17 @@ response={
     }
 }{% endhighlight %}
 
-Dicts are contained within a pair of curly braces. From that, we can see &#8220;InternetGateway&#8221; is a dict. It contains key values. In order to retrieve the internet gateway ID, we would use the following:
+Dicts are contained within a pair of curly braces. From that, we can see "InternetGateway&#8221; is a dict. It contains key values. In order to retrieve the internet gateway ID, we would use the following:
 
 {% highlight python %}response['InternetGateway']['InternetGatewayId']{% endhighlight %}
 
-Retrieving data stored in &#8220;Attachments&#8221; is a bit different. The square brace after &#8220;Attachments&#8221; tells us that we need to parse a list as well. For added fun, the list contains a dict. As the list only contains the one dict, we know our data is in position 0.
+Retrieving data stored in "Attachments&#8221; is a bit different. The square brace after "Attachments&#8221; tells us that we need to parse a list as well. For added fun, the list contains a dict. As the list only contains the one dict, we know our data is in position 0.
 
 To get the state of this internet gateway, we would run:
 
 {% highlight python %}response['InternetGateway']['Attachments'][0]['State']{% endhighlight %}
 
-This will go to the value of the key &#8220;State&#8221; from index 0 of the key &#8220;Attachments&#8221;
+This will go to the value of the key "State&#8221; from index 0 of the key "Attachments&#8221;
 
 As a side note on lists, the index starts at 0, not 1. The first entry will be index 0. Below example image is courtesy of [Carl Niger](https://twitter.com/carl_niger).
 

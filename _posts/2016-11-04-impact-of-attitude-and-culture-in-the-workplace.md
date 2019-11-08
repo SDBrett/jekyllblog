@@ -11,7 +11,7 @@ categories:
   - Career
 ---
 
-A lot people in a recruitment position, comment on the importance of attitude when hiring a new staff member. Usually summed up as &#8220;You can train skills, not attitude&#8221;. This is also a major factor in determining a cultural fit.
+A lot people in a recruitment position, comment on the importance of attitude when hiring a new staff member. Usually summed up as "You can train skills, not attitude&#8221;. This is also a major factor in determining a cultural fit.
 
 Attitude has a major impact on our careers, our motivation and also our health. The tricky part is that it';s not just our attitude that affects these things, it';s also those of who we work for and with.
 
@@ -23,6 +23,6 @@ I work with some ripper networking guys, who have a similar attitude. This is gr
 
 Companies without this positive attitude of sharing and collaboration. Have resulted in knowledge being held back, crappy attitude and disdain for the workplace.
 
-Now the point of this post isn';t to say &#8220;I';ve got a sweet gig&#8221;. The point is to say when looking for a new job, do what you can to assess the attitude of the company seriously. Try to find out if current staff members, blog or have some sort of community involvement. This can help provide insight into who you will be working alongside.
+Now the point of this post isn';t to say "I';ve got a sweet gig&#8221;. The point is to say when looking for a new job, do what you can to assess the attitude of the company seriously. Try to find out if current staff members, blog or have some sort of community involvement. This can help provide insight into who you will be working alongside.
 
 At the start, I touched on health. Thom Greene just did a blog post about health where is just a <a href="http://www.thomgreene.com/blog/2016/11/3/what-would-i-advise-someone-to-avoid-in-their-career" data-cke-saved-href="http://www.thomgreene.com/blog/2016/11/3/what-would-i-advise-someone-to-avoid-in-their-career">click away</a>. If this is something that you care about. Find a company that has a good exercise culture. Group mentality can be an excellent motivator, we are social creatures after all.
