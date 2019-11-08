@@ -208,8 +208,13 @@ img[title="Emerald"] {
   }
 
 code {
-  color: lighten($text-color, 35%);
-  background-color: lighten($background-color, 35%);
+  color: #f5f5f5;
+  //background-color: #620c3a //lighten($background-color, 35%);
+}
+
+.highlighter-rouge {
+  color: #f5f5f5;
+  background-color: #333333;
 }
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */

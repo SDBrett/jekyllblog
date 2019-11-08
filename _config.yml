@@ -28,7 +28,6 @@ google_analytics: UA-77455242-1
 kramdown:
   input: GFM
   syntax_highlighter_opts:
-    css_class: 'highlight'
     span:
       line_numbers: false
     block:

@@ -13,6 +13,19 @@ $cyan: #75b5aa !default;
 $blue: #268bd2 !default;
 $brown: #8f5536 !default;
 
+// Syntax highlighting colours
+$syntax-background: #000000;
+$syntax-literal-string: #82fff0;
+$syntax-literal-number: #d1e472;
+$syntax-constanst: #ff7ed5;
+$syntax-error: #fd7474;
+$syntax-builtin: #6fd7fb;
+$syntax-comments: #65bd4b;
+$syntax-keyword: #d3f9c8;
+$syntax-operator: #d3f9c8;
+$syntax-function: #dfa6ec;
+$syntax-builtin-pseudo: #ff82ff;
+
 $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
 $root-font-size: 1rem !default;
 $root-line-height: 1.5 !default;
@@ -47,7 +60,6 @@ $default-box-shadow: $box-shadow-size
 
 $code-font-family: Menlo, Monaco, "Courier New", monospace !default;
 $code-color: #bf616a !default;
-
 
 $sidebar-bg-color: #202020 !default;
 $sidebar-sticky: true !default;
