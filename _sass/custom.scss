@@ -68,18 +68,34 @@ a svg, .icon svg {
 }
 
 .highlight {
-  > pre {
+  position: relative;
+  pre {
       border: 1px solid #ddd;
-      padding: 0;
+      padding: 1em;
 
       pre {
-          margin: 0;
-          font-size: 12px;
-          line-height: 17px;
-          font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-          border: none;
-          word-wrap: normal;
-      }
+        margin: 0;
+        font-size: 12px;
+        line-height: 17px;
+        font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        border: none;
+        word-wrap: normal;
+    }
+      code {
+        counter-reset: code;
+        display: block;
+        line-height: 1.5;
+        /* Display language name */
+        &[data-lang]::before {
+            content: attr(data-lang);
+            position: absolute;
+            right: 3px;
+            top: -2px;
+            min-width: 40px;
+            text-align: center;
+            color: white;
+        }
+    }
   }
   td.gutter {
       min-width: 40px;
