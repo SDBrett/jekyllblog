@@ -24,7 +24,7 @@ gulp.task('minify-js', function () {
 gulp.task('jekyll', function() {
 	return gulp.src('index.html', { read: false })
 		.pipe(shell([
-			'jekyll build'
+			'bundle exec jekyll build'
 		]));
 });
 
