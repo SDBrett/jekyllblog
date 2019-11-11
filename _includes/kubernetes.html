@@ -1,0 +1,7 @@
+{% assign sorted-posts = site.posts | where: "categories","Kubernetes" %}
+{% for post in sorted-posts %}
+<li>
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} </a>
+    <ul><li>Based on Kubernetes: {{ post.k8s-version }}</li></ul>
+</li>
+{% endfor %}
