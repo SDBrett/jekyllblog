@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Kubernetes
+title: Kubernetes Related Posts
 ---
-
-# Kubernetes Related Posts
-
-<br>
 
 {% include kubernetes.html %}
 
