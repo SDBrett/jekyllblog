@@ -23,8 +23,6 @@ permalink: BrettsITBlog/:year/:month/:title/
 paginate: 15
 paginate_path: /page:num/
 
-google_analytics: UA-77455242-1
-
 kramdown:
   input: GFM
   syntax_highlighter_opts:
