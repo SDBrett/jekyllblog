@@ -115,3 +115,24 @@ a svg, .icon svg {
   color: $link-color !important;
   font-weight: normal !important;
 }
+
+.rounded-circle {
+  border-radius: 50% !important;
+  width: 120px;
+  height: 120px;
+}
+
+.media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.thumbnail-grid .thumbnail-item img {
+  width: 120px;
+  height: 120px;
+}
