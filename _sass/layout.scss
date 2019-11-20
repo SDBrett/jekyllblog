@@ -260,7 +260,9 @@ code {
 /* Footer */
 
 footer {
-  background-color: $main-color;
+  /* background-color: $main-color; */
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(57,0,84,1) 58%, rgba(123,0,186,1) 100%);
   color: $background-color;
   text-align: center;
   padding: 0.6667em 0;
