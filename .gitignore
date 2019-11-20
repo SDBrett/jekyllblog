@@ -12,3 +12,4 @@ assets/analytics.js
 package.json
 .gitignore
 .jekyll-cache
+.o11n
