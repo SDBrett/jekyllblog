@@ -18,5 +18,3 @@ You can find additional writing from me at:
 You can find me at:
 - [Twitter](https://twitter.com/BrettJohnson008)
 - [GitHub](https://github.com/SDBrett)
-
-![ProfilePic](/assets/images/profile.JPG)
