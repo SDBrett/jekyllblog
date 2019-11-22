@@ -5,7 +5,10 @@
 
 {% assign sorted-posts = site.posts | where: "categories","Kubernetes" %}
 {% for post in sorted-posts %}
+
+{% assign software = post.versions | where: "software", "Kubernetes" | first %}
+
 <li>
-  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} </a> - Based on Kubernetes: {{ post.k8s-version }}
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} </a> - Based on Kubernetes: {{ software.versions | join: ", "  }}
 </li>
 {% endfor %}

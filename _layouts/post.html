@@ -5,12 +5,12 @@ layout: default
 	<center><h2>{{ page.title }}</h2></center>
 
 	{% if page.versions %}
-		
 		<div class="by-line">
 		Based on:
 		
 		{% for item in page.versions %}
-			<li> {{ item }} </li>
+			{% assign softwareVersion = item.versions | join: ", " %}
+			<li> {{ item.software | append: ": " | append:  softwareVersion }}  </li>
 		{% endfor %}
 		</div>
 	{% endif %}

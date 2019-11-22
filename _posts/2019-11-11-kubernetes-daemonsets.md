@@ -7,7 +7,9 @@ categories:
 tags: 
   - Kubernetes
 versions:
-  - Kubernetes v1.15.x
+  - software: Kubernetes 
+    versions:
+    - v1.15.x
 ---
 
 A DaemonSet is an object which ensures that there is a copy of a pod running on each node. This type of object is commonly used to deploy pods which provide a management service, such as log collection daemons or monitoring daemons to provide data to a solution such as Prometheus.

@@ -6,7 +6,10 @@ categories:
   - Kubernetes
 tags: 
   - Kubernetes
-k8s-version: v1.15.x
+versions:
+  - software: Kubernetes 
+    versions:
+    - v1.15.x
 ---
 
 Labels are a key/value formatted peice of metadata attached to an object within Kubernetes. Labels provide additional information about the object with relevance to the consumer or object. For example, a label can specify hardware characteristics of a node or if a workload is for testing of production.

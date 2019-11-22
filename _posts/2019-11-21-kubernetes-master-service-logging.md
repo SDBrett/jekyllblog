@@ -6,9 +6,15 @@ categories:
   - Kubernetes
 tags: 
   - Kubernetes
-versions: 
-  - Kubernetes v1.16.x
-  - Kubeadm v1.16.x
+versions:
+  - software: Kubernetes 
+    versions:
+    - v1.15.x
+    - v1.16.x
+  - software: Kubeadm 
+    versions:
+    - v1.15.x
+    - v1.16.x
 ---
 
 I noticed that none of the Kubernetes services are writing logs to `/var/log/` on the master nodes. I built my lab with kubeadm and a reasonably basic configuration file, just the settings needed to make it work.
