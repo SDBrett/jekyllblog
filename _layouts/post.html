@@ -16,9 +16,10 @@ layout: default
 	{% endif %}
 
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	</br>
 	<div class="content">
 
 		{{ content }}
-		
+	</br>
 	</div>
 </article>
