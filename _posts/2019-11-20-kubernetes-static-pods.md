@@ -10,7 +10,7 @@ versions:
   - software: Kubernetes 
     versions:
     - v1.15.x
-image: /assets/images/Kubernetes_logo.svgs
+image: /assets/images/Kubernetes_logo.svg
 ---
 
 Static pods are like regular pods, except they are managed by the `kubelet` service on a node and not the API server. The `kubelet` creates a `mirror pod` on the API server, which is a read-only copy that allows the pod to be seen on the API server but not controlled.

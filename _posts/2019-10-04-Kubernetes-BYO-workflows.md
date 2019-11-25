@@ -13,8 +13,6 @@ versions:
 image: /assets/images/Kubernetes_logo.svg
 ---
 
-![Kubernetes Logo](/assets/images/Kubernetes_logo.svg)
-
 I've recently started learning Kubernetes, working through the CKA curriculum and performing various administrative tasks. During my study so far, I have found that there are a lot of manual steps involved when looking at an end to end process. Often the process required to achieve an outcome requires the same data to be entered in multiple places, for example, labels and selectors. 
 
 A process which I have found to be overly manual and prone to misconfiguration is user management. Discussions with friends and the community to better understand the process taught me an essential lesson for managing Kubernetes. 
