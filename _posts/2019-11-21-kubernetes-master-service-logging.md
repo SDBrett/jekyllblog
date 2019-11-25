@@ -15,6 +15,7 @@ versions:
     versions:
     - v1.15.x
     - v1.16.x
+image: /assets/images/Kubernetes_logo.svg
 ---
 
 I noticed that none of the Kubernetes services are writing logs to `/var/log/` on the master nodes. I built my lab with kubeadm and a reasonably basic configuration file, just the settings needed to make it work.

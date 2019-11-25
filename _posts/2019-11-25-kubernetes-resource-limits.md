@@ -11,6 +11,7 @@ versions:
     versions:
     - v1.15.x
     - v1.16.x
+image: /assets/images/Kubernetes_logo.svg
 ---
 
 Container CPU and Memory requests and limits configuration guarantees a minimum amount of resources to a container and sets a maximum consumable amount.

@@ -10,6 +10,7 @@ versions:
   - software: Kubernetes 
     versions:
     - v1.15.x
+image: /assets/images/Kubernetes_logo.svg
 ---
 
 ![Kubernetes Logo](/assets/images/Kubernetes_logo.svg)

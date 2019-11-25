@@ -1,7 +1,11 @@
 
 <center><h1>{{page.title}}</h1></center>
 
-<br>
+<div>
+<img class="page-image" src="/assets/images/Kubernetes_logo.svg" alt="Kubernetes-Logo">
+</div>
+
+</br>
 
 {% assign sorted-posts = site.posts | where: "categories","Kubernetes" %}
 {% for post in sorted-posts %}

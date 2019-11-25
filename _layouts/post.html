@@ -16,9 +16,15 @@ layout: default
 	{% endif %}
 
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	
+	{% if page.image%}
+	<div>
+		<img class="page-image" src="{{page.image}}" alt="page image">
+	</div>
+	{% endif %}
 	</br>
-	<div class="content">
 
+	<div class="content">
 		{{ content }}
 	</br>
 	</div>
