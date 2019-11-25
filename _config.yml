@@ -68,5 +68,7 @@ exclude:
   - package.json
   - gulpconfig.json
   - tmp
-
-  
+  - k8s
+  - build-and-push.sh
+  - build.sh
+    

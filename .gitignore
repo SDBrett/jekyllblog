@@ -13,3 +13,4 @@ package.json
 .gitignore
 .jekyll-cache
 .o11n
+k8s
