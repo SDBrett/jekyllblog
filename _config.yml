@@ -42,11 +42,16 @@ defaults:
       layout: "post"
     image: /assets/images/sdbrett-logo.svg
 
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
+
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-titles-from-headings
 
 # Options
 custom_header: false
